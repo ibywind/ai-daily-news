@@ -10,8 +10,8 @@ const { generateDailyNews, saveData, loadData } = require('./scraper');
 // 路径配置
 const PATHS = {
   data: path.join(__dirname, '../data/daily.json'),
-  output: path.join(__dirname, '../../frontend'),
-  archive: path.join(__dirname, '../../frontend/archive')
+  output: path.join(__dirname, '../../docs'),
+  archive: path.join(__dirname, '../../docs/archive')
 };
 
 // HTML 模板

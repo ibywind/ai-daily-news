@@ -17,7 +17,7 @@ app.use(cors());
 app.use(express.json());
 
 // 静态文件服务
-app.use(express.static(path.join(__dirname, '../frontend')));
+app.use(express.static(path.join(__dirname, '../docs')));
 
 // 数据目录
 const DATA_DIR = path.join(__dirname, 'data');
@@ -108,7 +108,7 @@ app.get('/api/health', (req, res) => {
 
 // 前端路由兜底
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, '../frontend/index.html'));
+  res.sendFile(path.join(__dirname, '../docs/index.html'));
 });
 
 // 启动服务器
