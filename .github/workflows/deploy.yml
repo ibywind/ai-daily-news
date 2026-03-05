@@ -45,7 +45,8 @@ jobs:
         git config --local user.name "GitHub Action"
         git add -A
         git commit -m "📰 Update daily news for $(date +%Y-%m-%d) [skip ci]" || echo "No changes to commit"
-        git push
+        git pull --rebase origin master || echo "No remote changes to pull"
+        git push || git push --force-with-lease
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
