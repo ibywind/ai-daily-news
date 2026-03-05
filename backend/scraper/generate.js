@@ -34,7 +34,7 @@ const TEMPLATE = `<!DOCTYPE html>
           <span class="logo-icon">🚀</span>
           <h1>AI 日报</h1>
         </div>
-        <p class="subtitle">人工智能 · 跨境电商 · 产品创业</p>
+        <p class="subtitle">人工智能 · 跨境电商 · 产品创业 · 区块链 · 生物科技 · 新能源</p>
         <div class="date-box">
           <span class="date-icon">📅</span>
           <span class="date-text">{{date}}</span>
@@ -222,14 +222,14 @@ function updateArchiveIndex() {
 
 // 主函数
 async function main() {
-  console.log('🚀 AI 日报生成器\n');
+  console.log('🚀 AI 日报生成器 v2.0\n');
   
-  const useMock = process.argv.includes('--mock') || process.argv.includes('-m');
+  const useReal = process.argv.includes('--real') || process.argv.includes('-r');
   const archiveFlag = process.argv.includes('--archive') || process.argv.includes('-a');
   
   try {
     // 生成数据
-    const data = await generateDailyNews();
+    const data = await generateDailyNews(useReal);
     
     // 保存 JSON 数据
     saveData(data, PATHS.data);
@@ -251,6 +251,9 @@ async function main() {
     }
     
     console.log('\n🎉 完成！');
+    console.log('\n提示:');
+    console.log('  --real, -r    : 启用真实搜索（需要 API 配置）');
+    console.log('  --archive, -a : 保存历史存档');
     
   } catch (error) {
     console.error('❌ 生成失败:', error.message);
