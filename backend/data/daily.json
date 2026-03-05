@@ -2,7 +2,7 @@
   "date": {
     "date": "2026-03-05",
     "display": "2026年3月5日星期四",
-    "timestamp": "2026-03-05T02:40:27.006Z",
+    "timestamp": "2026-03-05T02:46:17.316Z",
     "year": "2026",
     "month": "03",
     "day": "05"
@@ -283,7 +283,7 @@
       ]
     }
   ],
-  "generatedAt": "2026-03-05T02:40:27.006Z",
+  "generatedAt": "2026-03-05T02:46:17.316Z",
   "version": "2.0.0",
-  "source": "mock"
+  "source": "tavily-api"
 }
