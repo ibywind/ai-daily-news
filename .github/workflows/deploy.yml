@@ -33,13 +33,11 @@ jobs:
     - name: Install Dependencies
       run: npm install
       
-    - name: Generate Daily News
-      run: node backend/scraper/generate.js --archive
+    - name: Generate Daily News with Tavily
+      run: node backend/scraper/generate.js --real --archive
       env:
         NODE_ENV: production
-        # 可选：添加 API 密钥以启用真实数据抓取
-        # KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
-        # TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
         
     - name: Commit and Push
       run: |
@@ -65,7 +63,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
-        path: './frontend'
+        path: './docs'
         
     - name: Deploy to GitHub Pages
       id: deployment

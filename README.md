@@ -1,35 +1,36 @@
 # AI Daily News - 智能日报系统
 
-🚀 每日自动抓取 AI、跨境电商、产品创业领域热点，生成精美日报。
+🚀 每日自动抓取 AI、跨境电商、产品创业、区块链、生物科技、新能源六大领域热点，生成精美日报。
 
 ## 🌐 在线访问
 
-**前端**: `https://[username].github.io/ai-daily-news/`  
-**API**: `https://[username].github.io/ai-daily-news/api/`
+**日报网站**: `https://ibywind.github.io/ai-daily-news/`
 
 ## 📁 项目结构
 
 ```
 ai-daily-news/
-├── backend/              # 后端服务
-│   ├── scraper/         # 数据抓取
-│   ├── api/             # API 路由
-│   └── data/            # 数据存储
-├── frontend/            # 前端网站
-│   ├── index.html
-│   ├── css/
-│   └── js/
-├── .github/workflows/   # 自动部署
-└── scripts/             # 工具脚本
+├── docs/                 # GitHub Pages 部署目录
+│   ├── index.html        # 今日日报
+│   ├── css/style.css     # 样式
+│   ├── js/app.js         # 交互
+│   └── archive/          # 历史存档
+├── backend/
+│   ├── scraper/          # 数据抓取
+│   │   ├── scraper.js    # 核心抓取逻辑
+│   │   └── generate.js   # HTML 生成器
+│   └── utils/
+│       └── tavily-api.js # Tavily API 封装
+└── .github/workflows/    # 自动部署配置
 ```
 
 ## 🛠️ 技术栈
 
-- **后端**: Node.js + Express
-- **前端**: 原生 HTML5 + CSS3 + ES6
-- **数据**: JSON 静态存储
+- **数据抓取**: Tavily Search API
+- **后端**: Node.js
+- **前端**: 静态 HTML/CSS/JS
 - **部署**: GitHub Pages + GitHub Actions
-- **抓取**: Kimi Search API
+- **数据源**: 六大领域实时搜索
 
 ## 🚀 本地开发
 
@@ -37,19 +38,30 @@ ai-daily-news/
 # 安装依赖
 npm install
 
-# 启动开发服务器
-npm run dev
+# 使用 Tavily API 生成本地日报（需要设置 TAVILY_API_KEY）
+export TAVILY_API_KEY=your_key_here
+node backend/scraper/generate.js --real --archive
 
-# 生成日报
-npm run generate
-
-# 构建部署版本
-npm run build
+# 或使用模拟数据
+node backend/scraper/generate.js --archive
 ```
+
+## 🔧 配置说明
+
+### 必需环境变量
+
+| 变量 | 说明 | 获取方式 |
+|------|------|----------|
+| `TAVILY_API_KEY` | Tavily 搜索 API | https://tavily.com |
+
+### GitHub Secrets 配置
+
+在仓库 Settings → Secrets → Actions 中添加：
+- `TAVILY_API_KEY`: 你的 Tavily API Key
 
 ## 📝 更新日志
 
-- **2026-03-05** - 项目初始化，实现基础抓取和展示功能
+- **2026-03-05** - v2.0 发布，六大分类，接入 Tavily API
 
 ## 📄 License
 

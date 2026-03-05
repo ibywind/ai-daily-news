@@ -1,11 +1,11 @@
 /**
  * News Scraper Module - Real Search Version
- * 真实数据抓取模块 - 使用 Kimi Search API
+ * 真实数据抓取模块 - 使用 Tavily Search API
  */
 
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
+const { tavily_search_batch } = require('../utils/tavily-api');
 
 // ============================================
 // 六大分类配置
@@ -233,42 +233,36 @@ function getTodayInfo() {
   };
 }
 
-// 抓取新闻 - 真实搜索版本
+// 抓取新闻 - Tavily 真实搜索版本
 async function fetchNews(category, limit = 6) {
   console.log(`\n📡 正在抓取 [${SOURCES[category].name}] 新闻...`);
   const config = SOURCES[category];
   
-  const allResults = [];
-  const usedUrls = new Set();
-  
-  // 轮流查询每个关键词
-  for (const query of config.queries) {
-    if (allResults.length >= limit * 2) break; // 多抓取一些用于去重
-    
-    try {
-      // 调用真实搜索
-      const results = await kimiSearch(query, 5);
-      
-      for (const item of results) {
-        if (!usedUrls.has(item.url) && item.url) {
-          usedUrls.add(item.url);
-          allResults.push(item);
-        }
-      }
-      
-      // 避免请求过快
-      await new Promise(r => setTimeout(r, 1000));
-      
-    } catch (error) {
-      console.warn(`  ⚠️ 查询 "${query}" 失败: ${error.message}`);
-    }
+  // 检查是否有 Tavily API Key
+  if (!process.env.TAVILY_API_KEY) {
+    console.log('  ℹ️  未配置 Tavily API Key，使用模拟数据');
+    return getMockNews(category).slice(0, limit);
   }
-  
-  // 格式化结果
-  const formatted = formatSearchResults(allResults.slice(0, limit), category);
-  
-  console.log(`  ✅ ${config.name}: ${formatted.length} 条`);
-  return formatted;
+
+  try {
+    // 使用 Tavily 批量搜索
+    const results = await tavily_search_batch(config.queries, 3);
+    
+    if (results.length === 0) {
+      console.log('  ⚠️ Tavily 搜索无结果，使用模拟数据');
+      return getMockNews(category).slice(0, limit);
+    }
+
+    // 格式化结果
+    const formatted = formatSearchResults(results.slice(0, limit), category);
+    
+    console.log(`  ✅ ${config.name}: ${formatted.length} 条 (Tavily)`);
+    return formatted;
+  } catch (error) {
+    console.warn(`  ⚠️ Tavily 搜索失败: ${error.message}`);
+    console.log('  ℹ️  使用模拟数据');
+    return getMockNews(category).slice(0, limit);
+  }
 }
 
 // 生成日报数据
@@ -277,8 +271,14 @@ async function generateDailyNews(useRealSearch = false) {
   console.log(`\n🚀 AI 日报生成器 v2.0`);
   console.log(`📅 ${today.display}\n`);
   
-  if (!useRealSearch) {
-    console.log('ℹ️  当前使用模拟数据（使用 --real 参数启用真实搜索）\n');
+  const hasApiKey = !!process.env.TAVILY_API_KEY;
+  
+  if (useRealSearch && hasApiKey) {
+    console.log('🔍 使用 Tavily API 进行真实搜索\n');
+  } else if (useRealSearch && !hasApiKey) {
+    console.log('⚠️  未配置 TAVILY_API_KEY，将使用模拟数据\n');
+  } else {
+    console.log('ℹ️  使用模拟数据（使用 --real 参数启用 Tavily 搜索）\n');
   }
   
   const categories = [];
@@ -286,10 +286,10 @@ async function generateDailyNews(useRealSearch = false) {
   for (const [key, config] of Object.entries(SOURCES)) {
     let items;
     
-    if (useRealSearch) {
+    if (useRealSearch && hasApiKey) {
       items = await fetchNews(key, 6);
     } else {
-      // 模拟数据（保持向后兼容）
+      // 模拟数据
       items = getMockNews(key);
     }
     
@@ -308,7 +308,7 @@ async function generateDailyNews(useRealSearch = false) {
     categories: categories,
     generatedAt: today.timestamp,
     version: '2.0.0',
-    source: useRealSearch ? 'kimi-search' : 'mock'
+    source: (useRealSearch && hasApiKey) ? 'tavily-api' : 'mock'
   };
   
   console.log(`\n📊 总计: ${categories.reduce((sum, cat) => sum + cat.items.length, 0)} 条新闻`);
@@ -397,6 +397,5 @@ module.exports = {
   fetchNews,
   generateDailyNews,
   saveData,
-  loadData,
-  kimiSearch
+  loadData
 };
