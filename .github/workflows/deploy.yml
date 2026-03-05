@@ -38,6 +38,7 @@ jobs:
       env:
         NODE_ENV: production
         TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
         
     - name: Commit and Push
       run: |
@@ -53,6 +54,9 @@ jobs:
   deploy:
     needs: generate
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
     - name: Checkout
