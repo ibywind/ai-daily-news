@@ -21,6 +21,8 @@ build/
 *.swp
 *.swo
 *~
+.qoder/
+ui/
 
 # OS
 .DS_Store
