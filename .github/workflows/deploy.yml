@@ -1,0 +1,72 @@
+name: Daily News Update
+
+on:
+  schedule:
+    # 每天北京时间 8:00 运行 (UTC 00:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 允许手动触发
+  push:
+    branches: [ master, main ]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        
+    - name: Install Dependencies
+      run: npm install
+      
+    - name: Generate Daily News
+      run: node backend/scraper/generate.js --archive
+      env:
+        NODE_ENV: production
+        # 可选：添加 API 密钥以启用真实数据抓取
+        # KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+        # TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        
+    - name: Commit and Push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "📰 Update daily news for $(date +%Y-%m-%d) [skip ci]" || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+      
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: './frontend'
+        
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

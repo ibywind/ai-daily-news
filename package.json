@@ -1,0 +1,36 @@
+{
+  "name": "ai-daily-news",
+  "version": "1.0.0",
+  "description": "AI Daily News - 智能日报系统",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "concurrently \"npm run server\" \"npm run watch\"",
+    "server": "nodemon backend/server.js",
+    "generate": "node backend/scraper/generate.js",
+    "build": "npm run generate && npm run copy",
+    "copy": "cp -r frontend/* docs/",
+    "watch": "chokidar \"backend/scraper/**/*.js\" -c \"npm run generate\"",
+    "deploy": "npm run build && gh-pages -d docs",
+    "test": "jest"
+  },
+  "keywords": ["AI", "news", "daily", "automation"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "node-cron": "^3.0.3",
+    "fs-extra": "^11.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "concurrently": "^8.2.2",
+    "chokidar-cli": "^3.0.0",
+    "gh-pages": "^6.1.0",
+    "jest": "^29.7.0"
+  }
+}
