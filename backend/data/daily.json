@@ -1,11 +1,11 @@
 {
   "date": {
-    "date": "2026-04-01",
-    "display": "2026年4月1日星期三",
-    "timestamp": "2026-04-01T02:49:32.499Z",
+    "date": "2026-04-02",
+    "display": "2026年4月2日星期四",
+    "timestamp": "2026-04-02T02:33:50.539Z",
     "year": "2026",
     "month": "04",
-    "day": "01"
+    "day": "02"
   },
   "categories": [
     {
@@ -14,58 +14,64 @@
       "icon": "🤖",
       "items": [
         {
-          "title": "越南《人工智能法》正式生效，成东南亚首个 AI 专门立法国家",
-          "summary": "越南于3月1日正式实施《人工智能法》，标志着东盟 AI 治理进入新阶段。",
-          "source": "环球时报",
-          "url": "https://www.huanqiu.com",
+          "title": "2026年3月十大机器人发展动态 - 机器人报告\n\n1. Boston Dynamics的Atlas机器人展示了其跑酷技能。\n2. 亚马逊推出了其首款家用机器人Astro。\n3. 特斯拉展示了Optimus人形机器人的新功能。\n4. 软银的Whiz机器人开始在医院中部署。\n5. 谷歌的机器人部门Intrinsic推出了新型自动化工具。\n6. 微软宣布与波士顿动力公司合作开发AI技术。\n7. 瑞士ABB公司发布了新型协作机器人YuMi。\n8. 无人机制造商DJI推出了其首款农业机器人。\n9. 沃尔玛宣布扩大其仓库自动化机器人的使用。\n10. 初创公司Nuro推出了新一代自动驾驶配送车。",
+          "summary": "机器人报告\n\n# 2026年3月十大机器人发展\n\n作者：布丽安娜·韦斯林\n\n2026年3月对机器人行业来说是一个不停歇的月份。智能工厂与自动化世界（AW 2026）和英伟达GTC大会都带来了大量的新机",
+          "content": "机器人报告\n\n# 2026年3月十大机器人发展动态\n\n作者：布丽安娜·韦斯林|\n\n2026年3月对机器人行业来说是不平凡的一个月。智能工厂与自动化世界大会（AW 2026）和NVIDIA GTC带来了大量新的机器人和人工智能新闻。新机器人、展会回顾和重大收购吸引了我们读者的注意。\n\n以下是过去一个月在机器人报告上最受欢迎的10篇文章。订阅机器人报告通讯，收听机器人报告播客，以了解最新的机器人发展动态。\n\n### 10. AW 2026展示了韩国人形机器人首次亮相，行业寻求数字化转型 [...] Rhoda AI在2026年3月完成了A轮融资。该公司还推出了FutureVision，这是一种基于视频预测控制的机器人智能方法。传统的工业机器人在结构化环境中表现良好，但仍然局限于预编程的轨迹。了解更多。\n\n### 3. 亚马逊收购人形机器人开发商Fauna Robotics\n\n亚马逊正在收购总部位于纽约的人形机器人开发商Fauna Robotics。其Sprout机器人是一个研究平台。包括创始人罗布·科克兰和乔什·梅雷尔在内的大约50名Fauna员工将加入亚马逊。了解更多。\n\n### 2. 亚马逊收购机器人门阶送货提供商RIVR [...] 在其年度GPU技术大会上，NVIDIA展示了其与全球机器人生态系统的合作，包括110名开发者、工业自动化领导者和人形机器人先锋，推动“生产规模的物理AI”。了解更多。\n\n### 5. Teradyne Robotics起诉中国协作机器人制造商侵犯UR软件\n\nTeradyne Robotics是Teradyne Inc.的子公司，也是Universal Robots（UR）和Mobile Industrial Robots的母公司，正在起诉Elite Robots的德国子公司。Teradyne Robotics指控这家中国协作机器人制造商侵犯了UR的专有软件。了解更多。\n\n### 4. Rhoda AI退出隐身模式，筹集4.5亿美元用于从视频训练机器人",
+          "source": "Therobotreport",
+          "url": "https://www.therobotreport.com/top-10-robotics-developments-march-2026/",
           "time": "今日",
-          "tag": "政策",
-          "image": "https://picsum.photos/seed/ai0/400/250"
+          "tag": "NVIDIA",
+          "image": "https://picsum.photos/seed/ai48/400/250"
         },
         {
-          "title": "荣耀发布机器人手机，AI 从\"云端对话\"走向\"端侧执行\"",
-          "summary": "MWC 2026 上，荣耀推出融合具身智能的机器人手机，被视为 AI 智能体重要入口。",
-          "source": "新华网",
-          "url": "https://www.xinhuanet.com",
+          "title": "人工智能公司打破筹资记录，随着繁荣加速 - 纽约时报",
+          "summary": "埃琳·格里菲斯报道\n\n来自旧金山的报道\n\n2026年4月1日下午2点13分\n\n在你的搜索结果中查看我们更多的报道。在谷歌上添加《纽约时报》。\n\nOpenAI、Anthropic、Waymo和其他人工智",
+          "content": "根据Crunchbase追踪私人投资的数据显示，今年前三个月，OpenAI、Anthropic、Waymo等人工智能公司筹资额达到2970亿美元，打破了筹资记录。\n\n为了让大家更直观地理解这个数字：去年已经是创纪录的一年，技术初创公司筹集了4250亿美元，比2024年增长了30%。2026年的前三个月使整个行业有望将这个数字增加近三倍。#人工智能公司打破筹资记录，随着繁荣加速 - 《纽约时报》",
+          "source": "Nytimes",
+          "url": "https://www.nytimes.com/2026/04/01/technology/ai-companies-fund-raising-records.html",
           "time": "今日",
-          "tag": "产品",
-          "image": "https://picsum.photos/seed/ai1/400/250"
+          "tag": "OpenAI",
+          "image": "https://picsum.photos/seed/ai49/400/250"
         },
         {
-          "title": "阿里千问大模型负责人林俊旸卸任",
-          "summary": "阿里巴巴最年轻 P10 级技术专家宣布离开千问团队，折射 AI 人才高流动性。",
-          "source": "上观新闻",
-          "url": "https://www.jfdaily.com",
+          "title": "AMD确认“推进人工智能2026”活动将于7月22日至23日举行 - VideoCardz.com",
+          "summary": "新闻\n事件\n\n# AMD确认2026年人工智能推进大会将于7月22日至23日举行\n\n发布日期：2026年4月1日，09:58 GMT  作者：WhyCry  评论\n\n最新动态\n\n发送提示！\n\n14:1",
+          "content": "新闻\n事件\n\n# AMD确认Advancing AI 2026活动定于7月22-23日举行\n\n发布日期：2026年4月1日，09:58 GMT  作者：WhyCry   评论\n\n最新动态\n\n发送提示！\n\n14:17\n\n4月1日\n\n华硕公布搭载Panther Lake的ROG Zephyrus G系列定价，用户：“他们疯了”13:04\n\n4月1日\n\n微软发布Xbox PC远程工具公开预览版，用于远程游戏部署和调试11:58\n\n4月1日\n\nAMD确认Advancing AI 2026活动定于7月22-23日举行10:26\n\n4月1日\n\n巴西改装者通过禁用一个内存通道并启用20GB模式修复弯曲的RTX 4090\n\n## 是的，更多AI [...] 隐藏评论政策\n\n评论\n\n加载评论中...\n\n相关故事\n\nJensen Huang将在COMPUTEX 2026上发表主题演讲，NVIDIA N1发布成为焦点\n\n3月27日 英特尔宣布CEO Lip-Bu Tan将在Computex 2026上发表主题演讲\n\n3月24日 NVIDIA宣布在GDC 2026上推出GeForce ON社区更新\n\n3月9日 NVIDIA GTC 2026：Jensen Huang承诺将推出一款旨在“震惊世界”的芯片\n\n2月18日 GDC 2026议程包括DirectX状态联盟会议、DirectX ML会议和NVIDIA路径追踪讨论\n\n2月14日\n\n最新故事\n\n华硕公布搭载Panther Lake的ROG Zephyrus G系列定价，用户：“他们疯了”\n\n4月1日 微软发布Xbox PC远程工具公开预览版，用于远程游戏部署和调试\n\n4月1日 AMD确认Advancing AI 2026活动定于7月22-23日举行 [...] 10. 版主可能会在不通知的情况下编辑/删除评论。\n11. 如果您对评论政策有任何疑问，请通过联系页面告知我们。",
+          "source": "Videocardz",
+          "url": "https://videocardz.com/newz/amd-confirms-advancing-ai-2026-event-is-set-for-july-22-23",
           "time": "今日",
-          "tag": "人事",
-          "image": "https://picsum.photos/seed/ai2/400/250"
+          "tag": "Microsoft",
+          "image": "https://picsum.photos/seed/ai50/400/250"
         },
         {
-          "title": "黄仁勋：300 亿投资 OpenAI\"可能是最后一次\"",
-          "summary": "英伟达 CEO 表示，随着 OpenAI 准备上市，近期 300 亿美元投资可能是最后一次。",
-          "source": "新浪财经",
-          "url": "https://finance.sina.com.cn",
+          "title": "科技抛售：一个无脑买入的人工智能（AI）交易所交易基金（ETF），用62美元购买并长期持有 - 傻瓜指南",
+          "summary": "## 要点\n\n- 2023年初以来，人工智能股票引领了市场表现。\n- 中东冲突一直在推动广泛的股市抛售。\n- Roundhill Generative AI and Technology ETF持有4",
+          "content": "自2023年初以来，人工智能股票引领了市场表现。\n中东冲突一直在推动广泛的股市抛售。\nRoundhill Generative AI and Technology ETF持有44只领先的AI股票，现在可能是一个不错的买入时机。\n\n2022年11月，OpenAI发布了其开创性的人工智能（AI）聊天机器人ChatGPT，并在2023年1月迅速积累了1亿用户。这是AI走向主流的时刻，从那时起，在这个新兴行业中运营的公司经历了天文数字般的增长。[...]\n无障碍菜单\n\n无障碍帮助\n\n现在购买的前10大股票 ›\n\n标准普尔500指数\n\n+0.5%\n\n+224.23\n\n纳斯达克\n\n21,840.95\n\n+1.2%\n\n+250.32\n\n比特币\n\n$67,130.00\n\n-0.8%\n\n-$575.24\n\n亚马逊\n\n$210.57\n\n+1.1%\n\n+$2.30\n\n谷歌\n\n$294.90\n\n+2.8%\n\n+$8.04\n\nMeta\n\n$579.28\n\n+1.3%\n\n+$7.15\n\n微软\n\n$369.28\n\n-0.2%\n\n-$0.89\n\n英伟达\n\n$175.75\n\n+0.8%\n\n+$1.35\n\n特斯拉\n\n$381.37\n\n+2.6%\n\n+$9.62\n\n最活跃股票日涨幅最大股票日跌幅最大股票\n\n最活跃股票日涨幅最大股票日跌幅最大股票\n\n# 科技股抛售：1个无需动脑的人工智能（AI）ETF，用62美元购买并长期持有\n\n广泛的股市抛售为投资者提供了以折扣价购买Roundhill Generative AI and Technology ETF的机会。\n\n作者：Anthony Di Pizio – 2026年4月1日上午9:22",
+          "source": "Fool",
+          "url": "https://www.fool.com/investing/2026/04/01/tech-sell-off-1-no-brainer-ai-etf-buy-62-hold-long/",
           "time": "今日",
-          "tag": "融资",
-          "image": "https://picsum.photos/seed/ai3/400/250"
+          "tag": "OpenAI",
+          "image": "https://picsum.photos/seed/ai38/400/250"
         },
         {
-          "title": "蚂蚁集团联合清华发布 AReaL v1.0 强化学习框架",
-          "summary": "首个全异步训推解耦的大模型强化学习训练系统，让智能体强化学习开箱即用。",
-          "source": "科创板日报",
-          "url": "https://www.chinastarmarket.cn",
-          "time": "昨日",
-          "tag": "开源",
-          "image": "https://picsum.photos/seed/ai4/400/250"
+          "title": "OpenAI与Smartly合作，将对话式广告引入ChatGPT\n——The Next Web",
+          "summary": "竞争对手迅速抓住了机会。Claude聊天机器人的制造商Anthropic，在超级碗广告中暗示其无广告模式与OpenAI决定形成对比。框架很明确：一家公司将用户视为产品，另一家公司则不这样做。这种区别对",
+          "content": "竞争对手迅速利用这一机会。Claude聊天机器人的制造商Anthropic，在超级碗广告中隐含地将其无广告模式与OpenAI的决定进行对比。框架很清晰：一家公司将用户视为产品，另一家公司则不这么做。这种区别对于数亿免费使用ChatGPT的人来说是否重要仍是一个悬而未决的问题，但对于将自己定位为负责任的通用人工智能守护者的公司来说，声誉风险并不小。[...] OpenAI告诉投资者，预计到2026年ChatGPT的消费者收入将超过170亿美元，其中广告将占非付费用户收入的相当一部分。数学暗示了这一点：公司表示每周有超过8亿活跃用户，但只有大约5%的人订阅付费。自助广告工具将取消目前的20万美元最低承诺，并开放平台给中小企业，计划本月推出。预计加拿大、澳大利亚和新西兰的试点将跟进，全年计划进行更广泛的国际扩张。[...] 初始定价颇具侵略性。ChatGPT广告以大约每千次展示60美元的价格推出，OpenAI用早期性能数据来证明这一溢价：Criteo报告称，由大型语言模型推荐的用户转化率是其他渠道的1.5倍。据报道，近80%的中小企业表示有兴趣在平台上投放广告，如果这一数字在自助访问开放后转化为实际消费，将代表极其迅速的增长。",
+          "source": "Thenextweb",
+          "url": "https://thenextweb.com/news/openai-is-hiring-ad-tech-firms-to-make-chatgpt-ads-talk-back-to-you",
+          "time": "今日",
+          "tag": "OpenAI",
+          "image": "https://picsum.photos/seed/ai39/400/250"
         },
         {
-          "title": "我国首个国家级人形机器人标准体系发布",
-          "summary": "我国首个国家级\"人形机器人与具身智能标准体系\"正式发布。",
-          "source": "软盟资讯",
-          "url": "https://www.ruanmeng.com",
-          "time": "3月2日",
-          "tag": "标准",
-          "image": "https://picsum.photos/seed/ai5/400/250"
+          "title": "动荡的季度刚刚结束。以下是亮点、低点以及其他一切。\n- 雅虎财经",
+          "summary": "### “壮丽7号”：输家\n\n现在说这些市值万亿美元的科技公司已经失去了在股市的领导地位还为时过早。尽管它们并非安全港，但零售投资者仍然紧抓不放。但正如上文提到的，它们已经失去了一些光彩，不再与标普5",
+          "content": "### “壮丽7”：输家\n\n现在说这些市值万亿美元的科技公司已经失去了在股市的领导地位还为时过早。零售投资者仍然紧抓着它们，即使它们不再是安全港。但正如我们上面提到的，它们已经失去了一些光彩，不再与标普500指数紧密相连。\n\n### 克劳德：赢家\n\n尽管OpenAI的ChatGPT和谷歌的Gemini拥有先发优势和网络效应优势，Anthropic的克劳德却以强有力的理由脱颖而出，在第一季度结束时成为最佳AI。凭借其安全护栏品牌和与五角大楼的公开争议，克劳德登上了应用商店排行榜的首位，并强调了命运的逆转随时可能发生——以及道德和品牌对用户的重要性。 [...] 雅虎侦察员\n创作者\n科技\n  + 亚马逊春季大促科技优惠\n  + AI\n    - 苹果智能\n    - ChatGPT\n    - 克劳德\n    - Gemini\n    - Meta\n    - 微软Copilot\n    - 困惑\n  + 音频\n    - 音频优惠\n    - 最佳AirPods\n    - 最佳预算耳机\n    - 2026年最佳音响条\n    - 2026年最佳降噪耳塞\n    - 2026年最佳降噪耳机\n    - 最佳耳机\n    - 最佳便宜无线耳塞\n    - 最佳开放式耳机\n    - 最佳户外扬声器\n    - 最佳无线电视耳机\n    - 最佳便携式蓝牙扬声器\n    - 最佳无线耳塞\n  + 计算\n    - 最佳iPad\n    - 2026年最佳平板电脑\n    - 最佳便携式显示器\n    - 2026年最佳笔记本电脑\n    - 最佳儿童平板电脑\n    - 最佳microSD卡\n  + 游戏\n    - 游戏优惠\n    - 任天堂 [...] 阅读雅虎财经的最新财经和商业新闻\n\n条款和隐私政策\n\n隐私控制面板\n\n更多信息\n\n## 推荐故事",
+          "source": "Finance",
+          "url": "https://finance.yahoo.com/news/a-tumultuous-quarter-just-ended-here-are-the-highlights-lowlights-and-everything-else-202703745.html",
+          "time": "今日",
+          "tag": "OpenAI",
+          "image": "https://picsum.photos/seed/ai40/400/250"
         }
       ]
     },
@@ -75,40 +81,64 @@
       "icon": "🌍",
       "items": [
         {
-          "title": "深圳华强北发布 AI 硬件全球销售热力图",
-          "summary": "2026年1-2月数据显示，无人机海内外市场需求保持旺盛。",
-          "source": "新华社",
-          "url": "https://www.xinhuanet.com",
+          "title": "2026年4月1日新电子商务工具 - 实用电子商务",
+          "summary": "Jliveo推出面向B2B跨境电子商务的人工智能平台。作为B2B电子商务解决方案提供商的Jliveo，已启动其人工智能驱动的平台，以支持全球批发和跨境运营。该平台将采购、代发货和履行管理整合到一个单一",
+          "content": "Jliveo推出面向B2B跨境电子商务的人工智能平台。B2B电子商务解决方案提供商Jliveo已推出其人工智能驱动的平台，以支持全球批发和跨境运营。该平台将采购、代发货和履行管理整合到一个单一系统中——包括批发采购和按需订单履行。Jliveo还整合了自动化内容工作流程和多语言通信。\n\nJliveo [...] 注册\n\n平台与应用\n\n# 2026年4月1日新电子商务工具\n\n###### 2026年4月1日 • Sig Ueland\n\n链接已复制\n\n每周我们都会发布一份新的电子商务服务概览。本期包括产品图片、联合评论、无盒退货、分期付款、市场集成、代理商务、航运智能、跨境电子商务和联盟伙伴关系的更新。\n\n有电子商务产品发布吗？请发送邮件至updates@practicalecommerce.com。\n\n### 商家新工具 [...] 广告\n\n热门\n\n USPS亏损威胁电子商务航运\n 人工智能驱动更智能的电子商务定价\n 2026年3月25日新电子商务工具\n 为何OpenAI收购Promptfoo\n 搜索控制台的平均位置，解释\n 2026年3月18日新电子商务工具\n\n行业IQ\n\n#### 顶级电子商务代理商的表现 ###### Omnisend\n\n#### 人工智能营销代理的真正价值 ###### Lebesgue\n\n#### 卖家市场成功指南 ###### 沃尔玛市场\n\n#### 2026年人工智能如何改变电子商务 ###### Stord\n\n#### 现代履行需要现代3PL ###### WSI | Kase\n\n广告\n\n流媒体网络广播  \n即时视频\n\n SEO对人工智能，低流量，无点击\n\n广告\n\n 关于我们\n 联系我们\n 编辑政策\n\n 广告\n 时事通讯注册\n 播客",
+          "source": "Practicalecommerce",
+          "url": "https://www.practicalecommerce.com/new-ecommerce-tools-april-1-2026",
           "time": "今日",
-          "tag": "数据",
-          "image": "https://picsum.photos/seed/shop0/400/250"
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/news39/400/250"
         },
         {
-          "title": "雷军两会建议：提高人形机器人使用率",
-          "summary": "小米 CEO 提出 5 份建议，涉及智能制造应用和人才培养。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com",
+          "title": "零售销售增长，商务部报告 - logisticsmgmt.com",
+          "summary": "“我们预计这种强劲势头将持续到2026年，消费者支出将再次为经济提供关键支持，”他说。“在2026年上半年，我们预计由于《工薪家庭减税法案》中的减税带来的较大退税，将刺激消费支出。尽管我们预计上半年通",
+          "content": "“我们预计这种强劲势头将持续到2026年，消费者支出将再次为经济提供关键支持，”他说。“在2026年上半年，我们预计由于《工薪家庭减税法案》中的减税措施带来的较大退税，将刺激消费支出。尽管我们预计上半年通货膨胀将保持高位，但通货膨胀应在第三季度回落，为下半年的消费者带来一些缓解。虽然从宏观层面来看，我们继续预计消费者将保持强劲，但我们也预计这种强劲不会在所有收入群体中均匀分布。”\n\n## 文章主题\n\n新闻\n\n物流\n\n第三方物流（3PL）\n\n电子商务\n\n电子商务\n\n物流\n\n零售销售\n\n零售供应链\n\n所有主题\n\n## 第三方物流新闻与资源 [...] LM独家：电子商务如何在不确定时期重塑货运网络\n\n从包裹和零担运输到空运、海运和多式联运，电子商务需求正在重新定义货运流向、服务期望和...\n\n新闻室笔记：代理型AI如何重塑物流运营\n\n代理型AI通过超越传统的TMS和ERP驱动的工作流程，正在重塑物流运营。\n\n电子商务物流：货运网络重塑和重新布线\n\n随着交货时间的压缩和需求的分散，物流领导者正转向专用车队和更紧密的承运人合作伙伴关系...\n\n特别报告：2026年值得关注的8个供应链管理软件趋势\n\n软件平台继续扩大其运营足迹，因为供应链管理塑造了整个供应链中的响应速度、执行和决策... [...] 资源\n 存档\n 今天订阅\n\nLM   主题    物流    第三方物流（3PL）\n\n# 零售销售增长，商务部报告\n\n由  Jeff Berman · 2026年4月1日\n\n#### 最新物流新闻\n\n零售销售增长，商务部报告\n全球物流：欧洲在动荡的贸易环境中重新调整\n亚马逊货运增加干式货车拖车数量至8万辆\n柴油价格飙升加剧了整车运输能力紧张，推高了现货价格\n亚马逊新增1500名联邦快递司机",
+          "source": "Logisticsmgmt",
+          "url": "https://www.logisticsmgmt.com/article/retail_sales_see_gains_reports_commerce/",
           "time": "今日",
-          "tag": "政策",
-          "image": "https://picsum.photos/seed/shop1/400/250"
+          "tag": "Amazon",
+          "image": "https://picsum.photos/seed/news40/400/250"
         },
         {
-          "title": "华为发布 Atlas 950 SuperPoD",
-          "summary": "MWC 2026 期间，华为发布多款超节点产品，助力运营商智能化升级。",
-          "source": "华为官网",
-          "url": "https://www.huawei.com",
-          "time": "昨日",
-          "tag": "产品",
-          "image": "https://picsum.photos/seed/shop2/400/250"
+          "title": "空运货物仍是动荡贸易中的“减震器” - logisticsmgmt.com",
+          "summary": "LM独家：电子商务如何在不确定时期重塑货运网络\n\n从包裹和零担运输到空运、海运和多式联运，电子商务需求正在重新定义货运流向、服务期望和...\n\n新闻室笔记：代理性AI如何重塑物流运营\n\n代理性AI通过",
+          "content": "LM独家：电子商务如何在不确定时期重塑货运网络\n\n从包裹和LTL（少于一卡车货物）到空运、海运和多式联运，电子商务需求正在重新定义货运流向、服务预期和...\n\n新闻室笔记：代理性AI如何重塑物流运营\n\n代理性AI通过将行业从传统的TMS（运输管理系统）和ERP（企业资源规划）驱动的工作流程中解放出来，正在重塑物流运营。\n\n电子商务物流：货运网络重塑和重新连接\n\n随着交货时间的压缩和需求的碎片化，物流领导者正在转向专用车队和更紧密的承运人合作伙伴关系...\n\n特别报告：2026年值得关注的8个SCM软件趋势\n\n随着SCM（供应链管理）在供应链中塑造响应速度、执行和决策，软件平台不断扩大其运营足迹...\n\n“尽管2026年贸易增长可能会放缓，但空运货物得益于人工智能、硬件驱动的投资、对高价值、时效性商品的需求增长以及向电子商务的结构性转变，仍有望保持强劲，”报告详细说明。然而，该协会警告说，贸易保护主义政策对更快速的发展构成担忧。\n\n国际航空运输协会（IATA）发现，整个行业的收入预计将达到1580亿美元。尽管预计收益将略有下降（与2025年相比下降0.5%），但它们仍比疫情前水平高出约30%。此外，受到引擎短缺影响的波音和空客交付新货机的速度较慢。空客将其A350F的交付时间从2025年推迟到2027年下半年。波音777-8F的交付被推迟到2028年，该项目面临持续的挫折。\n\n展望未来，空运货物量预计也会受到消费者购买力下降的影响。\n\n行业分析师Xeneta发现，全球空运货物需求在动荡的2025年以12月同比增长6%的高增长结束，但警告称，中国以外电子商务货运量的减少将引起航空公司的关注。",
+          "source": "Logisticsmgmt",
+          "url": "https://www.logisticsmgmt.com/article/air_cargo_remains_a_shock_absorber_in_turbulent_trade/",
+          "time": "今日",
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/news41/400/250"
         },
         {
-          "title": "千问\"一句话下单\"功能 DAU 突破 7300 万",
-          "summary": "超过 400 万 60 岁以上新用户通过 AI 完成外卖下单。",
-          "source": "新浪财经",
-          "url": "https://finance.sina.com.cn",
+          "title": "梅根·福克斯的超短裙造型足以平息MGK的病毒式谣言 - AOL.com",
+          "summary": "购物\n\n|\n体育\n\n|\n时尚\n\n|\n真实犯罪\n\n加入AOL\n欧盟数字服务法案\n条款与隐私政策\n您的隐私选择\n关于我们\n关于我们的广告\n\n© 2026 AOL Media LLC. 版权所有。 [...",
+          "content": "梅根·福克斯搭配了透明的白色过膝长袜，与裙子形成完美对比。她穿着的最为引人注目的部分是她的鞋子。她穿了一双装饰着蓬松黑羽毛的透明厚底高跟鞋。福克斯还戴了一副细框黑色眼镜。她的长黑发被扎成两个高高的马尾辫，松散的发丝修饰着她的脸。她的妆容以裸色唇妆和微妙的眼线为特点。\n\n这篇关于梅根·福克斯的超短裙造型足以平息病毒式MGK谣言的文章最初由Samridhi Goel在Reality Tea上报道。\n\n这篇文章首次出现在Mandatory网站上。\n\n## 来自我们的合作伙伴\n\n动物\n\n  |\n商业\n\n  |\n娱乐\n\n  |\n财经\n\n  |\n食品\n\n  |\n健康\n\n  |\n新闻\n\n  |\n政治\n\n  |\n购物\n\n  |\n体育\n\n  |\n风格\n\n  |\n真实犯罪 [...] 首页\n威尔明顿，特拉华州\n\n  威尔明顿，特拉华州\n\n  本地新闻\n订阅\n\n家居与园艺\n\n旅行\n真实犯罪\n\n财经\n财经\n银行业务\n商业新闻\n财产与退休规划\n贷款与抵押贷款\n\n健康\n健康\n医疗保险\n\n新闻\n新闻\n商业\n轻松一刻\n政治\n科学与技术\n体育\n天气\n\n如需高级支持，请致电：\n\n800-290-4726更多联系方式\n\n登录\n\n邮件\n\n如需高级支持，请致电：\n\n800-290-4726更多联系方式\n\n邮件\n\n登录\n\n首页\n威尔明顿，特拉华州\n\n  本地新闻\n订阅\n动物\n娱乐\n食品\n游戏\n家居与园艺\n购物\n风格\n旅行\n真实犯罪\n\n财经\n财经\n银行业务\n商业新闻\n财产与退休规划\n贷款与抵押贷款\n\n健康\n健康\n医疗保险",
+          "source": "Aol",
+          "url": "https://www.aol.com/megan-fox-micro-miniskirt-look-074229955.html",
           "time": "今日",
-          "tag": "数据",
-          "image": "https://picsum.photos/seed/shop3/400/250"
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/news36/400/250"
+        },
+        {
+          "title": "ReElement与三菱材料合作加强美国关键矿产供应链 - Bitget",
+          "summary": "免责声明：本文内容仅代表作者观点，不代表平台立场。本文不作为投资决策的参考。\n\n了解市场，然后交易。\n\nBitget提供加密货币、股票和黄金的一站式交易服务。\n\n立即交易！\n\n## 您可能还喜欢\n\nA",
+          "content": "免责声明：本文内容仅代表作者观点，不代表平台立场。本文不作为投资决策的参考。\n\n了解市场，然后交易。\n\nBitget 提供加密货币、股票和黄金的一站式交易服务。\n\n立即交易！\n\n## 您可能还喜欢\n\nApa的技术实力无视分析师的复杂情绪\n\n101财经•2026/04/02 02:16\n\n市场动态：伊朗冲突时间线变化导致期货价格下跌\n\n101财经•2026/04/02 02:16\n\n消费者支出的优势：核心零售销售连续五个月实现强劲增长，挑战预期和季节性波动\n\n101财经•2026/04/02 02:15\n\nApellis大规模收购，但复杂信号使其前景不明\n\n101财经•2026/04/02 02:15",
+          "source": "Bitget",
+          "url": "https://www.bitget.com/amp/news/detail/12560605328677",
+          "time": "今日",
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/news37/400/250"
+        },
+        {
+          "title": "切南戈福克斯举办年度农业日 - WIVT - 新闻34",
+          "summary": "图片119\n\n由Nexstar Media Group, Inc.提供。\n\n## 您确定要注销吗？\n\n- [x] 注销所有Nexstar属性\n\n注销 取消\n\n图片120图片121图片122图片123\n",
+          "content": "图片119\n\n由Nexstar传媒集团提供。\n\n## 您确定要注销吗？\n\n- [x] 注销所有Nexstar属性\n\n注销 取消\n\n图片120图片121图片122图片123\n\n图片124图片125\n\n图片126\n\n图片127：.图片128图片129\n\n图片130：Nexstar标志\n\n## 您的隐私选择\n\n退出请求已获尊重\n\n## 您的隐私选择\n\n   ### 访问、删除或更正您的数据\n   ### 退出针对性广告\n   ### 严格必要的cookies\n\n#### 访问、删除或更正您的数据\n\n我们允许您访问、删除和/或更正您的个人信息。要提交行使这些隐私权利的请求，您可以在此处提交您的请求。 [...] ✕ \n\n图片104\n\n由Nexstar传媒集团提供。\n\n## 登录创建您的免费My Nexstar账户，享受独家直播\n\n输入您的电子邮件，我们将发送一个安全的一键登录链接。\n\n请输入有效的电子邮件地址\n\n通过点击下面的任何一个注册选项，您确认您已经阅读并同意我们的使用条款，其中包括放弃陪审团审判和集体诉讼的权利，并且您已经阅读了我们的隐私政策，详细了解我们收集、使用和共享您的个人信息。 [...] 字体大小 文本边缘样式 字体家族\n\n重置 完成\n\n关闭模态对话框\n对话框结束。\n\n播放列表X\n\n图片46\n\n黑熊队锁定FPHL季后赛头号种子\n\n图片47\n\nChenango Forks举办年度农业日\n\n图片48\n\n食品森林即将来到Endicott\n\n图片49\n\nThree Falls州立公园现已对公众开放\n\n图片50\n\n杰出公民奖庆祝40周年，这位获奖者\n\n图片51\n\nJohnson City的Reynolds Road报告水管破裂\n\n图片52\n\nBinghamton广场振兴网站已启动\n\n图片53\n\n纽约比萨店的新位置目前正在建设中\n\n图片54\n\n在Binghamton联邦大楼外举行反对伊朗战争的抗议活动\n\n图片55\n\nNorwich橄榄球队在半场领先Johnson City，比赛将在稍后完成",
+          "source": "Binghamtonhomepage",
+          "url": "https://www.binghamtonhomepage.com/news/chenango-forks-holds-annual-agriculture-day/",
+          "time": "今日",
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/news38/400/250"
         }
       ]
     },
@@ -118,31 +148,64 @@
       "icon": "💡",
       "items": [
         {
-          "title": "OpenAI 完成 1100 亿美元新一轮融资",
-          "summary": "该轮融资包括英伟达、亚马逊和软银的投资承诺。",
-          "source": "彭博社",
-          "url": "https://www.bloomberg.com",
+          "title": "初创企业融资在第一季度打破所有记录 - TechCrunch",
+          "summary": "2026年首期StrictlyVC将于4月30日登陆旧金山。门票有限，点击此处注册。\n\n在Disrupt 2026通行证上节省高达680美元。今晚11:59 PT截止。立即注册。\n\n### 主题\n\n生",
+          "content": "2026年首场StrictlyVC将于4月30日在旧金山举行。门票有限，点击此处注册。\n\n在Disrupt 2026通行证上节省高达680美元。今晚11:59 PT截止。立即注册。\n\n### 主题\n\n生物技术与健康\n\n气候\n\n云计算\n\n商业\n\n加密货币\n\n企业\n\n电动汽车\n\n金融科技\n\n筹资\n\n小玩意\n\n游戏\n\n谷歌\n\n政府与政策\n\n硬件\n\nInstagram\n\n裁员\n\n媒体与娱乐\n\nMeta\n\n微软\n\n隐私\n\n机器人技术\n\n安全\n\n社交\n\n太空\n\n初创公司\n\nTikTok\n\n交通\n\n风险投资\n\n### TechCrunch的更多内容\n\n员工\n\n活动\n\nStartup Battlefield\n\nStrictlyVC\n\n新闻通讯\n\n播客\n\n视频\n\n合作伙伴内容\n\nTechCrunch品牌工作室\n\nCrunchboard\n\n联系我们\n\n简讯\n\n发布者：\n\nMarina Temkin\n\n# 2026年第一季度初创公司融资打破所有记录 [...] # 2026年第一季度初创公司融资打破所有记录\n\n根据Crunchbase的最新数据，2026年第一季度全球对初创公司的投资达到2970亿美元，打破了所有记录。这是上一季度1180亿美元筹集资金的2.5倍增长。这一单季度的总额超过了2019年之前全球风险投资活动的任何一整年。\n\n这一空前的激增仅由四笔巨大的交易推动，每笔交易本身都是记录的突破者。\n\n上个月，OpenAI宣布，在筹集了1220亿美元后，其估值现在达到8520亿美元，超过了之前由OpenAI保持的最大融资轮记录，即一年前ChatGPT制造商筹集的400亿美元。 [...] 2026年10月13-15日，旧金山，加州\n\n立即注册\n\n主题\n\n筹资趋势，简讯，破纪录，初创公司，风险投资\n\n4月30日\n\n旧金山，加州\n\nStrictlyVC在旧金山开启新的一年。加入我们，与行业领袖进行无过滤的炉边对话，获取内部风险投资洞察，以及真正推动行业发展的高价值联系。门票有限。\n\n立即注册\n\n### 新闻通讯\n\n查看更多\n\n订阅行业最大的科技新闻\n\n## 相关\n\nStrictlyVC旧金山2026",
+          "source": "Techcrunch",
+          "url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
           "time": "今日",
-          "tag": "融资",
-          "image": "https://picsum.photos/seed/rocket0/400/250"
+          "tag": "种子轮",
+          "image": "https://picsum.photos/seed/news42/400/250"
         },
         {
-          "title": "北京数据和人工智能安全检测中心揭牌",
-          "summary": "AI 产业迎来专业鉴定机构，七大创新成果发布。",
-          "source": "北京日报",
-          "url": "https://www.bjd.com.cn",
-          "time": "3月2日",
-          "tag": "政策",
-          "image": "https://picsum.photos/seed/rocket1/400/250"
+          "title": "为什么2026年金融科技融资热潮不仅仅是关于人工智能 - 福布斯",
+          "summary": "## 大额融资轮次\n\n2026年第一季度以其众多九位数金融科技融资轮次而著称。处于增长阶段和后期的初创企业主要通过九位数融资轮次（1亿美元以上）来推动积极的扩张，保持市场领导地位，并为IPO或收购等流",
+          "content": "## 大额融资轮次\n\n2026年第一季度以其众多九位数金融科技融资轮次而著称。增长期和后期初创企业主要通过九位数融资轮次（1亿美元+）来推动积极扩张、保持市场领导地位，并为IPO或收购等流动性事件做准备。与早期初创企业筹集资金以证明其概念不同，成熟的初创企业已经证明了它们的模式，专注于扩大运营、收购竞争对手或全球扩张。[...] 截至目前，今年欧洲最大的筹资轮次之一涉及英国挑战者银行Allica，该银行专注于中小企业市场。Allica Bank在2月通过获得1.55亿美元D轮融资，估值接近12亿美元，实现了独角兽地位。公司计划利用这些资金增加贷款、增强技术并扩大市场份额。[...] Allica有一个强大的细分市场，专注于英国中小企业，自2008-09年金融危机以来，这些企业一直被严重忽视。危机之后更严格的监管要求导致传统银行退出被视为风险过高的中小企业市场。但对Allica来说，这是一个重大机遇。根据英国商业银行的《2025/26年小企业金融市场报告》，2025年中小企业银行贷款总额增长了9%，达到680亿英镑。\n\n第一季度欧洲其他关键融资轮次发生在欧洲大陆。总部位于德国的投资API提供商Upvest在Sapphire Ventures和腾讯的领导下，筹集了7750万欧元的股权融资，并额外筹集了3020万欧元的债务，以扩大其基础设施。",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/zennonkapron/2026/04/01/why-the-2026-fintech-funding-boom-is-about-more-than-ai/",
+          "time": "今日",
+          "tag": "IPO",
+          "image": "https://picsum.photos/seed/news43/400/250"
         },
         {
-          "title": "Honor 推出全球首款机器人手机",
-          "summary": "荣耀 CEO 表示，这是智能手机的\"全新物种\"。",
-          "source": "MWC 2026",
-          "url": "https://www.mwcbarcelona.com",
+          "title": "陷入困境的YC初创公司Delve的声誉进一步恶化 - TechCrunch",
+          "summary": "2026年首期StrictlyVC将于4月30日在旧金山举行。门票有限。点击此处注册。\n\n在Disrupt 2026通行证上节省高达680美元。今晚11:59 PT截止。立即注册。\n\n### 主题\n\n",
+          "content": "The first StrictlyVC of 2026 lands in San Francisco on April 30. Tickets are limited. Register here.\n\nSave up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW.\n\n### Topics\n\nBiotech & Health\n\nClimate\n\nCloud Computing\n\nCommerce\n\nCrypto\n\nEnterprise\n\nEVs\n\nFintech\n\nFundraising\n\nGadgets\n\nGaming\n\nGoogle\n\nGovernment & Policy\n\nHardware\n\nInstagram\n\nLayoffs\n\nMedia & Entertainment\n\nMeta\n\nMicrosoft\n\nPrivacy\n\nRobotics\n\nSecurity\n\nSocial\n\nSpace\n\nStartups\n\nTikTok\n\nTransportation\n\nVenture\n\n### More from TechCrunch\n\nStaff\n\nEvents\n\nStartup Battlefield\n\nStrictlyVC\n\nNewsletters\n\nPodcasts\n\nVideos\n\nPartner Content\n\nTechCrunch Brand Studio\n\nCrunchboard\n\nContact Us\n\nStartups\n\n# The reputation of troubled YC startup Delve has gotten even worse\n\nJulie Bort [...] ### Disrupt 2026: The tech ecosystem, all in one room\n\n#### Your next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $400.\n\n### Save up to $300 or 30% to TechCrunch Founder Summit\n\n#### 1,000+ founders and investors come together at TechCrunch Founder Summit 2026 for a full day focused on growth, execution, and real-world scaling. Learn from founders and investors who have shaped the industry. Connect with peers navigating similar growth stages. Walk away with tactics you can apply immediately Offer ends March 13.\n\nSan Francisco, CA | October 13-15, 2026 [...] San Francisco, CA | October 13-15, 2026\n\nREGISTER NOW\n\nKarabeg had even expressed sympathy for Delve after the whistleblower dropped the first bombshell last week. DeepDelver originally alleged that Delve was faking customer data and using rubber-stamping auditors, allegations that Delve has denied.\n\nSince learning of the Sim.ai allegations, Karabeg has not heard from Delve’s founders. “I was consoling my friends at Delve after t",
+          "source": "Techcrunch",
+          "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
           "time": "今日",
-          "tag": "创新",
-          "image": "https://picsum.photos/seed/rocket2/400/250"
+          "tag": "YC",
+          "image": "https://picsum.photos/seed/news44/400/250"
+        },
+        {
+          "title": "Asana 首席执行官押注于在工作中组织人工智能代理混乱，而华尔街担心 SaaS 行业受到干扰 - 商业内幕",
+          "summary": "这将结合基于座位定价的“可知性”，并引入新的结构，以考虑客户对AI代币的使用情况以及新AI驱动软件服务所取得的成果，首席执行官解释道。\n\n新产品AI Teammates和AI Studio至少部分通过",
+          "content": "这将结合基于座位定价的“可知性”，并引入新的结构，考虑客户对AI代币的使用以及新的AI驱动软件服务所取得的成果，首席执行官解释道。\n\n新产品AI Teammates和AI Studio至少部分通过这种方式货币化，并且增长迅速，预计AI产品将在Asana 2027财年贡献大约15%的年度经常性收入。\n\n罗杰斯承认了更广泛的行业影响：“AI原生公司的毛利率往往较低，”他说，暗示了可能对SaaS盈利能力造成压力的结构性变化。\n\n## “不可怕” [...] 罗杰斯说Asana客户想要两件事：可预测性，以及在可能的情况下，为累积的价值或已交付的成果付费。\n\n“这两件事可能会相互冲突，”他补充道。“但我们的目标是在那个连续体上满足客户的需求。”\n\n传统的基于人力的座位业务模式，即公司根据使用SaaS产品的员工数量按月支付费用，对客户和提供商来说都非常可预测。\n\n“不好的是，这有点难以与交付的价值联系起来，”罗杰斯说。“所以，实际上，我们可能在一段时间内处于世界的混合状态。” [...] Asana首席产品官Arnab Bose表示，AI在企业内部的早期影响实际上增加了工作负载的复杂性，而不是减少了它。\n\n“人们需要审核的文件越来越长，越来越复杂，”他说，指的是需要更多监督的AI生成输出。\n\n## 商业模式挑战\n\n尽管如此，支撑SaaS的商业模式显然正在转变。三月初RBC资本市场的一份报告强调了压力。分析师们维持对Asana股票的“表现不佳”评级，理由是增长放缓、竞争激烈以及AI对业务影响的不确定性。\n\n为了调整，Asana正在远离基于座位的",
+          "source": "Businessinsider",
+          "url": "https://www.businessinsider.com/asana-ceo-ai-agent-orchestration-saas-software-disruption-2026-3",
+          "time": "今日",
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/news32/400/250"
+        },
+        {
+          "title": "比尔·马格努森，Braze首席执行官：Fortt Knox财报 - CNBC",
+          "summary": "技术\n\n# 布拉泽公司CEO比尔·马格努森：Fortt Knox 收益\n\n布拉泽公司CEO比尔·马格努森表示，“SaaSocalypse”的担忧被夸大了。布拉泽公司在财年结束时实现了超过50%的预订增",
+          "content": "科技\n\n# 布拉泽公司CEO比尔·马格努森：Fortt Knox 收益\n\n布拉泽公司CEO比尔·马格努森表示，“SaaSocalypse”的恐慌被夸大了。布拉泽公司在其财年结束时实现了超过50%的预订增长，这一增长是由其在Forge大会上推出的人工智能路线图推动的。他认为，自主的人工智能工作流程需要高性能、可靠的平台——布拉泽十年的规模基础设施现在加速了这些工作流程。他强调，像世界杯这样的文化时刻证明了实时敏捷性不能DIY。\n\n07:20\n\n20分钟前\n\n乔恩·福特\n\n立即观看\n\n立即观看\n\n视频05:03\n\n市场在未来几个月将保持动荡，背景不利：富国银行的权\n\n5小时前\n\n立即观看\n\n立即观看\n\n视频01:06\n\nSpaceX据消息人士称将在6月上市\n\n立即观看\n\n立即观看\n\n视频01:13 [...] 跳过导航\n\n市场\n\n 盘前市场\n 美国市场\n 货币\n 预测市场\n 加密货币\n 期货和商品\n 债券\n 基金和ETF\n\n商业\n\n 经济\n 金融\n 健康与科学\n 媒体\n 房地产\n 能源\n 气候\n 交通\n 调查\n 工业\n 零售\n 财富\n 体育\n 生活\n 小企业\n\n投资\n\n 个人理财\n 金融科技\n 财务顾问\n 期权行动\n ETF街\n 巴菲特档案\n 收益\n 交易者对话\n\n科技\n\n 网络安全\n 人工智能\n 企业\n 互联网\n 媒体\n 移动\n 社交媒体\n CNBC颠覆者50\n 科技指南\n\n政治\n\n 白宫\n 政策\n 国防\n 国会\n 扩大机会\n\n视频\n\n 最新视频\n 完整剧集\n 直播\n 直播音频\n 直播电视时间表\n CNBC播客\n CEO访谈\n CNBC纪录片\n 数字原创\n\n观看列表 [...] 观看列表\n\n投资俱乐部\n\n 信任投资组合\n 分析\n 交易提醒\n 会议视频\n 家庭伸展\n 吉姆的专栏\n 教育\n 订阅\n\nPRO\n\n Pro新闻\n 乔什·布朗\n 迈克·桑托利\n 每日电话\n 我的投资组合\n 直播\n 完整剧集\n 股票筛选器\n 市场预测\n 期权投资\n 图表投资\n 订阅\n\n直播\n\n 制作它\n 选择\n\n 美国\n 国际\n\n直播\n\n直播\n\n观看列表\n\n注册",
+          "source": "Cnbc",
+          "url": "https://www.cnbc.com/video/2026/04/01/bill-magnuson-braze-ceo-fortt-knox-earnings.html",
+          "time": "今日",
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/news33/400/250"
+        },
+        {
+          "title": "美国投资者更倾向于“欧洲最大化”而非“欧洲抨击”——《金融时报》",
+          "summary": "FT 1000：欧洲增长最快的公司\n特别报告\nFT 1000：欧洲增长最快的公司\n\n法国在增长最快的公司排名中领先\n特别报告\nFT 1000：欧洲增长最快的公司\n\n2026年FT 1000：欧洲增长最",
+          "content": "FT 1000：欧洲增长最快的公司\n特别报道\nFT 1000：欧洲增长最快的公司\n\n法国在增长最快的公司排名中领先\n特别报道\nFT 1000：欧洲增长最快的公司\n\nFT1000：2026年欧洲增长最快的公司排名\n特别报道\nFT 1000：欧洲增长最快的公司\n\n风险资本：快速增长企业的关键支持者\nAnthropic\n\n五角大楼似乎违反言论自由原则“惩罚”Anthropic，法官说\n风险资本投资\n\n寻找“几乎无法就业”的不合群者的风投公司\n人工智能\n\nNscale的信用记录（略有瑕疵）\n\n## 跟随本文中的话题\n\n约翰·索恩希尔\n科技初创企业\n人工智能\n\n## 评论 [...] 迪奇利的一位企业家估计，世界上只有8%的数据是公开可用的；大部分数据位于私人公司、政府或用户领域或医疗保健系统中。如果欧洲能够开发出公平且安全地共享这些数据的机制，它就能在应用人工智能方面引领世界。正如企业家约翰·泰森姆在这些页面上所争论的，数据信托可能会成为人工智能经济的主权财富基金。\n\n所缺少的只是美国式的风险承担信念、实用主义和自信。\n\njohn.thornhill@ft.com\n\n重用此内容（新窗口打开）\n评论跳至评论部分\n\n## 最新的科技初创企业信息\n\n技术领域\n\n特朗普政府被阻止因五角大楼纠纷而“惩罚”Anthropic\n特别报道",
+          "source": "Ft",
+          "url": "https://www.ft.com/content/2d691615-9aa4-4085-8191-9c5c5f558192",
+          "time": "今日",
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/news34/400/250"
         }
       ]
     },
@@ -152,49 +215,64 @@
       "icon": "⛓️",
       "items": [
         {
-          "title": "比特币 ETF 资金流入创新高，机构配置加速",
-          "summary": "美国比特币 ETF 单日净流入超 10 亿美元，显示机构投资者持续加仓。",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com",
+          "title": "加密新闻：Pepeto宣布筹集了869万美元，而比特币价格、XRP和以太坊准备创下历史性走势 - markets.businessinsider.com",
+          "summary": "我的市场观察列表\n\n市场  新闻\n\n# 加密货币新闻：Pepeto宣布筹集了860万美元，而比特币价格、XRP和以太坊准备创下历史新高\n\n新闻稿 GlobeNewswire\n\n2026年3月31日，下",
+          "content": "我的市场观察列表\n\n市场  新闻\n\n# 加密货币新闻：Pepeto宣布筹集了860万美元，而比特币价格、XRP和以太坊准备创下历史新高\n\n新闻稿 GlobeNewswire\n\n2026年3月31日，下午7:42\n\n迪拜，阿联酋，2026年3月31日（GLOBE NEWSWIRE）--  \n基于以太坊的加密货币Pepeto在预售资本中达到了860万美元，令人瞩目的是，每个新记录都比前一个来得更快，而加密市场正经历着有史以来最艰难的时期之一。尽管加密新闻证明了大多数代币失去了交易量，投资者信任普遍下降，但Pepeto却逆流而上，买家争相确保在许多人称之为2026年杰出项目中的位置。[...]\n\n加密新闻：比特币价格瞄准25万美元，XRP目标5美元，以太坊预计6500美元，但真正的财富更早被发现。加密市场正在经历一段残酷的时期，任何经历过早期回调的人都知道接下来会发生什么。福布斯在加密新闻文章中报道，过去十年中每一次主要的比特币回调都导致了创下历史新高的反弹。Cathie Wood和ARK Invest预测，在本轮周期结束前比特币价格将达到25万美元，而彭博社报道分析师预计，随着XRP目标5美元和以太坊预计300%的增长至6500美元，其他加密货币将与之并驾齐驱。\n\n另一方面，目前的比特币价格为68,170美元（Coinmarketcap），XRP和以太坊都在经历波动，但Pepeto背后的有机关注和真实工具描绘了一个完全不同的画面，本文将对此进行报道。",
+          "source": "Markets",
+          "url": "https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-8-69m-raised-while-bitcoin-price-xrp-and-ethereum-set-up-for-record-breaking-moves-1035983071",
           "time": "今日",
           "tag": "BTC",
-          "image": "https://picsum.photos/seed/crypto0/400/250"
+          "image": "https://picsum.photos/seed/news47/400/250"
         },
         {
-          "title": "以太坊 Dencun 升级完成，Layer2 费用大幅下降",
-          "summary": "升级引入 EIP-4844，使 Layer2 交易费用降低 90% 以上。",
-          "source": "The Block",
-          "url": "https://www.theblock.co",
+          "title": "谷歌研究：量子计算机对670万比特币构成“严重威胁”，包括中本聪的币 - Sherwood新闻",
+          "summary": "在以太坊的其他新闻中：\n\n根据链上数据，以太坊基金会在周一质押了价值约4620万美元的以太坊。“这是他们有史以来质押的最多的ETH”，Arkham Intelligence在社交媒体上表示。\n\nLid",
+          "content": "在以太坊的其他新闻中：\n\n根据链上数据，以太坊基金会在周一质押了价值约4620万美元的以太坊。“这是他们以前从未质押过的以太坊数量”，Arkham Intelligence在社交媒体上表示。\nLido，作为第二大去中心化金融协议，以其主要针对以太坊的流动性质押服务而闻名，正在考虑对其原生代币LDO进行2000万美元的回购，自2021年创下7.30美元的历史新高以来，LDO已下跌近96%。\n\nYaël Bizouati-Kennedy\n\n3/30/26\n\n在特朗普“巨大进步”的评论后，比特币上涨，可能打破5个月的连跌势头\n\n“在表面之下，市场并未崩溃，尽管它仍然很薄弱。”\n\nSage D. Young\n\n## 自伊朗战争开始以来，山寨币已经回吐了大部分涨幅[...] “加密货币（和股票）与石油的负相关性一直在增加，目前处于过去一年中的最高水平。这是合乎逻辑的。除非股票市场对石油价格的未来走势感到舒适，否则油价上涨对股票和加密货币都是逆风。从某种意义上说，当油价上涨的风险达到顶峰时，加密货币的冬天可能会结束，”李继续说道。\n\n与此同时，以太坊ETFs上周遭受重创，投资工具出现了2.066亿美元的资金流出，这是今年第三大的资金流出，SoSoValue的数据显示。\n\n在以太坊的其他新闻中：[...] 同时，交易员预计今年以太坊的价格将进一步下跌。预测市场暗示的加密货币跌破1750美元的可能性为81%，而该代币下跌至1500美元以下的概率为68%，比周一的52%有所增加。\n\n（事件合约由Robinhood Derivatives, LLC提供——引用或来源于KalshiEx LLC或ForecastEx LLC的概率。）\n\n根据CoinGlass的数据，下跌至1457美元将清算约162,870个以太坊代币的杠杆多头头寸，价值3.233亿美元在Hyperliquid上。",
+          "source": "Sherwood",
+          "url": "https://sherwood.news/crypto/google-research-quantum-computers-a-serious-threat-to-6-7-million-bitcoin/",
+          "time": "今日",
+          "tag": "BTC",
+          "image": "https://picsum.photos/seed/news48/400/250"
+        },
+        {
+          "title": "比特币（BTC）的抛物线时代可能已经结束，旧高点正在被测试 - CoinDesk",
+          "summary": "18小时前\n\n#### 查尔斯·霍斯金森不支持CLARITY法案，警告未来立法者可能“武器化”它\n\n2026年3月31日\n\n#### 文章内容\n\nBTCBTC$68,271.92◢0.22%\n\nCoi",
+          "content": "18小时前\n\n#### 查尔斯·霍斯金森不支持CLARITY法案，警告未来立法者可能“武器化”\n\n2026年3月31日\n\n#### 本文内容\n\nBTCBTC$68,271.92◢0.22%\n\nCoinDesk 20$1,964.650.83%比特币$68,265.220.21%以太坊$2,150.472.64%XRP$1.351.19%Solana$81.551.41% [...] 价格\n 研究\n 共识2026\n 数据与指数\n 赞助内容\n\n分享本文\n\nX（推特）领英Facebook电子邮件\n\n# 比特币的旧价格高点并非神圣——抛物线时代可能已经结束\n\n## 比特币价格回撤至旧高点，预示着增长放缓和市场成熟。\n\n作者：Omkar Godbole|编辑：Sam Reynolds\n\n更新于2026年4月1日，上午11:22。发布于2026年4月1日，上午9:32。\n\n设为优先\n\n#### 需要了解的内容：[...]\n\n#### 加密货币长与短：治理是真正的第1层\n\n5小时前\n\n#### 协议：谷歌表示量子计算可能更快破解比特币\n\n6小时前\n\n#### 杰米·戴蒙暗示摩根大通进入预测市场，竞争加剧\n\n6小时前\n\n头条新闻\n\n#### 比特币的崩溃正在缩小，华尔街开始注意到\n\n9小时前\n\n#### 富兰克林邓普顿通过收购250 Digital成立加密货币部门\n\n8小时前\n\n#### 比特币ETF自10月以来首次月度流入，价格稳定\n\n12小时前\n\n#### 一些量子抗性代币因谷歌对比特币安全风险的警告而上涨50%\n\n16小时前\n\n#### 香港在3月目标后未发放任何港元稳定币许可证\n\n18小时前",
+          "source": "Coindesk",
+          "url": "https://www.coindesk.com/markets/2026/04/01/bitcoin-s-old-peaks-aren-t-untouchable-anymore-and-the-days-of-parabolic-rallies-could-be-over",
+          "time": "今日",
+          "tag": "BTC",
+          "image": "https://picsum.photos/seed/news49/400/250"
+        },
+        {
+          "title": "\"阿耳忒弥斯二号\"发射前的最后检查 - CBS新闻",
+          "summary": "作家米奇·阿尔博姆的海地孤儿院\n3月16日 13:16 图片127：霍尔木兹海峡关闭导致船只被困\n3月15日 13:15 图片128：激光能否帮助抵御伊朗无人机？\n3月15日 13:08 图片129：",
+          "content": "作家米奇·阿尔博姆的海地孤儿院\n\n- 3月16日 13:16 图片127：因霍尔木兹海峡关闭而被困的船只\n- 3月15日 13:15 图片128：激光能否帮助抵御伊朗无人机？\n- 3月15日 13:08 图片129：Pete Hegseth谈伊朗战争最新情况\n- 3月8日 12:55 图片130：哈瓦那综合症调查受批评\n- 3月2日 13:14 图片131：Reza Pahlavi谈伊朗未来\n- 3月2日 13:15 图片132：特朗普任下对美国法官的威胁激增\n- 3月14日 04:52 图片407：如何避免税务季节诈骗\n- 3月14日 04:03 图片408：卡塔尔陷入伊朗战争的交叉火力\n- 3月14日 02:53 图片409：法官表示“没有证据”显示美联储主席犯罪\n- 3月14日 02:54 图片410：密歇根州犹太教堂袭击案最新进展\n- 3月14日 03:17 图片411：美国打击伊朗关键石油中心\n- 3月9日 05:53 图片412：2 Chainz谈父职和成功\n- 3月7日 04:10 图片413：限制孩子屏幕时间和垃圾食品习惯\n- 3月7日 01:23 图片414：司法部承认Epstein文件错误\n- 3月7日 05:05 图片415：获取最新CBS Mornings Deals的地点\n- 3月7日 03:37 图片416：犹他州三重谋杀案嫌疑人最新情况\n- 3月7日 03:37 图片417：致命龙卷风和风暴袭击美国中部",
+          "source": "Cbsnews",
+          "url": "https://www.cbsnews.com/video/final-moments-ahead-artemis-ii-launch/",
           "time": "今日",
           "tag": "ETH",
-          "image": "https://picsum.photos/seed/crypto1/400/250"
+          "image": "https://picsum.photos/seed/crypto27/400/250"
         },
         {
-          "title": "香港证监会批准首批现货加密 ETF",
-          "summary": "香港正式批准比特币和以太坊现货 ETF，预计 4 月上市交易。",
-          "source": "南华早报",
-          "url": "https://www.scmp.com",
-          "time": "昨日",
-          "tag": "ETF",
-          "image": "https://picsum.photos/seed/crypto2/400/250"
-        },
-        {
-          "title": "DeFi 协议总锁仓量突破 1000 亿美元",
-          "summary": "受市场回暖带动，DeFi 生态 TVL 创下近两年新高。",
-          "source": "DeFiLlama",
-          "url": "https://defillama.com",
+          "title": "费城老鹰队德冯塔·史密斯对贾伦·赫茨领衔的进攻也感到沮丧 - 《新闻周刊》",
+          "summary": "3分钟阅读\n\n特朗普\n\n## 唐纳德·特朗普和梅拉尼娅在肯尼迪中心露面时遭到嘘声\n\n4分钟阅读\n\n狗狗\n\n## 从收容所领养的小狗，7年后不明白为何又回来了\n\n3分钟阅读\n\n突发新闻\n\n## 克里斯蒂",
+          "content": "3分钟阅读\n\n特朗普\n\n## 唐纳德·特朗普和梅拉尼娅在肯尼迪中心露面时被嘘\n\n4分钟阅读\n\n狗狗\n\n## 从收容所领养的小狗，7年后回来时不明白为什么\n\n3分钟阅读\n\n突发新闻\n\n## 克里斯蒂·诺姆的丈夫布莱恩就变装报道打破沉默\n\n4分钟阅读\n\n退伍军人\n\n## 根据法案，数千名退伍军人将获得新的财政福利\n\n4分钟阅读\n\n## 观点\n\n观点\n\n## 当资本能思考时，谁付钱？\n\n6分钟阅读\n\n观点\n\n## PBM改革是开始。现在让健康计划索赔变得透明 | 观点\n\n5分钟阅读\n\n观点\n\n## 全球AI竞赛将由管理反弹的人赢得 | 观点\n\n5分钟阅读\n\n观点\n\n## 特朗普用新的401(k)改革粉碎了诉讼律师集团\n\n5分钟阅读\n\n观点 [...] 请求转载和授权 查看编辑和AI指南\n\n将Newsweek添加为Google上的优选来源，以便在搜索时看到我们更多值得信赖的报道。\n\n## 相关播客\n\n## 头条新闻\n\n新闻\n\n## 阿耳忒弥斯二号进入轨道：NASA登月宇航员接下来会发生什么\n\n5分钟阅读\n\n美国\n\n## 保守派大法官似乎准备违抗特朗普关于出生公民权的立场\n\n5分钟阅读\n\n政治\n\n## 迈克·约翰逊向民主党的国土安全部资金法案要求让步\n\n5分钟阅读\n\n世界\n\n## 印尼附近7.4级地震引发海啸预警\n\n3分钟阅读\n\n政治\n\n## 米奇·麦康奈尔反对唐纳德·特朗普\n\n5分钟阅读\n\n世界\n\n## 伊朗如何成为美国新武器的试验场\n\n7分钟阅读\n\n## 趋势\n\n加利福尼亚\n\n## 发出警告，数千人被告知48小时内待在室内",
+          "source": "Newsweek",
+          "url": "https://www.newsweek.com/sports/nfl/eagles-devonta-smith-frustrated-jalen-hurts-led-offense-11771304",
           "time": "今日",
-          "tag": "DeFi",
-          "image": "https://picsum.photos/seed/crypto3/400/250"
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/crypto28/400/250"
         },
         {
-          "title": "央行数字货币跨境支付试点扩大",
-          "summary": "数字人民币跨境支付试点新增 5 个国家和地区。",
-          "source": "财新",
-          "url": "https://www.caixin.com",
-          "time": "3月3日",
-          "tag": "CBDC",
-          "image": "https://picsum.photos/seed/crypto4/400/250"
+          "title": "乌鸦队杰西·明特回避拉马尔·杰克逊合同延期讨论 - 新闻周刊",
+          "summary": "3分钟阅读\n\n特朗普\n\n## 唐纳德·特朗普和梅拉尼娅在肯尼迪中心亮相时遭到嘘声\n\n4分钟阅读\n\n狗狗\n\n## 从收容所领养的小狗，7年后不明白为何又回来了\n\n3分钟阅读\n\n突发新闻\n\n## 克里斯蒂",
+          "content": "3分钟阅读\n\n特朗普\n\n## 唐纳德·特朗普和梅拉尼娅在肯尼迪中心露面时被嘘\n\n4分钟阅读\n\n狗狗\n\n## 从收容所领养的小狗，7年后不明白为何又回来了\n\n3分钟阅读\n\n突发新闻\n\n## 克里斯蒂·诺姆的丈夫布莱恩就变装报道打破沉默\n\n4分钟阅读\n\n退伍军人\n\n## 根据法案，数千名退伍军人将获得新的财政福利\n\n4分钟阅读\n\n## 观点\n\n观点\n\n## 当资本能思考时，谁付钱？\n\n6分钟阅读\n\n观点\n\n## PBM改革是开始。现在让健康计划索赔透明化 | 观点\n\n5分钟阅读\n\n观点\n\n## 全球AI竞赛将由管理反弹的人赢得 | 观点\n\n5分钟阅读\n\n观点\n\n## 特朗普用新的401(k)改革粉碎了审判律师集团\n\n5分钟阅读\n\n观点 [...] 请求转载与授权查看编辑与AI指南\n\n将Newsweek添加为Google的首选来源，以便在搜索时看到更多我们值得信赖的报道。\n\n## 相关播客\n\n## 头条新闻\n\n新闻\n\n## 阿耳忒弥斯二号进入轨道：NASA登月宇航员的下一步是什么\n\n5分钟阅读\n\n美国\n\n## 保守派大法官似乎准备违抗特朗普关于出生公民权的立场\n\n5分钟阅读\n\n政治\n\n## 迈克·约翰逊向民主党的DHS资金法案要求让步\n\n5分钟阅读\n\n世界\n\n## 印度尼西亚附近7.4级地震引发海啸预警\n\n3分钟阅读\n\n政治\n\n## 米奇·麦康奈尔反对唐纳德·特朗普\n\n5分钟阅读\n\n世界\n\n## 伊朗如何成为美国新武器的试验场\n\n7分钟阅读\n\n## 趋势\n\n加利福尼亚\n\n## 发出警告，数千人被告知48小时内留在室内 [...] 伊朗战争现场更新\n\n对伊朗的战略目标“接近完成”，特朗普说\n\n国家\n\n新闻政治科技事实核查个人财务汽车运动更好的工作场所\n世界\n\n俄罗斯-乌克兰中东中国与亚洲更好的星球所有世界新闻\n生活方式\n\n家庭与育儿娱乐旅行宠物人际关系科学健康\n观点\n\n我转所有观点\n排名\n\n健康财务产品教育工作场所企业责任所有排名",
+          "source": "Newsweek",
+          "url": "https://www.newsweek.com/sports/nfl/ravens-jesse-minter-dodges-lamar-jackson-contract-extension-talks-11771369",
+          "time": "今日",
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/crypto29/400/250"
         }
       ]
     },
@@ -204,63 +282,69 @@
       "icon": "⚡",
       "items": [
         {
-          "title": "宁德时代发布新一代固态电池技术",
-          "summary": "能量密度突破 500Wh/kg，预计 2027 年量产装车。",
-          "source": "证券时报",
-          "url": "https://www.stcn.com",
+          "title": "六年汽车行业危机；梅赛德斯向阿拉巴马工厂投资40亿美元 - 汽车新闻",
+          "summary": "每日驾驶\n\n# 汽车行业六年危机；梅赛德斯向阿拉巴马工厂投资40亿美元\n\n作者：Kellen Walker\n\n2026年4月1日 上午10:43 EDT\n\n## 特色故事\n\n纽约车展\n\n起亚EV3在美",
+          "content": "每日驾驶\n\n# 汽车行业六年危机；梅赛德斯向阿拉巴马工厂投资40亿美元\n\n作者：Kellen Walker\n\n2026年4月1日 10:43 上午 EDT\n\n## 特色故事\n\n纽约车展\n\n起亚EV3在美国首次亮相，为经销商在降温的电动车市场中提供新的切入点\n\n起亚没有透露定价，但表示EV3将是其在2026年底上市时“最易获得”的电动模型。\n\n作者：Lindsay VanHulle\n\n纽约车展\n\n斯巴鲁Getaway首次亮相，动力超过丰田Highlander EV，且无效率损失\n\n作者：Larry P. Vellequette\n\n销售\n\n现代和起亚克服3月的疲软，第一季度在美国创下销售记录；马自达再次下滑\n\n作者：David Phillips\n\n技术\n\n在瑞典的冬季测试场，汽车行业证明车辆的耐久性\n\n作者：JH",
+          "source": "Autonews",
+          "url": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-mercedes-alabama-investment-atlas-scout-motors-0401/",
           "time": "今日",
-          "tag": "固态电池",
-          "image": "https://picsum.photos/seed/energy0/400/250"
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/news35/400/250"
         },
         {
-          "title": "特斯拉上海储能超级工厂投产",
-          "summary": "年产能 40GWh，产品将面向全球市场供应。",
-          "source": "澎湃新闻",
-          "url": "https://www.thepaper.cn",
+          "title": "斯巴鲁Getaway首次亮相，动力超过丰田汉兰达电动车，且不牺牲效率 - 汽车新闻",
+          "summary": "纽约车展\n\n# Subaru Getaway亮相，动力超过丰田汉兰达电动车，且不牺牲效率\n\n作者：\n\nLarry P. Vellequette\n\n2026年4月1日 10:25 上午EDT\n\n## 特",
+          "content": "纽约车展\n\n# 斯巴鲁Getaway亮相，动力超过丰田汉兰达EV，且不牺牲效率\n\n作者：\n\nLarry P. Vellequette\n\n2026年4月1日 10:25 AM EDT\n\n## 特色故事\n\n技术\n\n瑞典冬季测试场：汽车行业验证车辆耐久性的地方\n\nAumovio、大众和其他汽车制造商及供应商的工程师每年冬季前往瑞典北部，在冰湖和结冰的道路上测试车辆。恶劣条件揭示了在温和气候下无法暴露的制动、电池和传感器的弱点。\n\nJH\n\n作者：\n\nJerry Hirsch\n\n纽约车展\n\n起亚EV3在美国首次亮相，为经销商在冷却的电动车市场中提供新的切入点\n\nLV\n\n作者：\n\nLindsay VanHulle\n\n销售\n\n现代、起亚克服3月的疲软，第一季度在美国创下销售记录\n\nDP\n\n作者：\n\nDavid Phillips",
+          "source": "Canada",
+          "url": "https://canada.autonews.com/subaru/an-subaru-getaway-0401/",
           "time": "今日",
-          "tag": "Tesla",
-          "image": "https://picsum.photos/seed/energy1/400/250"
+          "tag": "资讯",
+          "image": "https://picsum.photos/seed/news36/400/250"
         },
         {
-          "title": "全国碳市场扩容，纳入钢铁水泥行业",
-          "summary": "碳交易市场覆盖范围扩大，推动高耗能行业绿色转型。",
-          "source": "生态环境部",
-          "url": "https://www.mee.gov.cn",
-          "time": "昨日",
-          "tag": "碳中和",
-          "image": "https://picsum.photos/seed/energy2/400/250"
-        },
-        {
-          "title": "光伏组件出口量同比增长 35%",
-          "summary": "中国光伏产品海外需求持续旺盛，欧洲和新兴市场为主要增长点。",
-          "source": "光伏們",
-          "url": "https://www.pvmen.com",
+          "title": "2027款起亚EV3终于来了，续航达到320英里。但价格还会是35,000美元吗？- insideevs.com",
+          "summary": "请花3分钟完成我们的调查。\n\n- InsideEVs团队\n\n分享这个故事\n\nFacebook\nX\nLinkedIn\nFlipboard\nReddit\nWhatsApp\nE-Mail\n复制\n\n转到评论\n",
+          "content": "参与我们的3分钟调查。\n\n- InsideEVs团队\n\n分享这篇文章\n\n Facebook\n X\n LinkedIn\n Flipboard\n Reddit\n WhatsApp\n E-Mail\n复制\n\n查看所有评论\n\n（）\n\n给我们提供线索？电子邮件：tips@insideevs.com\n\n查看所有评论（）\n\n推荐给您\n\n2026年将推出超过30款新电动车。以下是您需要了解的信息\n起亚的未来主义电动货车可能成为纽约出租车\n起亚刚刚为其平价电动车增加了更多动力和模拟挡位\n本田Prologue降价7500美元，现在购买时机更佳\n2026年将推出超过20款新电动车。以下是我最期待的七款\n大众老板表示物理控制是“不可谈判的”\n2026年起亚EV3：我们所知道的一切——它会来美国吗？\n\n免费注册\n\n参与文章评论。[...] 分享\n\n评论\n\n起亚平价电动车EV3即将进入美国市场，作为2027款车型。\n这款面向美国的小型电动跨界车今天在纽约国际车展上首次亮相。\n销售将于2026年底开始，EV3将标配车对车充电功能，大电池版本续航可达320英里。",
+          "source": "Insideevs",
+          "url": "https://insideevs.com/news/791648/2027-kia-ev3-us-debut-range-official/",
           "time": "今日",
-          "tag": "光伏",
-          "image": "https://picsum.photos/seed/energy3/400/250"
+          "tag": "电池",
+          "image": "https://picsum.photos/seed/news37/400/250"
         },
         {
-          "title": "氢能源重卡商业化运营启动",
-          "summary": "首批 100 辆氢燃料电池重卡投入物流干线运营。",
-          "source": "中国汽车报",
-          "url": "https://www.cnautonews.com",
-          "time": "3月2日",
-          "tag": "氢能",
-          "image": "https://picsum.photos/seed/energy4/400/250"
-        },
-        {
-          "title": "比亚迪发布第五代 DM 混动技术",
-          "summary": "百公里油耗降至 2.9L，综合续航超 2000 公里。",
-          "source": "比亚迪",
-          "url": "https://www.byd.com",
+          "title": "电池储能正在重塑电网；整合策略将决定结果 - 《电力杂志》",
+          "summary": "电力行业正站在一个关键时刻。公用事业公司不再是可再生能源转型的旁观者，而是成为曾经主要由第三方开发商开发、融资和管理的技术的直接所有者和运营商。在这些技术中，电池储能系统（BESS）正在成为长期发电和",
+          "content": "电力行业正处在一个关键时刻。公用事业公司不再是可再生能源转型的旁观者，而是成为曾经主要由第三方开发商开发、融资和管理的技术的直接所有者和运营商。在这些技术中，电池储能系统（BESS）正在成为长期发电和电网可靠性战略的核心。尽管BESS的运营价值得到了广泛认可，但公用事业所有权带来的运营复杂性往往被低估。随着越来越多的公用事业公司从购买储能服务转变为将储能资产整合到他们的投资组合中，行业发现成功不仅取决于硬件部署，还取决于深思熟虑的跨领域整合……将BESS部署视为全面整合挑战而非独立发电项目的公用事业公司将更有可能获得长期成功。通过制定定制要求、构建精确合同、及早引入运营技术和网络安全团队以及规划可扩展运营，公用事业公司可以解锁储能技术的全部价值，同时保持可靠性和合规性。\n\n可再生能源转型正在加速，储能将在塑造未来电网中发挥决定性作用。成功的组织将是那些认识到电池不仅是能源资产，也是必须在更广泛的公用事业生态系统中无缝运行的数字基础设施的组织。——Nathan Brown是Burns & McDonnell旗下1898 & Co.运营技术服务部门的主管。\n\n标签包括：\n\n电池储能系统\nBESS\nBurns & McDonnell\n整合\n\n## 趋势\n\n核能\n\n### FluxPoint Energy加入竞逐近70年来美国首个新建铀转化工厂\n\n金融\n\n### 贝莱德基础设施部门领投2.5亿美元，押注商业建筑能效作为电网",
+          "source": "Powermag",
+          "url": "https://www.powermag.com/battery-storage-is-reshaping-the-grid-integration-strategy-will-shape-the-outcome/",
           "time": "今日",
-          "tag": "BYD",
-          "image": "https://picsum.photos/seed/energy5/400/250"
+          "tag": "电池",
+          "image": "https://picsum.photos/seed/news33/400/250"
+        },
+        {
+          "title": "强大的变革支持清洁能源 - 《电力杂志》",
+          "summary": "## 家庭能源解决方案\n\n《电力》杂志在最近于加利福尼亚州圣地亚哥举行的InterSolar和北美储能会议上与几家提供电气化解决方案的公司进行了交谈。许多电动系统最初设计是为了在停电时提供备用电源，但",
+          "content": "## 家庭能源解决方案\n\n《电力》杂志在最近于加利福尼亚州圣地亚哥举办的InterSolar和北美储能会议上，与几家提供电气化解决方案的公司进行了交谈。许多电动系统最初设计是为了在停电事件中提供备用电源，但技术已经发展到成为整个家庭的电力供应商。Lunar Energy的解决方案拥有20千瓦时的电池容量，旨在与太阳能发电系统一起工作，电池可用于备用电源和能源储存。Mandri补充说：“实现脱碳的最快途径是通过高效电机和数字化能源管理工具优化现有基础设施，使行业能够以更少的资源做更多的事情，减少全球能源需求的同时保持生产力。”Mandri告诉《电力》杂志，“技术是AI（人工智能）驱动的数据中心革命和电网现代化的关键，包括先进的地下解决方案、数字变电站、电池储能系统（BESS）、微电网、电网形成技术和数字孪生技术。”\n\n## 家庭能源解决方案 [...] Delta-Q Technologies的Chergui表示：“随着对电力需求的增加，电气化技术正在引领智能电网的新时代，帮助公用事业公司更好地管理电力供应。闲置的电池设备可以储存能量，并在需求上升时释放，实现更好的能源管理，无需建设额外的电力发电。电气化还允许使用当地生产的可再生能源，如太阳能、风能或生物质燃料，以减轻电网的压力，特别是在高峰需求期间。” \n\n—Darrell Proctor是《电力》杂志的高级编辑。",
+          "source": "Powermag",
+          "url": "https://www.powermag.com/a-powerful-change-supporting-cleaner-energy/",
+          "time": "今日",
+          "tag": "电池",
+          "image": "https://picsum.photos/seed/news34/400/250"
+        },
+        {
+          "title": "《电力文摘》[2026年4月号] - 《电力》杂志",
+          "summary": "连续八小时向电网放电，随着加州电力需求的增长，提供长时间的可靠性容量。Hydrostor的A-CAES技术利用压缩空气和水在地下洞穴中储存能量，不需要锂或其他电池材料，公司计划在2026年在Willo",
+          "content": "Hydrostor公司的先进压缩空气储能（A-CAES）技术能够连续8小时向电网放电，为加州日益增长的电力需求提供长期可靠的容量。该技术利用压缩空气和水储存在地下洞穴中，无需锂或其他电池材料，计划于2026年在Willow Rock项目中破土动工。Hatch加入了Goldman Sachs Alternatives、CPP Investments和Canada Growth Fund等现有Hydrostor股权投资者。此外，Willow Rock还与加州社区电力公司签署了50兆瓦的购电协议，代表六个社区选择聚合成员，并与Baker Hughes深化了技术和股权投资合作，后者将整合其涡轮机械能力，覆盖高达1.4吉瓦的A-CAES项目。\n\n全球工程公司Hatch和长期储能（LDES）开发商Hydrostor于2月25日宣布了一项战略项目执行合作伙伴关系和股权投资协议，以推进Hydrostor的先进压缩空气储能（A-CAES）技术在全球的发展。Hatch将在Hydrostor中持有股份，并领导加利福尼亚旗舰项目Willow Rock能源存储中心的设计和执行。2月，500兆瓦/4000兆瓦时的Willow Rock项目——预计将成为世界上最大的A-CAES设施——已获得加州能源委员会（CEC）的最终许可批准，旨在向电网连续8小时放电，提供长期可靠的容量。\n\n标签包括：\n压缩空气储能、Hydrostor、长期储能、Oklo、Rolls Royce SMR、小型模块化反应堆、Soluna Holdings、TotalEnergies、废旧核燃料回收、Yokogawa。\n\n趋势：\n核能\n\nFluxPoint Energy加入竞赛，在美国内华达州建造首个新的铀转化工厂。",
+          "source": "Powermag",
+          "url": "https://www.powermag.com/power-digest-april-2026/",
+          "time": "今日",
+          "tag": "电池",
+          "image": "https://picsum.photos/seed/news35/400/250"
         }
       ]
     }
   ],
-  "generatedAt": "2026-04-01T02:49:32.499Z",
+  "generatedAt": "2026-04-02T02:33:50.539Z",
   "version": "3.0.0",
   "source": "tavily-kimi"
 }
