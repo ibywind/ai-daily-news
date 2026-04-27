@@ -1,11 +1,11 @@
 {
   "date": {
-    "date": "2026-04-26",
-    "display": "2026年4月26日星期日",
-    "timestamp": "2026-04-26T02:56:44.236Z",
+    "date": "2026-04-27",
+    "display": "2026年4月27日星期一",
+    "timestamp": "2026-04-27T03:21:29.019Z",
     "year": "2026",
     "month": "04",
-    "day": "26"
+    "day": "27"
   },
   "categories": [
     {
@@ -14,64 +14,58 @@
       "icon": "🤖",
       "items": [
         {
-          "title": "TruGen AI 推出 Clara AI SDR —— 将网站流量转化为销售合格线索的人工智能助手 - markets.businessinsider.com",
-          "summary": "我的市场观察列表\n\n市场  新闻\n\n# TruGen AI推出Clara AI SDR —— 将网站流量转化为销售合格渠道的AI伙伴\n\n新闻稿 GlobeNewswire\n\n2026年4月24日，下午",
-          "content": "我的市场观察列表\n\n市场  新闻\n\n# TruGen AI 发布 Clara AI SDR —— 将网站流量转化为销售合格渠道的人工智能助手\n\n新闻稿 GlobeNewswire\n\n2026年4月24日，下午7:53\n\n纽约，2026年4月24日（GLOBE NEWSWIRE）—— TruGen AI，这个构建下一代人工智能助手的人工智能劳动力平台，今天宣布 Clara 人工智能销售发展代表（SDR）的全面可用性，可在 Clara 设计用于改变组织捕获、验证和转化入站网站流量为收入渠道的方式，无需增加人手。",
-          "source": "Markets",
-          "url": "https://markets.businessinsider.com/news/stocks/trugen-ai-launches-clara-ai-sdr-the-ai-teammate-that-converts-website-traffic-into-sales-qualified-pipeline-1036061988",
+          "title": "越南《人工智能法》正式生效，成东南亚首个 AI 专门立法国家",
+          "summary": "越南于3月1日正式实施《人工智能法》，标志着东盟 AI 治理进入新阶段。",
+          "source": "环球时报",
+          "url": "https://www.huanqiu.com",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/ai48/400/250"
+          "tag": "政策",
+          "image": "https://picsum.photos/seed/ai0/400/250"
         },
         {
-          "title": "DeepSeek 发布了新 V4 人工智能模型的预览版 - MLQ.ai\n\nDeepSeek 近日发布了其最新 V4 人工智能模型的预览版，这些模型由 MLQ.ai 提供。",
-          "summary": "### 参考资料\n\ntechcrunch.com   api-docs.deepseek.com   atlascloud.ai   youtube.com   deepseek4.hk   tech",
-          "content": "### 其他资源\n\ntechcrunch.com   api-docs.deepseek.com   atlascloud.ai   youtube.com   deepseek4.hk   techcrunch.com\n\n由AI辅助撰写，经我们团队验证和编辑。有问题？联系我们。\n\n讨论\n\n### 开始使用MLQ.ai\n\n注册即可每月免费获得5个AI洞察\n\n使用Google注册\n\n或\n\n已有账户？登录\n\n## 相关新闻\n\n2026年4月25日\n\n### Anthropic在二级市场达到1万亿美元估值里程碑 2026年4月25日\n\n### Meta宣布裁员8000人以支持AI扩张 2026年4月25日\n\n### CrowdStrike启动Project QuiltWorks联盟以解决AI发现的漏洞 2026年4月25日\n\n### 美国法院在审判前应马斯克请求驳回其对OpenAI的欺诈指控\n\n### 分享到X\n\n0个字符 [...] 中国AI公司DeepSeek于2026年4月24日发布了其DeepSeek V4模型的预览版本，包括拥有1.6万亿个总参数的V4-Pro-Max和拥有2840亿个参数的V4 Flash。这些开源混合专家模型支持100万个标记上下文窗口，并声称在关键基准测试上的性能与领先的闭源系统相当。\n\n## 模型规格和架构 [...] # DeepSeek发布新V4 AI模型预览\n\n2026年4月25日晚上7:47 • 由MLQ代理发布\n\n#### 要点\n\nDeepSeek推出了DeepSeek V4-Pro-Max（1.6万亿参数）和V4 Flash（2840亿参数）的预览版本，这两个混合专家模型均支持100万个标记上下文窗口。\n公司声称V4模型在推理和编码基准测试上与OpenAI的GPT-5.2和谷歌的Gemini 3.0 Pro相媲美或超越，性能超过开源同行。\nV4 Flash定价为每百万输入标记0.14美元，低于竞争对手；API访问立即可用，开源权重。\n模型具有提高效率的架构改进，包括用于长上下文处理的新型注意力机制。",
-          "source": "Mlq",
-          "url": "https://mlq.ai/news/deepseek-unveils-preview-of-new-v4-ai-models/",
+          "title": "荣耀发布机器人手机，AI 从\"云端对话\"走向\"端侧执行\"",
+          "summary": "MWC 2026 上，荣耀推出融合具身智能的机器人手机，被视为 AI 智能体重要入口。",
+          "source": "新华网",
+          "url": "https://www.xinhuanet.com",
           "time": "今日",
-          "tag": "OpenAI",
-          "image": "https://picsum.photos/seed/ai49/400/250"
+          "tag": "产品",
+          "image": "https://picsum.photos/seed/ai1/400/250"
         },
         {
-          "title": "我认为2026年将引发新辩论的一个重要部分——原因如下 - 《玻璃年鉴》",
-          "summary": "苹果公司首席执行官蒂姆·库克（Tim Cook）在之前的采访中对增强现实（AR）的未来发表了完整的看法。2016年，苹果首席执行官蒂姆·库克在谈到日常AR体验时表示。他的角色很重要，因为苹果庞大的安装",
-          "content": "苹果公司首席执行官蒂姆·库克（Tim Cook）在之前的采访中对增强现实（AR）的未来发表了完整的看法。2016年，库克在谈到日常AR体验时说：“我对此感到非常兴奋。”他的角色很重要，因为苹果庞大的安装基础（25亿台设备）如果公司致力于可穿戴设备或手机驱动的推出，可以迅速扩大人们使用AR的方式。这使得他多年前的话在今天仍然是一个活跃的财务和产品信号。\n\n另见 XR 周报：Meta的新智能眼镜预告，高端头显失败，Reebok的AI健身眼镜发布。\n\n短评：演讲者的平台放大了影响力。\n\n## 这句话将如何塑造2026年的AR产品和你的设备？[...] • 记者将这句话与2026年的新产品赌注和投资者审查联系起来。\n\n• 科技竞争对手正在加速硬件推广，引发消费者隐私和用户体验问题。\n\n## 这句话实际上说了什么——以及为什么它像炸弹一样爆炸\n\n这句话本身简单而奇怪地亲密，这就是为什么它不断回到头条新闻中。简短的引用很粘人；它们还将重大承诺压缩成单一的、可重复的口号。一句话捕捉了多年的产品战略，现在为对AR采用不切实际的时间表的批评提供了新的燃料。这不是小事。\n\n短评：这句话让承诺感觉不可避免。\n\n订阅Glass Almanac YouTube频道\n\n## 哪些反应正在让科技领袖对AR产生分歧？[...] 随着公司竞相证明AR的价值，预计投资者审查将更加严格，产品责任将更加响亮。开发者将转向实用工具，监管机构将提出隐私问题，消费者将评判外形因素和舒适度，而不是口号。哪些公司将满足用户期望——哪些将被留下捍卫一个承诺？\n\n来源\n\n相关文章",
-          "source": "Glassalmanac",
-          "url": "https://glassalmanac.com/i-do-think-that-a-significant-portion-sparks-new-debate-in-2026-heres-why/",
+          "title": "阿里千问大模型负责人林俊旸卸任",
+          "summary": "阿里巴巴最年轻 P10 级技术专家宣布离开千问团队，折射 AI 人才高流动性。",
+          "source": "上观新闻",
+          "url": "https://www.jfdaily.com",
           "time": "今日",
-          "tag": "Meta",
-          "image": "https://picsum.photos/seed/ai50/400/250"
+          "tag": "人事",
+          "image": "https://picsum.photos/seed/ai2/400/250"
         },
         {
-          "title": "7-0 完胜：我在7个不可能的测试中对比了ChatGPT-5.5和Claude 4.7 — 结果让我震惊 — 汤姆指南",
-          "summary": "订阅我们的新闻通讯\n\n人工智能领域两个最大的名字刚刚获得了重大升级，时机再合适不过了。OpenAI推出了ChatGPT-5.5，这是其最新模型，专注于更智能的推理、更强的编码能力以及在较少人工干预下处",
-          "content": "订阅我们的新闻简报\n\n人工智能领域两个最大的名字刚刚获得了重大升级，时机非常有趣。OpenAI推出了ChatGPT-5.5，这是其最新模型，专注于更智能的推理、更强的编码能力以及在较少人工干预下处理现实世界任务。与此同时，Anthropic推出了Claude Opus 4.7，这是一个围绕谨慎思考、长上下文表现和为严肃工作提供精致输出而构建的模型。\n\n两者都承诺是各自平台迄今为止最强大的版本，但它们似乎在追求略有不同的AI助手愿景：一个优化速度、实用性和执行能力，另一个优化深度、细微差别和深思熟虑的推理。[...] Claude不仅给出了更好、更全面的回答，而且将答案提升到了专业/研究水平。\n\n胜者：Claude再次以全面的回答获胜，再次凸显了它在多维推理方面比ChatGPT的线性方法处理得更好。\n\n## 总体胜者：Claude [...] ## 3. 基于证明的数学\n\n提示：“证明对于任何正整数n，数字n⁵−n可以被30整除。然后确定n⁷−n是否总是可以被42整除，提供证明或反例。”\n\nChatGPT提供了一个手动模运算检查，这对于不熟悉费马小定理的读者可能有所帮助。\n\nClaude更有效地使用了费马小定理进行两个证明，并正确识别了问题背后的数学结构。\n\n胜者：Claude完成了帽子戏法，成为最终胜者。尽管两个模型在数学上都是准确的，但Claude在最后提供了“美丽的概括”。\n\n## 4. 受限条件下的化学推理",
-          "source": "Tomsguide",
-          "url": "https://www.tomsguide.com/ai/7-0-wipeout-i-put-chatgpt-5-5-and-claude-4-7-through-7-impossible-tests-and-the-results-shocked-me",
+          "title": "黄仁勋：300 亿投资 OpenAI\"可能是最后一次\"",
+          "summary": "英伟达 CEO 表示，随着 OpenAI 准备上市，近期 300 亿美元投资可能是最后一次。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn",
           "time": "今日",
-          "tag": "OpenAI",
-          "image": "https://picsum.photos/seed/ai38/400/250"
+          "tag": "融资",
+          "image": "https://picsum.photos/seed/ai3/400/250"
         },
         {
-          "title": "DeepSeek 1.6万亿参数V4模型亮相 - Zamin.uz",
-          "summary": "根据DeepSeek的数据，V4-Pro-Max模型在逻辑任务中的表现超过了OpenAI的GPT-5.2和谷歌的Gemini 3.0 Pro系统。在编程竞赛中，两个新模型都显示出与GPT-5.4相等的",
-          "content": "根据DeepSeek数据，V4-Pro-Max模型在逻辑任务中的表现超过了OpenAI的GPT-5.2和谷歌的Gemini 3.0 Pro系统。在编程竞赛中，这两个新模型都显示出与GPT-5.4相等的结果。然而，值得注意的是，在评估知识水平的测试中，中国的模型仍然落后于最先进的美国系统3到6个月。\n\n这些新模型的价格明显低于市场竞争对手。例如，V4 Flash模型的成本为每100万个输入令牌0.14美元，低于GPT-5.4 Nano和Gemini 3.1 Flash的价格。值得注意的是，这次展示是在美国对中国知识产权盗窃的指控和指责DeepSeek抄袭Anthropic和OpenAI模型的背景下进行的。[...在Telegram上阅读“Zamin”！]\n\n诺迪尔别克·拉佐科夫\n\n《ZAMIN.UZ》编辑\n\n+... 在Google上关注Zamin.uz\n\nCtrl\n\nEnter\n\n发现错误？\n\n选择短语并按Ctrl+Enter\n\n喜欢 0\n\n不喜欢 0\n\n相关新闻\n\n苹果将生产价值300美元的Mac Neo电脑\n\n一加推出搭载Wear OS 6的Watch 4\n\n小米推出提供72分钟连续热水的米家热水器\n\n阿里巴巴发布新的Qwen 2.5-27B人工智能模型\n\n微软向9000名员工提供自愿离职方案\n\n信息  \n不允许Guest用户对本出版物发表评论。\n\n新闻 » 科技 » DeepSeek推出拥有1.6万亿参数的V4模型\n\n## 最受欢迎的科技新闻",
-          "source": "Zamin",
-          "url": "https://zamin.uz/en/technology/197627-deepseek-introduced-v4-model-with-1-6-trillion-parameters.html",
-          "time": "今日",
-          "tag": "OpenAI",
-          "image": "https://picsum.photos/seed/ai40/400/250"
+          "title": "蚂蚁集团联合清华发布 AReaL v1.0 强化学习框架",
+          "summary": "首个全异步训推解耦的大模型强化学习训练系统，让智能体强化学习开箱即用。",
+          "source": "科创板日报",
+          "url": "https://www.chinastarmarket.cn",
+          "time": "昨日",
+          "tag": "开源",
+          "image": "https://picsum.photos/seed/ai4/400/250"
         },
         {
-          "title": "人工智能性能提升的瓶颈 - 福布斯",
-          "summary": "## 热点观点：警惕嵌入式智能\n\n每周，我都会向投资者询问他们对所在行业技术趋势的看法。今天，我特别邀请了Principal Venture Partners的创始人兼管理合伙人宋艺恩（Songyee",
-          "content": "## 热点观察：警惕嵌入式智能\n\n每周，我都会向投资者询问他们对各自行业内技术趋势的看法。今天，我将分享来自Songyee Yoon的观点，她是Principal Venture Partners的创始人和管理合伙人，该公司专注于早期、以AI为核心的初创企业。她还担任惠普和麻省理工学院的董事会成员。\n\n### 目前哪些技术被过度炒作了？\n\n仿人机器人是一个引人注目的长期愿景，但在短期内被过度炒作。经济性、可靠性和现实世界的实用性都落后于叙述。大多数行业从具有更清晰投资回报的定制自动化中获益更多。持久价值将累积于支持技术——感知、操控和自主性——而不是仿人形态本身。[...] 在尼古拉斯·尼葛洛庞帝的《数字化生存》出版三十年后，下一章是“实体化”。随着智能嵌入设备、环境和传感器网络，最大的机会将在于协调这种融合的基础设施——创造持久护城河的平台，同时使AI能够转变实体经济。",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/the-prototype/2026/04/25/the-bottlenecks-slowing-down-ai-performance/",
-          "time": "今日",
-          "tag": "机器人",
-          "image": "https://picsum.photos/seed/ai38/400/250"
+          "title": "我国首个国家级人形机器人标准体系发布",
+          "summary": "我国首个国家级\"人形机器人与具身智能标准体系\"正式发布。",
+          "source": "软盟资讯",
+          "url": "https://www.ruanmeng.com",
+          "time": "3月2日",
+          "tag": "标准",
+          "image": "https://picsum.photos/seed/ai5/400/250"
         }
       ]
     },
@@ -81,64 +75,40 @@
       "icon": "🌍",
       "items": [
         {
-          "title": "MAXDropshipping 推出增强型履约解决方案，助力电子商务品牌扩张 - markets.businessinsider.com",
-          "summary": "我的市场观察列表\n\n市场  新闻\n\n# MAXDropshipping 发布增强型履行解决方案以扩大电子商务品牌规模\n\n新闻稿 GlobeNewswire\n\n2026年4月25日，上午10:50\n\n纽",
-          "content": "市场观察列表\n\n市场  新闻\n\n# MAXDropshipping 发布增强型履约解决方案以助力电商品牌扩张\n\n新闻稿 GlobeNewswire\n\n2026年4月25日，上午10:50\n\n纽约，2026年4月25日（GLOBE NEWSWIRE）-- 全球代发货履约合作伙伴MAXDropshipping宣布，其履约解决方案已得到增强，以更好地支持在代发货行业快速变化中扩张的电商卖家。",
-          "source": "Markets",
-          "url": "https://markets.businessinsider.com/news/stocks/maxdropshipping-launches-enhanced-fulfillment-solution-for-scaling-e-commerce-brands-1036062398",
+          "title": "深圳华强北发布 AI 硬件全球销售热力图",
+          "summary": "2026年1-2月数据显示，无人机海内外市场需求保持旺盛。",
+          "source": "新华社",
+          "url": "https://www.xinhuanet.com",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news39/400/250"
+          "tag": "数据",
+          "image": "https://picsum.photos/seed/shop0/400/250"
         },
         {
-          "title": "工业物联网平台市场到2032年将达到348.8亿美元 - openPR.com",
-          "summary": "2026年3月23日，西门子在北京的RXD峰会上宣布了新的工业人工智能发展势头，汇聚了2000多名客户、合作伙伴、开发者和行业领袖。西门子推出了26项新的边缘、自动化和控制技术，并扩大了与阿里巴巴的合",
-          "content": "2026年3月23日，西门子在北京的RXD峰会上宣布了新的工业人工智能发展势头，汇聚了2000多名客户、合作伙伴、开发者和行业领袖。西门子推出了26项新的边缘、自动化和控制技术，并扩大了与阿里巴巴的合作，将先进的工业仿真软件带入云端。这一发展之所以重要，是因为它表明工业物联网平台正更接近于人工智能驱动的执行，而不仅仅是监控。\n\n西门子与KION合作数字化内部物流和仓库运营[...]这一转变正在被工业人工智能加速。西门子在2026年3月表示，工业人工智能正从实验阶段转向在工厂、基础设施和工业供应链中的大规模部署。该公司还推出了26项新的边缘、自动化和控制技术，并扩大了与阿里巴巴的合作，将先进的工业仿真软件带入云端。微软的Azure IoT Operations 2510在2025年11月达到普遍可用性，并定位为从边缘到云端的数据平面和物理环境中人工智能的基础。[...]\n\n2026年3月19日，霍尼韦尔宣布商业推出Experion Operations Assistant，这是一款基于其Experion PKS分布式控制系统构建的人工智能驱动解决方案。霍尼韦尔表示，该助手将历史数据与实时运营洞察相结合，帮助操作员预测并应对不安全操作和生产损失情景。在试点使用中，助手平均在报警事件发生前5到10分钟做出预测。",
-          "source": "Openpr",
-          "url": "https://www.openpr.com/news/4488376/industrial-iot-platform-market-to-reach-us-34-88-billion-by-2032",
+          "title": "雷军两会建议：提高人形机器人使用率",
+          "summary": "小米 CEO 提出 5 份建议，涉及智能制造应用和人才培养。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news40/400/250"
+          "tag": "政策",
+          "image": "https://picsum.photos/seed/shop1/400/250"
         },
         {
-          "title": "中国在土耳其婴儿服装出口中占据主导地位，单价 - Fibre2Fashion",
-          "summary": "在纽约Texworld展会上采购优质面料，结识全球供应商 | 立即注册\n\n将纺织废料转化为高性能保温材料，了解Thermore Ecodown T2T | 了解更多\n\n在2026年台北TITAS展览会",
-          "content": "在纽约Texworld展会上寻找优质面料，结识全球供应商 | 立即注册\n\n将纺织废料转化为高性能保温材料，了解Thermore Ecodown T2T | 了解更多\n\n在2026年台北TITAS展览上遇见全球纺织创新者 | 今天就注册\n\n智能\n新闻\n贸易展会与活动\n市场\n营销解决方案\n+ 数字广告\n+ 印刷广告\n+ 网络研讨会营销\n+ 媒体助推器\n+ 杂志订阅\n更多\n\n+ 文章\n+ F2F Prime\n+ Emerge - 时尚加速器\n\n与我们合作广告\n\n登录\n\nF2F Prime\n为您提供\n纺织品\n服装\n时尚\n零售\n电子商务\n技术\n可持续性\n化学品\n技术纺织品\n\n新闻快讯",
-          "source": "Fibre2fashion",
-          "url": "https://www.fibre2fashion.com/news/apparel-news/china-dominates-turkiye-in-baby-garment-exports-unit-prices-309881-newsdetails.htm",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news41/400/250"
+          "title": "华为发布 Atlas 950 SuperPoD",
+          "summary": "MWC 2026 期间，华为发布多款超节点产品，助力运营商智能化升级。",
+          "source": "华为官网",
+          "url": "https://www.huawei.com",
+          "time": "昨日",
+          "tag": "产品",
+          "image": "https://picsum.photos/seed/shop2/400/250"
         },
         {
-          "title": "蕾哈娜从鲜绿色Mugler换成鳄鱼纹Alaïa，亮相Fenty Beauty孟买快闪店 - WWD",
-          "summary": "名人新闻\n   - 作者：朱莉娅·特蒂\n### 中国洞察：中产阶级重置和资产转移正在重写时尚消费\n\n商业特色\n   - 作者：李军\n### Shay Mitchell、Quavo和Aryna Saba",
-          "content": "名人新闻\n- 作者：朱莉娅·特蒂\n### 中国洞察：中产阶级重置和资产转移正在重写时尚消费\n\n商业特色\n- 作者：李军\n### Shay Mitchell、Quavo和Aryna Sabalenka投资OneOff\n\n商业特色\n- 作者：卡尼卡·塔尔瓦尔\n### 为2026年的Marc Jacobs做好准备，与Nicky Hilton一起\n\nWWD和Women's Wear Daily是Penske Media Corporation的一部分。©2026 Fairchild Publishing, LLC。版权所有。\n由WordPress.com VIP提供支持\n\nWWD\n\n账户\n\n欢迎\n\n管理账户\n\n退出\n\n### 时尚\n\n- 时尚趋势\n- 时尚特色\n- 时尚独家新闻\n- 设计师与奢侈品\n- 牛仔\n- 随时穿着\n- 配饰\n- 珠宝\n- 手袋\n### 商业 [...] + 牛仔\n- 行业新闻\n- 生活方式监测\n- 物流\n- 报告\n- SJ工作室\n- 可持续性\n- 贸易\n- 视频\n- 网络研讨会\n### 可持续性\n\n- 商业\n- 环境\n- 社会影响\n- 材料\n- 创新\n### 家居/设计\n\n- 室内设计\n- 家具\n- 照明\n- 建筑\n- 材料\n- 家居装饰\n### WWD周末\n### 特别系列\n\n- 颁奖节目\n- WWD庆祝西班牙裔传统月\n- 时尚和美容领域的领军声音\n- 视频\n- 播客\n- 工作室\n- RetailRx社区\n### 活动\n\n- Fairchild Live\n### 眼睛\n\n- 派对\n- 人物\n- 生活方式\n- 名人房地产\n### 购物\n\n- 美容\n- 时尚\n- 家居\n- 鞋子 [...] WWD 鞋类新闻 采购杂志\n\nWWD周末 美容公司 Fairchild Live\n\n有线索吗？\n\n今日数字日报\n\n账户\n\n管理账户\n\n退出\n\n网站类别\n\nWWD\n\n账户\n\n欢迎\n\n管理账户\n\n退出\n\n今日数字日报\n\n账户\n\n欢迎\n\n管理账户\n\n退出\n\n商业\n\n### 破产法院批准Saks Global的5亿美元退出融资方案\n\n时尚\n\n### LVMH奖宣布2026年版九位决赛选手\n\n商业\n\n### 中国洞察：中产阶级重置和资产转移正在重写时尚消费\n\n# Rihanna从Chartreuse切换",
-          "source": "Wwd",
-          "url": "https://wwd.com/pop-culture/celebrity-news/rihanna-mugler-alaia-fenty-beauty-mumbai-1238929650/",
+          "title": "千问\"一句话下单\"功能 DAU 突破 7300 万",
+          "summary": "超过 400 万 60 岁以上新用户通过 AI 完成外卖下单。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news36/400/250"
-        },
-        {
-          "title": "汤米·希尔费格F1迈阿密胶囊系列几乎在网上售罄（但我们找到了两天内获得这些爆款单品的方法）- WWD",
-          "summary": "WWD 鞋类新闻  采购杂志\n\nWWD 周末 美容公司 费尔柴尔德直播\n\n有新闻线索？\n\n今日数字日报\n\n账户\n\n管理账户\n\n退出登录\n\n网站分类\n\nWWD\n\n账户\n\n欢迎\n\n管理账户\n\n退出登录\n\n",
-          "content": "WWD 鞋类新闻  采购杂志\n\nWWD周末 美容公司 费尔柴尔德直播\n\n有线索吗？\n\n今日数字日报\n\n账户\n\n管理账户\n\n注销\n\n网站分类\n\nWWD\n\n账户\n\n欢迎\n\n管理账户\n\n注销\n\n今日数字日报\n\n账户\n\n欢迎\n\n管理账户\n\n注销\n\n商业\n\n### 破产法院批准Saks Global的5亿美元退出融资方案\n\n时尚\n\n### LVMH奖宣布2026年版九位决赛选手\n\n商业\n\n### 中国洞察：中产阶级重置和资产转移正在重写时尚消费\n\n# Tommy Hilfiger的F1迈阿密胶囊系列几乎在网上售罄（但我们找到了两天内获得病毒式单品的方法）[...] 立即注册\n\n## WWD推荐\n\n### Slowear任命Alessandro Varisco为CEO\n\n  + 人力资源\n  + 作者\n\n    Luisa Zargani\n### La Ligne联合创始人讨论10周年纪念、胶囊系列和以康妮·布里顿为特色的活动\n\n  + 零售\n  + 作者\n\n    Lisa Lockwood\n### 澳洲泳装品牌Bond-eye在纽约Bleecker街375号开设永久精品店\n\n  + 零售\n  + 作者\n\n    Lisa Lockwood\n\n### 为2026年的Marc Jacobs做好准备，与Nicky Hilton一起\n\nWWD和女装日报是Penske Media Corporation的一部分。© 2026 Fairchild Publishing, LLC。版权所有。\n\n由WordPress.com VIP提供支持\n\nWWD\n\n账户\n\n欢迎\n\n管理账户\n\n注销\n\n### 时尚[...] 运动鞋新闻\n\n### 耐克SB Dunk首次与这家深受喜爱的滑板店合作",
-          "source": "Wwd",
-          "url": "https://wwd.com/shop/shop-fashion/tommy-hilfiger-f1-miami-cadillac-capsule-buy-online-amazon-1238929531/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news37/400/250"
-        },
-        {
-          "title": "Allure Bridals - 法国时尚网络",
-          "summary": "时尚工作\n\n视觉陈列经理，摄政街\n\n伦敦·长期职位\n\n高级客户经理\n\n伦敦·长期职位\n\n全球电子商务交易主管\n\n北安普顿·长期职位\n\nME AND EM\n\n产品洞察负责人\n\n伦敦·长期职位\n\nGANT",
-          "content": "时尚工作职位\n\n视觉陈列经理，摄政街\n\n伦敦，长期职位\n\n高级客户经理\n\n伦敦，长期职位\n\n全球电子商务交易主管\n\n北安普顿，长期职位\n\nME AND EM\n\n产品洞察主管\n\n伦敦，长期职位\n\nGANT\n\n鞋类运营协调员\n\n长期职位\n\nFARFETCH\n\n隐私项目副经理\n\n长期职位\n\nASOS\n\n高级客户经理\n\n伦敦，长期职位\n\nFASHION PERSONNEL\n\n光学采购管理员\n\n伦敦，长期职位\n\nFASHION PERSONNEL\n\n运营经理\n\n伦敦，长期职位\n\nFASHION PERSONNEL\n\n商品规划师\n\n伦敦，长期职位\n\nFASHION PERSONNEL\n\nFOB账户协调员\n\n伦敦，长期职位\n\nFASHION PERSONNEL\n\n电子商务工作室协调员\n\n伦敦，长期职位\n\nFASHION PERSONNEL\n\n基于赫里福德的店铺销售经理",
-          "source": "Uk",
-          "url": "https://uk.fashionnetwork.com/galeries/photos/Allure-Bridals,75416.html",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news38/400/250"
+          "tag": "数据",
+          "image": "https://picsum.photos/seed/shop3/400/250"
         }
       ]
     },
@@ -148,64 +118,31 @@
       "icon": "💡",
       "items": [
         {
-          "title": "Lachy Groom将支持印度初创公司Pronto，估值达20亿美元，消息人士透露 - TechCrunch",
-          "summary": "在这笔融资之前，Pronto总共筹集了约4000万美元。其投资者包括Epiq Capital、Glade Brook Capital、General Catalyst和Bain Capital Ven",
-          "content": "在这次融资之前，Pronto总共筹集了约4000万美元。其投资者包括Epiq Capital、Glade Brook Capital、General Catalyst和Bain Capital Ventures。\n\nTechcrunch活动\n\n### 在Disrupt上遇见你的下一位投资者或投资组合初创公司\n\n#### 你的下一轮。你的下一位雇员。你的下一个突破机会。在TechCrunch Disrupt 2026找到它，超过10000名创始人、投资者和科技领袖聚集三天，参加250多个战术会议、强大的介绍和市场定义的创新。现在注册，节省高达410美元。\n\n### 在Disrupt上遇见你的下一位投资者或投资组合初创公司 [...] 2026年的第一个StrictlyVC于4月30日抵达旧金山。门票销售迅速。现在注册。\n\n2026年的第一个StrictlyVC于4月30日抵达旧金山。门票销售迅速。现在注册。\n\n### 主题\n\n生物技术与健康\n\n气候\n\n云计算\n\n商业\n\n加密货币\n\n企业\n\n电动汽车\n\n金融科技\n\n筹资\n\n小工具\n\n游戏\n\n谷歌\n\n政府与政策\n\n硬件\n\nInstagram\n\n裁员\n\n媒体与娱乐\n\nMeta\n\n微软\n\n隐私\n\n机器人技术\n\n安全\n\n社交\n\n太空\n\n初创公司\n\nTikTok\n\n交通\n\n风险投资\n\n### 来自TechCrunch的更多内容\n\n员工\n\n活动\n\nStartup Battlefield\n\nStrictlyVC\n\n新闻通讯\n\n播客\n\n视频\n\n合作伙伴内容\n\nTechCrunch品牌工作室\n\nCrunchboard\n\n联系我们\n\n简讯\n\n发布：\n\nJagmeet Singh\n\n# Lachy Groom将在20亿美元的估值下支持印度初创公司Pronto，消息人士称 [...] #### 你的下一轮。你的下一位雇员。你的下一个突破机会。在TechCrunch Disrupt 2026找到它，超过10000名创始人、投资者和科技领袖聚集三天，参加250多个战术会议、强大的介绍和市场定义的创新。现在注册，节省高达410美元。\n\n加利福尼亚州旧金山 | 2026年10月13-15日\n\n现在注册\n\nPronto和Groom没有回应置评请求。\n\n主题\n\n印度，Lachy Groom，Pronto，初创公司\n\n4月30日\n\n加利福尼亚州旧金山\n\nStrictlyVC在旧金山开启了一年。现在注册，参加与Uber等公司的领导者进行未经过滤的炉边谈话和风险投资洞察。",
-          "source": "Techcrunch",
-          "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+          "title": "OpenAI 完成 1100 亿美元新一轮融资",
+          "summary": "该轮融资包括英伟达、亚马逊和软银的投资承诺。",
+          "source": "彭博社",
+          "url": "https://www.bloomberg.com",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news42/400/250"
+          "tag": "融资",
+          "image": "https://picsum.photos/seed/rocket0/400/250"
         },
         {
-          "title": "印度初创公司Snabbit寻求以4亿美元估值进行新一轮融资，消息人士称 - TechCrunch",
-          "summary": "2026年首届StrictlyVC将于4月30日登陆旧金山。门票正在迅速售罄，立即注册。\n\n2026年首届StrictlyVC将于4月30日登陆旧金山。门票正在迅速售罄，立即注册。\n\n### 主题\n\n",
-          "content": "2026年首届StrictlyVC将于4月30日在旧金山举行。门票销售迅速，现在就注册。\n\n### 主题\n\n生物技术与健康\n\n气候\n\n云计算\n\n商业\n\n加密货币\n\n企业\n\n电动汽车\n\n金融科技\n\n筹资\n\n小工具\n\n游戏\n\n谷歌\n\n政府与政策\n\n硬件\n\nInstagram\n\n裁员\n\n媒体与娱乐\n\nMeta\n\n微软\n\n隐私\n\n机器人技术\n\n安全\n\n社交\n\n太空\n\n初创企业\n\nTikTok\n\n交通\n\n风险投资\n\n### TechCrunch更多内容\n\n员工\n\n活动\n\nStartup Battlefield\n\nStrictlyVC\n\n新闻通讯\n\n播客\n\n视频\n\n合作内容\n\nTechCrunch品牌工作室\n\nCrunchboard\n\n联系我们\n\n初创企业\n\n# 印度Snabbit寻求以4亿美元估值进行新融资，消息人士称\n\nJagmeet Singh [...] 该轮融资预计将包括Mirae Asset、FJ Labs以及包括Lightspeed Venture Partners和Bertelsmann India Investments在内的现有投资者参与，消息人士告诉TechCrunch。这将标志着Snabbit的估值从2025年10月筹集3000万美元时的1.8亿美元大幅跳升。交易可能最早在下周宣布。\n\n成立于2024年的Snabbit，通过其管理的工人网络，为家庭提供清洁、洗碗、洗衣等家务的即时帮助，提供快速的周转时间。在此轮融资之前，该初创企业总共筹集了5500万美元资金。 [...] 加利福尼亚州旧金山 | 2026年10月13-15日\n\n现在注册\n\n该初创企业当时在其平台上与大约5000名专业人士合作，他补充说，这些人全部是女性。\n\nSnabbit及其投资者没有回应置评请求。\n\n主题\n\nFJ Labs, 印度, lightspeed venture partners, Mirae Asset Venture Investment, Snabbit, 初创企业, Susquehanna Venture Capital, 风险投资\n\n当您通过我们文章中的链接购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nJagmeet Singh\n\n记者\n\nJagmeet报道初创企业和与科技政策相关的更新。",
-          "source": "Techcrunch",
-          "url": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news43/400/250"
+          "title": "北京数据和人工智能安全检测中心揭牌",
+          "summary": "AI 产业迎来专业鉴定机构，七大创新成果发布。",
+          "source": "北京日报",
+          "url": "https://www.bjd.com.cn",
+          "time": "3月2日",
+          "tag": "政策",
+          "image": "https://picsum.photos/seed/rocket1/400/250"
         },
         {
-          "title": "Cohere 为何与 Aleph Alpha 合并 - TechCrunch",
-          "summary": "Cohere也希望通过提供隐私和独立性方面可能不符合要求的AI供应商的替代品，来吸引企业的关注。这个新实体计划针对高度受监管的行业——包括国防、能源、金融、医疗保健、制造业和电信——以及公共部门。\n\n",
-          "content": "Cohere也希望通过提供隐私和独立性方面可能不满足企业需求的AI供应商的替代品来获得推动力。这家新公司计划针对高度受监管的行业——包括国防、能源、金融、医疗保健、制造业和电信——以及公共部门。\n\nTechcrunch活动\n\n### 在Disrupt上遇见您的下一个投资者或投资组合初创公司\n\n#### 您的下一轮。您的下一位员工。您的下一个突破机会。在TechCrunch Disrupt 2026上找到它，超过10,000名创始人、投资者和技术领导者聚集三天，参加250多个战术会议、强有力的介绍和市场定义性的创新。现在注册可节省高达410美元。\n\n### 在Disrupt上遇见您的下一个投资者或投资组合初创公司 [...] 2026年的第一个StrictlyVC于4月30日抵达旧金山。门票销售迅速。现在注册。\n\n2026年的第一个StrictlyVC于4月30日抵达旧金山。门票销售迅速。现在注册。\n\n### 主题\n\n生物技术与健康\n\n云计算\n\n商业\n\n加密货币\n\n企业\n\n电动车\n\n金融科技\n\n筹资\n\n小工具\n\n游戏\n\n谷歌\n\n政府与政策\n\n硬件\n\nInstagram\n\n裁员\n\n媒体与娱乐\n\nMeta\n\n微软\n\n隐私\n\n机器人技术\n\n安全\n\n社交\n\n太空\n\n初创公司\n\nTikTok\n\n交通\n\n风险投资\n\n### 来自TechCrunch的更多信息\n\n员工\n\n活动\n\nStartup Battlefield\n\nStrictlyVC\n\n新闻稿\n\n播客\n\n视频\n\n合作伙伴内容\n\nTechCrunch品牌工作室\n\nCrunchboard\n\n联系我们\n\nAI\n\n# 为什么Cohere要与Aleph Alpha合并\n\n安娜·海姆",
-          "source": "Techcrunch",
-          "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+          "title": "Honor 推出全球首款机器人手机",
+          "summary": "荣耀 CEO 表示，这是智能手机的\"全新物种\"。",
+          "source": "MWC 2026",
+          "url": "https://www.mwcbarcelona.com",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news44/400/250"
-        },
-        {
-          "title": "AI代理重塑SaaS，胜者和败者浮现 - 让我们进行数据科学分析",
-          "summary": "对那些获得支出增长的公司的估值，以Palantir和CrowdStrike为例，它们是高增长、高利润率的表现者。[...] 据福布斯报道，人工智能代理在展示出能够自主执行复杂业务工作流后，抹去了Saa",
-          "content": "对那些获得支出增长的公司的估值，以Palantir和CrowdStrike为例，它们是高增长、高利润率的表现者。[...] 据福布斯报道，人工智能代理在展示能够自主执行复杂业务工作流后，抹去了SaaS市场2850亿美元的市值。福布斯报告称，企业软件股票经历了自2008年以来最糟糕的一个季度，与此同时，企业软件支出在2026年增长了15%，达到1.4万亿美元，全球IT支出预计为6.3万亿美元，其中2000亿美元用于人工智能。文章将这种破坏描述为不均衡的：当代理系统取代多个知识工作者时，按座位定价面临压缩，将轻量级协作和任务管理供应商如Notion、Asana和Monday.com置于福布斯所描述的“死亡区”。福布斯将这些下降的估值与获得支出增长的公司对比，引用了[...]\n\n### 观察要点：\n\n观察者应关注的指标包括超出座位数的供应商指标，具体包括按产品层级的收入、年度合同价值（ACV）增长、客户内部自动化采用情况的遥测数据，以及供应商是否增加对集成、数据合同和模型控制原语的投资。同时监控公共公司的运营利润率和文章中提到的安全和分析供应商的垂直拉动。",
-          "source": "Letsdatascience",
-          "url": "https://letsdatascience.com/news/ai-agents-reshape-saas-winners-and-losers-emerge-4854f936",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news32/400/250"
-        },
-        {
-          "title": "Lachy Groom支持印度初创公司Pronto，估值达2亿美元 - 加拿大创业生态系统\n\nLachy Groom支持印度初创公司Pronto，估值达2亿美元。",
-          "summary": "全球\n\n分享  分享  分享  固定\n\n## 新闻摘要\n\nPronto，一家迅速成长的印度初创公司，提供按需家政服务，正在完成一轮由科技投资者Lachy Groom领投的融资。这轮融资将使Pronto",
-          "content": "## 资讯摘要\n\nPronto，一家快速成长的印度初创公司，提供按需家政服务，正在完成一轮由科技投资者Lachy Groom领投的融资。这轮融资将使Pronto的估值达到约2亿美元，仅几周时间就使其估值翻倍。Pronto连接家庭与家政服务，已实现显著增长，从一座城市扩展到十座城市，日订单量增加到约24,000。这家成立于2025年的公司主要雇佣女性，并继续面临需求超过新员工入职能力的问题。在这轮融资之前，Pronto已从Epiq Capital、Glade Brook Capital、General Catalyst和Bain Capital Ventures等投资者那里筹集了4000万美元。\n\n#### 标签：[...] 关闭搜索\n\n立即加入我们\n\n- 首页\n- 活动\n- 网络\n- 合作伙伴\n- 资源\n  + 皇冠珠宝\n  + 新闻\n  + 创业智慧\n  + 大学俱乐部\n\n由Startup Eco System发布，无评论\n\n图片版权归源所有\n\n16分钟前\n\n## Lachy Groom支持印度初创公司Pronto估值2亿美元\n\n全球\n\n分享 分享 分享 固定\n\n## 新闻摘要 [...] #### 浏览标签\n\n收购 AI AI开发 AI基础设施 AI创新 AI集成 AI投资 AI模型 AI安全 AI技术 亚马逊 Anthropic 苹果 人工智能 自动驾驶汽车 加拿大 创始人新闻 加拿大创业新闻 ChatGPT 加密货币 网络安全 电动汽车 埃隆·马斯克 创业精神 金融科技 融资轮次 Generative AI 全球创始人新闻 全球创业新闻 医疗创新 创新投资 IPO Meta 微软 Nvidia 安大略省创业新闻 OpenAI 萨姆·阿尔特曼 种子资金 硅谷 TechCrunch 颠覆性创新 特斯拉 多伦多创业新闻 风险投资\n\n### 相关文章\n\n9个月前 全球 中国呼吁全球AI合作，美国放松管制策略",
-          "source": "Startupecosystem",
-          "url": "https://www.startupecosystem.ca/news/lachy-groom-backs-indian-startup-pronto-at-200-million-valuation/",
-          "time": "今日",
-          "tag": "种子轮",
-          "image": "https://picsum.photos/seed/news33/400/250"
-        },
-        {
-          "title": "2026年第二季度PitchBook分析师报告：在农业科技领域，“好的”投资看起来是怎样的？- PitchBook",
-          "summary": "### 饼干列表\n\n清除\n\n   - [x] 复选框标签标签\n\n应用 取消\n\n同意 法律利益\n\n- [x] 复选框标签标签\n\n- [x] 复选框标签标签\n\n- [x] 复选框标签标签\n\n仅必需 确认我",
-          "content": "### 饼干列表\n\n清除\n\n   - [x] 复选框标签标签\n\n应用 取消\n\n同意 法律利益\n\n- [x] 复选框标签标签\n\n- [x] 复选框标签标签\n\n- [x] 复选框标签标签\n\n仅必需 确认我的选择\n\n图片 117：由 Onetrust 提供支持\n\n图片 118 图片 119 图片 120 图片 121 图片 122 图片 123 [...] \n               有限合伙人数据\n               人员数据\n               数据运营\n               私募股权数据库\n               私人公司估值\n\n   洞察\n                 新闻 \n               私募股权\n               风险投资\n               信贷\n               行业与科技\n               配置者\n               新闻团队\n\n                  研究库 \n               私募股权\n               风险投资\n               信贷\n               基准\n               欧洲\n               行业与科技\n\n                  [ \n               杠杆评论与数据\n               研究团队\n               方法论\n               引用指南 [...] 饼干政策\n\n接受全部\n### 管理同意偏好\n\n#### 基本饼干\n\n始终活跃\n\n基本饼干对我们网站的功能至关重要，必须保持开启。它们通常在您执行特定操作时放置，例如登录、填写表格或更改隐私设置。您可以设置浏览器阻止或提醒您这些饼干，但网站的某些部分将无法正常工作。\n\n#### 功能饼干\n\n- [x] 功能饼干\n\n这些饼干使网站能够提供增强的功能性和个性化。它们可能由我们或我们添加到页面的第三方提供商设置。如果您不允许这些饼干，那么这些服务可能部分或全部无法正常运行。\n\n#### 性能饼干",
-          "source": "Pitchbook",
-          "url": "https://pitchbook.com/news/reports/q2-2026-pitchbook-analyst-note-what-does-a-good-investment-look-like-in-agtech",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news34/400/250"
+          "tag": "创新",
+          "image": "https://picsum.photos/seed/rocket2/400/250"
         }
       ]
     },
@@ -215,64 +152,49 @@
       "icon": "⛓️",
       "items": [
         {
-          "title": "“项目加密”——为何阿特金斯可能会突然推动比特币突破8万美元——福布斯",
-          "summary": "阿特金斯将在4月27日至29日的拉斯维加斯比特币2026大会上发表演讲，这是他作为SEC主席首次在比特币领域的重大亮相。塞勒，也将发表演讲，他在4月21日的X帖子中标记了策略公司四月份的前三个周：“策",
-          "content": "阿特金斯将在4月27日至29日的拉斯维加斯比特币2026大会上发表演讲，这是他作为SEC主席的首次重大比特币亮相。塞勒也在演讲之列，他在自己的4月21日X帖子中标记了策略公司4月的前三个周：“策略公司在4月的前三个周产生了6.2%的比特币收益和₿47,079的比特币增益，价值约36亿美元。比特币增益是比特币标准下最接近净收入的类比。”在大会前两天，他不太可能停止积累，阿特金斯也不太可能在拉斯维加斯的观众面前撤销政策转变。这种组合是否足以突破8万美元大关，是交易者们下周要发现的。\n\n编辑标准\n重印与许可\n\n加载视频播放器...\n福布斯的特色视频[...]该媒体在一条帖子中写道，获得了71个点赞和29次转发。ChainGain，一位加密宏观分析师，说得更直白。“保罗·阿特金斯宣布了‘创新豁免’+启动了‘加密项目’，全面现代化的证券规则用于链上交易。SEC正在为链上证券的存在明确法律空间，”ChainGain在4月23日写道。策略公司主席迈克尔·塞勒在整个抛售过程中一直在购买。截至4月19日，他的公司持有815,061个比特币，大约以615.6亿美元的价格购得，平均价格为75,527美元，根据他自己的X披露，建立在他本月早些时候详细说明的10亿美元优先股管道之上。[...]“这是该机构历史上最支持加密货币的SEC立场，”SHARKY，一位跟踪监管变化的Web3分析师，在4月24日写道。主席最早在2025年7月启动了加密项目。本周新的内容是签署的SEC-CFTC谅解备忘录和创新豁免的运营形态，这将允许公司在不将代币化证券附加到传统证券基础设施的情况下在链上交易。Crypto.news在4月23日明确地描述了赌注：\n\n> “阿特金斯透露SEC正处于”",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/digital-assets/2026/04/25/project-crypto-why-atkins-could-suddenly-push-bitcoin-past-80k/",
+          "title": "比特币 ETF 资金流入创新高，机构配置加速",
+          "summary": "美国比特币 ETF 单日净流入超 10 亿美元，显示机构投资者持续加仓。",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com",
           "time": "今日",
           "tag": "BTC",
-          "image": "https://picsum.photos/seed/news47/400/250"
+          "image": "https://picsum.photos/seed/crypto0/400/250"
         },
         {
-          "title": "法学院举办首届模拟审判比赛 - 马萨诸塞州律师周报",
-          "summary": "统计 - [x] 统计\n\n专门用于统计目的的技术存储或访问。专门用于匿名统计目的的技术存储或访问。如果没有传票、您的互联网服务提供商的自愿遵守，或第三方的额外记录，仅为此目的存储或检索的信息通常不能用",
-          "content": "统计 - [x] 统计\n\n用于统计目的的技术存储或访问。用于匿名统计目的的技术存储或访问。没有传票、互联网服务提供商的自愿遵守，或第三方的额外记录，仅用于此目的的信息存储或检索通常无法用来识别您。\n\n广告 - [x] 广告\n\n需要技术存储或访问以创建用户档案，发送广告，或跟踪用户在网站或多个网站上的类似营销目的。\n\n管理选项\n管理服务\n管理 {vendor_count} 供应商\n了解更多目的 [...] 功能 - [x] 功能 始终活跃\n\n技术存储或访问对于使订阅者或用户明确请求的特定服务的使用成为可能，或仅用于在电子通信网络上传输通信的合法目的，是严格必要的。\n\n偏好 - [x] 偏好\n\n技术存储或访问对于存储订阅者或用户未请求的偏好是必要的。\n\n统计 - [x] 统计 [...] 查看所有裁决和和解\n\n## 编辑精选\n\n[图片 53: Phillip J. Kassel ## 小型、中型企业是否面临继任规划危机？专家警告小型律所若无继任规划，风险价值流失，敦促及早沟通[...]](\n\n[图片 55: Phillip J. Kassel ## 第7章案件中不可免除的信托失败债务 破产法官裁定祖父未为孙女创建信托的失败[...]](\n\n[图片 57: Phillip J. Kassel ## 香烟案中的惩罚性赔偿得到SJC确认 最高法院确认了一起案件中超过5600万美元的惩罚性赔偿[...]](",
-          "source": "Masslawyersweekly",
-          "url": "https://masslawyersweekly.com/2026/04/25/law-school-holds-inaugural-mock-trial-competition/",
+          "title": "以太坊 Dencun 升级完成，Layer2 费用大幅下降",
+          "summary": "升级引入 EIP-4844，使 Layer2 交易费用降低 90% 以上。",
+          "source": "The Block",
+          "url": "https://www.theblock.co",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news48/400/250"
+          "tag": "ETH",
+          "image": "https://picsum.photos/seed/crypto1/400/250"
         },
         {
-          "title": "普罗斯佩拉仲裁：仲裁乌托邦？- 艾瑟斯法律有限责任公司",
-          "summary": "Aceris Law\n\n国际仲裁事务所\n\n# 在Próspera的仲裁：仲裁乌托邦？\n\n仲裁通常是合同的产物。当事人选择仲裁是因为他们同意这样做。Próspera ZEDE偏离了这种模式，通过将仲裁嵌",
-          "content": "Aceris Law\n\n国际仲裁事务所\n\n# Próspera的仲裁：一个仲裁乌托邦？\n\n仲裁通常是合同的产物。当事人之所以选择仲裁，是因为他们同意这样做。Próspera ZEDE偏离了这一模式，将仲裁嵌入其法律架构中，即使当事人合同中未提及，也使其成为解决重大类别争议的默认机制。它还创建了两条不同的轨道：一个私人、保密的ADR程序和一个公共、判例性的裁决系统。两者之间的选择并不总是在当事人手中。[...]从这个意义上说，私人轨道看起来更接近传统的商业仲裁：保密、灵活，主要旨在解决当事人之间的争议，而不是产生具有公共重要性的裁决。\n\n## 公共PAC裁决性仲裁\n\n相比之下，Próspera的公共裁决轨道旨在产生公开、判例性的决定。在没有私人仲裁协议的情况下，当事人可能会发现自己进入了PAC的公共裁决系统。[...]还值得注意的是，Próspera居民与Próspera签订了共存协议。(#_ftn10)这似乎是第6条中提到的“居住合同”，并包含了Próspera居民、Próspera ZEDE、Próspera ZEDE信托、一般服务提供商或任何接受仲裁常设要约的第三方之间的默认仲裁。(#_ftn12)\n\n## 常设仲裁要约\n\nPZ仲裁法第6条(2)还包含了一个单独的机制，涉及常设仲裁要约：",
-          "source": "Acerislaw",
-          "url": "https://www.acerislaw.com/fr/arbitration-in-prospera-an-arbitration-utopia/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news49/400/250"
+          "title": "香港证监会批准首批现货加密 ETF",
+          "summary": "香港正式批准比特币和以太坊现货 ETF，预计 4 月上市交易。",
+          "source": "南华早报",
+          "url": "https://www.scmp.com",
+          "time": "昨日",
+          "tag": "ETF",
+          "image": "https://picsum.photos/seed/crypto2/400/250"
         },
         {
-          "title": "安全新闻本周：Discord 侦探未经授权访问了 Anthropic 的 Mythos - 连线",
-          "summary": "安德鲁·库茨\n\n黑客正在发布带有额外恶意软件的克劳德代码泄露\n\n另外：FBI表示，最近对其窃听工具的黑客攻击对国家安全构成威胁，攻击者在持续的供应链黑客攻击中窃取了思科的源代码，等等。\n\n安德鲁·库茨",
-          "content": "黑客正在发布带有额外恶意软件的Claude代码泄露事件\n- 联邦调查局表示，其窃听工具最近遭受的黑客攻击对国家安全构成风险\n- 攻击者在持续的供应链黑客攻击中窃取了Cisco源代码\n- 其他新闻\n\n你的推送通知也不受联邦调查局保护\n- 伊朗的互联网封锁达到1000小时大关\n- 加密货币诈骗导致从美国人那里窃取的金额创下纪录\n- 其他新闻\n\n仅需2分钟即可破解欧盟的新年龄验证应用程序\n- 健身房连锁和酒店巨头发生重大数据泄露\n- 对Bluesky的破坏性DDoS攻击\n- 可疑的ICE雇佣\n- 其他新闻\n\n本周安全新闻：Discord侦探未经授权访问Anthropic的Mythos\n- 间谍公司利用全球电信弱点追踪目标\n- 英国50万份健康记录在阿里巴巴上出售\n- 苹果修补了一个泄露通知漏洞\n- 其他新闻\n\n他们建立了一个传奇的隐私工具。现在他们成了死敌\n- 全世界都对GrapheneOS充满爱意，这是移动安全领域的黄金标准\n- 在其历史中心的两个人之间几乎没有爱意",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+          "title": "DeFi 协议总锁仓量突破 1000 亿美元",
+          "summary": "受市场回暖带动，DeFi 生态 TVL 创下近两年新高。",
+          "source": "DeFiLlama",
+          "url": "https://defillama.com",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/crypto27/400/250"
+          "tag": "DeFi",
+          "image": "https://picsum.photos/seed/crypto3/400/250"
         },
         {
-          "title": "南加州加密货币兄弟在2.63亿美元盗窃团伙中的命运揭晓，欺诈者的“极度奢侈”生活被揭露 — 纽约邮报",
-          "summary": "电子邮件\n\n纽约邮报\n\n在这里切换加州和纽约版。\n\n版面\n\n美国新闻\n都市\n长岛\n政治\n世界新闻\n\n美国新闻\n都市\n长岛\n政治\n世界新闻\n\n#### 推荐阅读\n\n都市\n\n# 南加州加密货币兄弟在2.6",
-          "content": "邮件\n\n纽约邮报\n\n在这里切换加州和纽约版。\n\n版面\n\n美国新闻\n都市\n长岛\n政治\n世界新闻\n\n美国新闻\n都市\n长岛\n政治\n世界新闻\n\n#### 推荐阅读\n\n都市\n\n# 南加州加密货币兄弟在2.63亿美元盗窃团伙中的命运揭晓，揭露了骗子们的“极度奢侈”生活\n\n作者\n\n罗斯·奥基夫\n\n发布于 2026年4月25日，下午2:16 ET\n\n一名年轻的涉嫌加密货币诈骗者用他被控盗窃的资金过着“极度奢侈”的生活，享受着跑车、豪华租赁房屋和私人飞机租赁。\n\n新港滩居民埃文·坦格曼，22岁，因帮助为一个“多州犯罪集团”洗钱超过2.63亿美元的加密货币，被判处70个月监禁。[...] 包括哥伦比亚特区美国检察官办公室、联邦调查局华盛顿外地办事处和华盛顿特区国税局刑事调查外地办事处在内的多个执法机构调查了此案。\n\n美国地区法院法官科琳·科拉尔-科特利还下令坦格曼在70个月刑期后服三年的监督释放。\n\n## 下载加州邮报应用，关注我们的社交媒体，并订阅我们的新闻通讯\n\n加州邮报新闻：Facebook、Instagram、TikTok、X、YouTube、WhatsApp、LinkedIn  \n加州邮报体育 Facebook、Instagram、TikTok、YouTube、X  \n加州邮报观点   \n加州邮报新闻通讯：在这里注册！  \n加州邮报应用：在这里下载！  \n家庭递送：在这里注册！Page Six Hollywood：在这里注册！\n\njustice.gov",
-          "source": "Nypost",
-          "url": "https://nypost.com/2026/04/25/us-news/socal-crypto-bro-learns-fate-in-263m-theft-ring-as-fraudsters-fantastically-extravagant-lives-exposed/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/crypto29/400/250"
-        },
-        {
-          "title": "加密新闻：AlphaPepe预售达到新阶段里程碑，比特币价格预测目标设为12万美元 - markets.businessinsider.com",
-          "summary": "比特币仍是加密货币中最强大的机构叙事，但其上行空间现在取决于ETF需求、企业积累以及宏观条件随时间保持支持。AlphaPepe正在进入一个早期窗口，预售阶段仍然开放，下一次价格重置即将到来，买家在更广",
-          "content": "比特币仍是加密货币中最强的机构叙事，但其上行空间现在取决于ETF需求、企业积累以及宏观条件随时间保持支持。AlphaPepe处于更早的阶段，预售阶段仍然开放，下一次价格重置即将到来，买家在更广泛的交易所接入开始前进行布局。\n\n加密新闻：AlphaPepe达到新阶段里程碑，同时比特币价格预测确认牛市案例 [...] 比特币的机构案例在这里仍然很重要。雅虎财经报道，比特币在2025年突破了12万美元，而迈克·诺沃格拉茨对长期轨迹保持公开看涨，显示出即使在波动中，机构对BTC的信念有多深。但比特币已经被广泛发现。AlphaPepe还处于更早的阶段，还未上市，市场还未决定该代币的价值。\n\n结论 [...] 点击访问AlphaPepe官方网站\n\n常见问题解答\n\nAlphaPepe预售状态如何？\nAlphaPepe已筹集超过95万美元，拥有8000多名持有者。第14阶段以0.01570美元的价格进行中，AlphaSwap AI去中心化交易所演示已超过1000名用户，2026年第二季度的交易所首次亮相即将到来。\n\n2026年比特币价格预测是多少？\n2026年比特币价格预测总体看涨，分析师预测集中在12万至17.5万美元之间，因为机构需求、ETF支持和长期企业积累继续塑造市场。\n\n联系方式：\n杰克·达菲  \ncontact@alphapepe.io",
-          "source": "Markets",
-          "url": "https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-presale-hits-new-stage-milestones-as-bitcoin-price-prediction-sets-target-at-120-000-1036062009",
-          "time": "今日",
-          "tag": "BTC",
-          "image": "https://picsum.photos/seed/news35/400/250"
+          "title": "央行数字货币跨境支付试点扩大",
+          "summary": "数字人民币跨境支付试点新增 5 个国家和地区。",
+          "source": "财新",
+          "url": "https://www.caixin.com",
+          "time": "3月3日",
+          "tag": "CBDC",
+          "image": "https://picsum.photos/seed/crypto4/400/250"
         }
       ]
     },
@@ -282,69 +204,63 @@
       "icon": "⚡",
       "items": [
         {
-          "title": "现代汽车在2026年北京车展上重申对中国的承诺，推出IONIQ V作为新产品攻势的第一步 - CleanTechnica",
-          "summary": "作为专为中国市场推出的首款IONIQ品牌车型，IONIQ 5体现了现代汽车致力于提供专为当地客户需求量身定制的电动汽车（EVs），融合全球工程技术专长与本地化创新。\n\nIONIQ 5源自VENUS概念",
-          "content": "IONIQ V作为中国市场首款专属的IONIQ生产车型，代表了现代汽车致力于提供专为当地客户需求量身定制的电动汽车，将全球工程专长与本地化创新相结合。\n\nIONIQ V源自VENUS概念车，引入了现代汽车为中国全电动车型系列设计的全新设计语言“起源”，同时体现了“最佳第一印象”的声明。[...]中国对现代汽车公司至关重要。世界上要求最高的电动汽车消费者、最快的发展周期、最深的电池供应链和先进的创新生态系统。这就是为什么我们加大了对中国的承诺。通过对北京现代的大量投资、未来五年内推出20款新车型、在中国正式推出我们的IONIQ品牌以及IONIQ V的揭幕，这是我们在这一市场上写过的最坚定、最雄心勃勃、最令人兴奋的篇章。中国是移动出行未来被定义的地方，现代汽车打算帮助定义它，在中国，为中国，最终为世界。—现代汽车公司总裁兼首席执行官José Muñoz [...]作为这场转型的一部分，北京现代计划在未来五年内在中国推出20款新车型，标志着其迄今为止在该市场上最雄心勃勃的产品扩张。\n\n在全新IONIQ V上市的基础上，北京现代将继续扩大其电动化产品线，在2027年上半年推出另一款SUV车型。随后将在中型至大型细分市场中更广泛地推出，涵盖纯电动汽车（BEVs）和增程式电动汽车（EREVs）。\n\n通过这一全面的产品攻势，北京现代旨在实现年销量50万辆的目标，这一目标由中国市场的新一轮增长和扩大的出口机会推动。",
-          "source": "Cleantechnica",
-          "url": "https://cleantechnica.com/2026/04/24/hyundai-motor-reaffirms-china-commitment-at-auto-china-2026-unveils-ioniq-v-as-first-step-in-new-product-offensive/",
+          "title": "宁德时代发布新一代固态电池技术",
+          "summary": "能量密度突破 500Wh/kg，预计 2027 年量产装车。",
+          "source": "证券时报",
+          "url": "https://www.stcn.com",
           "time": "今日",
-          "tag": "电池",
-          "image": "https://picsum.photos/seed/news35/400/250"
+          "tag": "固态电池",
+          "image": "https://picsum.photos/seed/energy0/400/250"
         },
         {
-          "title": "2026北京车展上亮相的这些疯狂汽车 - 汽车与驾驶",
-          "summary": "保时捷Cayenne Coupe电动车型亮相，造型更加动感\n起亚EV6 2026年大幅降价\n大众高尔夫混合动力版在欧洲亮相\n摩根汽车发布史上最强大车型\n\n我们让Rivian完成了卡罗来纳下蹲\n现代汽车",
-          "content": "保时捷Cayenne Coupe EV以更时尚的外观亮相\n起亚EV6在2026年获得大幅降价\n大众高尔夫混合动力车在欧洲亮相\n摩根展示了其有史以来最强大的汽车\n\n我们让Rivian完成了一次卡罗来纳下蹲\n现代正在测试未来N系列车型的新引擎\n新的Gunther Werks带来超级英雄般的性能\nSmart #2概念车代表着回归\n\n## 零跑B05 Ultra\n\nStellantis\n\n在中国销售的零跑B05 Ultra，也被称为Lafa5 Ultra，比其他列表上的汽车更接地气，但我们想要突出它，以展示中国电动车的可负担性。Stellantis拥有这家中国电动初创公司大约20%的股份，该公司很快将在欧洲推出常规B05。B05的长度为176.7英寸，大致相当于马自达3掀背车的大小。\n\n跳至内容\n\n 购买新车\n 购买二手车\n 研究汽车\n 专家评测\n 我的车值多少钱？\n 专家测试装备\n 新闻+故事\n\n1. 首页\n2. 新闻\n3. 2026北京车展上你错过的最疯狂车型\n\n# 2026北京车展上你错过的最疯狂车型\n\n今年北京车展上，几款高性能豪华电动车以其狂野、引人注目的设计亮相。",
-          "source": "Caranddriver",
-          "url": "https://www.caranddriver.com/news/a71123419/2026-beijing-auto-show-reveals-roundup/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news36/400/250"
-        },
-        {
-          "title": "更多二手电动车以更亲民的价格上市 - 《纽约时报》",
-          "summary": "电池动力汽车的销售业务即将在未来三年内，从大量二手车型涌入经销商那里得到一定的提振。\n\n今年将有约30万辆两到三岁的电动汽车租约到期，比2025年的12.3万辆有所增加，许多这些车辆将作为二手车重新进",
-          "content": "电池驱动汽车的销售业务即将在未来三年内，从大量二手模型涌入经销商那里获得一定的提振。\n\n今年将有大约30万辆两到三岁的电动汽车的租赁到期，比2025年的12.3万辆有所增加，其中许多车辆将以二手车的形式重新进入市场。根据市场研究公司Cox Automotive的数据，2027年将有60万辆，2028年将有近66万辆。\n\n汽油价格飙升至每加仑超过4美元，新车价格接近历史最高点，这种突然的涌入为消费者提供了负担得起的电动汽车选择。\n\n分析人士表示，二手电动汽车价格较低和汽油成本飙升将鼓励更多人考虑他们之前可能觉得太贵的车型。图片来源...Justin Sullivan/Getty Images\n\nNeal E. Boudette撰写\n\n2026年4月25日，美国东部时间上午5:02\n\n在我们的搜索结果中查看更多报道。在你的搜索结果中找到更多的报道。将《纽约时报》添加到谷歌。\n\n跳过内容跳过网站索引搜索和部分导航部分导航\n\n搜索\n\n商业\n\n订阅1美元/周登录\n\n2026年4月25日，星期六\n\n今天的报纸\n\n订阅1美元/周\n\n特朗普政府\n\n中东战争2026年4月25日，美国东部时间下午12:47，3分钟前\n汽油价格\n鲍威尔调查撤销\n海军部长被解雇\n支持率\n\n跳过广告\n\n由...支持\n\n跳过广告\n\n# 更多二手电动汽车",
-          "source": "Nytimes",
-          "url": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
+          "title": "特斯拉上海储能超级工厂投产",
+          "summary": "年产能 40GWh，产品将面向全球市场供应。",
+          "source": "澎湃新闻",
+          "url": "https://www.thepaper.cn",
           "time": "今日",
           "tag": "Tesla",
-          "image": "https://picsum.photos/seed/news37/400/250"
+          "image": "https://picsum.photos/seed/energy1/400/250"
         },
         {
-          "title": "本周矿业领域五大新闻 - 矿业数字化\n\n1. 加拿大矿业公司Kirkland Lake Gold完成对Detour Gold的收购，成为全球第五大黄金生产商。\n2. 澳大利亚矿业巨头必和必拓（BHP）计划投资5000万美元，用于开发铜和镍项目，以满足电动汽车行业的需求。\n3. 矿业公司Newmont与微软合作，利用人工智能技术优化采矿作业。\n4. 智利政府宣布将投资10亿美元，用于开发锂资源，以满足全球对清洁能源的需求。\n5. 矿业公司Rio Tinto与日本三菱重工合作，开发无人驾驶矿车技术，提高矿区安全性和效率。",
-          "summary": "这一声明预示着随着全球电动汽车和储能市场的加速发展，对锂和其他电池矿物的需求日益增长。对于矿业运营商来说，宁德时代的这一战略反映了一个更广泛的趋势，可能会重塑采购关系，并在国内外矿物项目中创造重大机遇",
-          "content": "这一声明标志着随着全球电动汽车和储能市场的加速发展，对锂和其他电池矿物的需求日益增长。对于矿业运营商而言，宁德时代的战略反映了一个更广泛的趋势，这可能会重塑采购关系，并为国内外矿物项目创造重大机遇。\n\n新成立的子公司将整合现有的矿业资产，并寻求额外的矿物开发，加强关键输入的供应连续性。电池生产商的这种垂直整合可能意味着矿商将获得更稳定、长期的承购协议，同时也加剧了对优质矿床的竞争。 [...] 文章\n\n运营\n\n# 本周矿业领域五大新闻\n\n作者：Louise Collins\n\n2026年4月25日\n\nundefined分钟\n\n分享\n\n分享\n\n矿业数字审视本周的一些顶级新闻，涵盖电池需求、应对中断和关键矿物推动的故事。\n\n## 宁德时代44亿美元矿业投资对矿物供应意味着什么\n\n全球最大的电动汽车电池制造商宁德时代（CATL）计划向一家新的矿业子公司投资300亿元人民币（44亿美元），这可能成为供应关键电池材料的矿业公司的分水岭时刻，因为该公司寻求加强对上游资源的控制。 [...] “这家电池巨头已经嗅到了即将到来的巨大增长机会，”上海金融咨询公司Integrity的顾问丁海峰在接受路透社采访时表示。\n\n## 满足铜需求：在全球中断中矿山的表现如何\n\n印尼和智利的矿山中断与人工智能和电动汽车部门前所未有的需求相汇合，使矿业运营成为全球铜供应危机的中心。\n\n对于矿业高管和运营经理来说，这可能代表着谈判力量和战略定位的根本转变，因为下游加工商为争夺精矿而激烈竞争。",
-          "source": "Miningdigital",
-          "url": "https://miningdigital.com/news/this-weeks-top-five-stories-in-mining",
-          "time": "今日",
-          "tag": "CATL",
-          "image": "https://picsum.photos/seed/news33/400/250"
+          "title": "全国碳市场扩容，纳入钢铁水泥行业",
+          "summary": "碳交易市场覆盖范围扩大，推动高耗能行业绿色转型。",
+          "source": "生态环境部",
+          "url": "https://www.mee.gov.cn",
+          "time": "昨日",
+          "tag": "碳中和",
+          "image": "https://picsum.photos/seed/energy2/400/250"
         },
         {
-          "title": "电动垃圾车是隐藏在众目睽睽之下的重型电动车故事 - CleanTechnica",
-          "summary": "阶段。纯电动重型压缩垃圾车是经过验证的技术，因此试验只会浪费时间和精力。[...] 在氢能和电池之间的选择：电池在全球范围内已经胜出并且正在扩大规模。不要浪费时间评估氢能作为替代品，因为测试已经完成。",
-          "content": "阶段。电池电动重型紧凑型垃圾车是经过验证的技术，因此试验只是浪费时间和金钱。[...] 在氢能和电池之间的选择：电池在全球范围内已经胜出并且正在扩大规模。不要浪费时间评估氢能作为一种替代品，因为测试已经完成。[...] 压缩天然气（CNG）和可再生天然气多年来一直占据绿色垃圾车领域，特别是在北美。许多城市和承运商将垃圾车队从柴油转换为压缩天然气，因为CNG相较于旧柴油发动机减少了一些污染物，降低了噪音，并提供了一个更清洁车队的叙述。一些车队使用垃圾填埋气或消化气途径来声称可再生天然气。那段历史并非不合理。旧柴油垃圾车噪音大且脏，而CNG提供了降低一些本地污染物的途径。但电池电动卡车改变了终点。它们消除了路线上的尾气排放，减少了路边噪音，并减少了对柴油和天然气价格波动的暴露。",
-          "source": "Cleantechnica",
-          "url": "https://cleantechnica.com/2026/04/25/electric-garbage-trucks-are-the-heavy-duty-ev-story-hiding-in-plain-sight/",
+          "title": "光伏组件出口量同比增长 35%",
+          "summary": "中国光伏产品海外需求持续旺盛，欧洲和新兴市场为主要增长点。",
+          "source": "光伏們",
+          "url": "https://www.pvmen.com",
           "time": "今日",
-          "tag": "电池",
-          "image": "https://picsum.photos/seed/news34/400/250"
+          "tag": "光伏",
+          "image": "https://picsum.photos/seed/energy3/400/250"
         },
         {
-          "title": "欧盟-美国关键矿产伙伴关系：对国防、电动汽车供应链以及更广泛的跨大西洋矿产集团的战略意义 - SLDinfo.com",
-          "summary": "### 签署内容\n\n该安排基于2026年4月在华盛顿签署的一份谅解备忘录和相关的关键矿产行动计划。两份文件都将框架描述为涵盖整个供应链，包括勘探、提取、加工、回收和替代，而不仅仅是作为一项狭窄的关税或",
-          "content": "### 签署内容\n\n该安排基于2026年4月在华盛顿签署的一份谅解备忘录和相关的关键矿产行动计划。两份文件都描述了涵盖整个供应链、勘探、提取、加工、回收和替代的框架，而不是作为一项狭窄的关税或市场准入协议。\n\n目标是确保双方认为具有战略意义的部门供应：电池、电动汽车、半导体、清洁能源系统和国防技术。实际上，该协议为华盛顿和布鲁塞尔协调贸易措施和产业支持工具创造了一个结构化机制，以支持可信供应商并减少对抗性影响。\n\n### 对国防工业供应链的影响\n\n由于该伙伴关系明确将国防技术列入需要安全矿产供应的部门之一，因此对跨大西洋国防制造业具有直接影响。因此，该框架不仅与电动汽车和电池有关，还与精确制导武器、航空部件、海军系统、电子、传感器和依赖稀土元素、特种金属和加工矿产输入的先进推进系统有关。对于欧洲电池和材料生产商来说，这种区别是重要的。一个强有力的未来协议可以通过允许这些输入计入美国清洁车辆供应要求，来锚定欧盟的加工和采矿；一个较弱或不完整的安排将继续使投资倾向北美或现有的美国自由贸易伙伴。\n\n### 迈向多边矿产集团\n\n行动计划最重要的特点之一是其明确的目标，即作为协调贸易政策的主要机制，以达成一项关于关键矿产贸易的具有约束力的多边协议。这表明华盛顿和布鲁塞尔正在考虑超越双边合作。",
-          "source": "Sldinfo",
-          "url": "https://sldinfo.com/2026/04/the-eu-u-s-critical-minerals-partnership-strategic-meaning-for-defence-ev-supply-chains-and-a-wider-transatlantic-minerals-bloc/",
+          "title": "氢能源重卡商业化运营启动",
+          "summary": "首批 100 辆氢燃料电池重卡投入物流干线运营。",
+          "source": "中国汽车报",
+          "url": "https://www.cnautonews.com",
+          "time": "3月2日",
+          "tag": "氢能",
+          "image": "https://picsum.photos/seed/energy4/400/250"
+        },
+        {
+          "title": "比亚迪发布第五代 DM 混动技术",
+          "summary": "百公里油耗降至 2.9L，综合续航超 2000 公里。",
+          "source": "比亚迪",
+          "url": "https://www.byd.com",
           "time": "今日",
-          "tag": "电池",
-          "image": "https://picsum.photos/seed/news35/400/250"
+          "tag": "BYD",
+          "image": "https://picsum.photos/seed/energy5/400/250"
         }
       ]
     }
   ],
-  "generatedAt": "2026-04-26T02:56:44.236Z",
+  "generatedAt": "2026-04-27T03:21:29.019Z",
   "version": "3.0.0",
   "source": "tavily-kimi"
 }
