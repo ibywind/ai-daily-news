@@ -1,11 +1,11 @@
 {
   "date": {
-    "date": "2026-06-16",
-    "display": "2026年6月16日星期二",
-    "timestamp": "2026-06-16T04:25:12.131Z",
+    "date": "2026-06-17",
+    "display": "2026年6月17日星期三",
+    "timestamp": "2026-06-17T04:19:42.499Z",
     "year": "2026",
     "month": "06",
-    "day": "16"
+    "day": "17"
   },
   "categories": [
     {
@@ -14,64 +14,58 @@
       "icon": "🤖",
       "items": [
         {
-          "title": "2026年身份安全格局 - iTnews\n\n随着身份验证技术的发展，2026年的身份安全领域将呈现出以下特点：\n\n1. 多因素认证（MFA）成为标配：企业将普遍采用多因素认证技术，以提高账户安全性。\n\n2. 人工智能和机器学习技术的应用：AI和ML技术将被用于分析用户行为，识别异常登录活动，从而提前发现潜在的安全威胁。\n\n3. 零信任安全模型的普及：零信任模型将成为主流，要求对所有用户和设备进行持续验证，无论其是否位于内网。\n\n4. 密码管理器的广泛使用：随着密码复杂性的增加，密码管理器将成为用户管理复杂密码的重要工具。\n\n5. 生物识别技术的广泛应用：指纹、面部识别等生物识别技术将在身份验证中发挥更大作用。\n\n6. 量子计算对加密技术的挑战：随着量子计算的发展，传统加密技术将面临挑战，需要开发新的加密算法以保护身份信息。\n\n7. 法规和合规要求的加强：随着数据泄露事件的增加，各国将加强对身份安全和数据保护的法规要求。\n\n8. 云服务提供商的角色变化：云服务提供商将承担更多责任，提供更强大的身份安全解决方案。\n\n9. 隐私保护技术的创新：为保护用户隐私，将出现更多创新技术，如差分隐私和同态加密。\n\n10. 身份安全意识的提高：随着安全事件的频发，企业和个人将更加重视身份安全，提高安全意识和技能。",
-          "summary": "最新新闻\n\n## Bunnings将通过谷歌AI模式销售 ## LVP选择OpenClaw和Claude进行混合云AI布局 ## AI代理正在重塑身份治理，攻击者已经在利用这一差距 ## Anthro",
-          "content": "最新新闻\n\n## 本宁斯将通过谷歌AI模式销售 ## LVP选择OpenClaw和Claude进行混合云AI布局 ## AI代理正在重塑身份治理，攻击者已经在利用这一差距 ## Anthropic全球推出Mythos级模型 ## 奥迪A6加密货币洗钱者被捕，网络被警方取缔\n\n### 最受欢迎的科技故事\n\n## 国库酒庄大力投资数字、数据和AI\n\n## 澳大利亚广播公司放弃Salesforce，选择Braze\n\n## Stockland构建AI助手作为进入SAP的桥梁\n\n## 本宁斯将通过谷歌AI模式销售\n\n## Chemist Warehouse的AI人力资源工具成为“标准模式”\n## HamiltonJet与数字服务提供商Fortude合作\n\n## SentinelOne与Sektor签署分销协议",
-          "source": "Itnews",
-          "url": "https://www.itnews.com.au/resource/2026-identity-security-landscape-626433",
+          "title": "越南《人工智能法》正式生效，成东南亚首个 AI 专门立法国家",
+          "summary": "越南于3月1日正式实施《人工智能法》，标志着东盟 AI 治理进入新阶段。",
+          "source": "环球时报",
+          "url": "https://www.huanqiu.com",
           "time": "今日",
-          "tag": "Google",
-          "image": "https://picsum.photos/seed/ai48/400/250"
+          "tag": "政策",
+          "image": "https://picsum.photos/seed/ai0/400/250"
         },
         {
-          "title": "人工智能分布变化（网络研讨会回顾）：2026年酒店领导者需要了解的内容 - 酒店新闻资源",
-          "summary": "发现和预订现在成了两个独立的问题\n\n历史上，可见性和转化率是相连的。但现在不再是这样了。\n\nAI决定哪些酒店会被看到\n\n预订发生在别的地方（目前是这样）\n\n正如Tyrone Millard所指出的，今",
-          "content": "发现和预订现在成了两个独立的问题\n\n历史上，可见性和转化是相连的。现在不再是这样了。\n\n人工智能决定哪些酒店会被看到\n\n预订发生在其他地方（目前是这样）\n\n正如Tyrone Millard所指出的，今天的焦点仍然是发现和相关性，而不是无缝交易。\n\n如果你在人工智能的回应中不可见，你的分销策略就无关紧要。\n\n结构化数据胜过酒店营销文案\n\n多位发言人强调了同一个观点：\n\n人工智能不理解品牌声音——它理解结构化的真实信息。\n\nJason Cincotta强调，可见性是一个技术问题，而不是内容问题。空洞的文案、通用的博客和模糊的定位将会失败。\n\n成功的酒店将会：[...] 成功的酒店将会：\n\n清晰定义房间属性\n标准化设施\n在各个平台上保持一致、真实的数据\n\n酒店考虑集正在缩小\n\n人工智能正在压缩漏斗。\n\n从研究40家酒店和各种网站 → 人工智能将其缩小到4家\n\n从研究多个网站 → 人工智能将其缩小到一个界面\n\n正如Sanjay Vakil所说：人工智能帮助旅行者将压倒性的选择缩小到一个简短、决定性的列表。如果你不在那个短名单上，你就没有竞争力。\n\n你不需要完美的技术就可以开始\n\n这里有一种健康的紧张感。Harriet Brown推动MCP/app连接性以获得直接预订访问权限，而Brad Brewer指出酒店已经通过以下方式获得收入：\n\n列表\n引文\n结构化可见性 [...] #人工智能分销转变（网络研讨会回顾）：2026年酒店领导者需要知道什么\n\n供应商新闻 - 酒店分销          Cogwheel Analytics\n\nFacebook   X   Linkedin   Email\n\n简而言之：最近一次酒店行业网络研讨会讨论了人工智能在酒店分销中的演变角色，强调了它在2026年之前通过提高效率、客户体验和收入生成来增强酒店行业的潜力。",
-          "source": "Hotelnewsresource",
-          "url": "https://www.hotelnewsresource.com/article141663.html",
+          "title": "荣耀发布机器人手机，AI 从\"云端对话\"走向\"端侧执行\"",
+          "summary": "MWC 2026 上，荣耀推出融合具身智能的机器人手机，被视为 AI 智能体重要入口。",
+          "source": "新华网",
+          "url": "https://www.xinhuanet.com",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/ai49/400/250"
+          "tag": "产品",
+          "image": "https://picsum.photos/seed/ai1/400/250"
         },
         {
-          "title": "三分之一的英国保险公司在个性化方面落后，随着“人工智能执行差距”的扩大——保险时报\n\n- 根据保险时报的报道，英国有三分之一的保险公司在客户个性化服务方面进展缓慢，这导致了一个被称为“人工智能执行差距”的问题日益严重。",
-          "summary": "在这里探索更多与人工智能相关的故事，或在这里发现其他新闻故事。\n\n根据Earnix新发布的报告《保险2026：Earnix人工智能趋势公告——英国调查结果深入分析》，该报告于6月11日发布，揭示了超过",
-          "content": "探索更多与人工智能相关的故事，请点击此处，或发现其他新闻故事，请点击此处。\n\n根据Earnix新发布的报告《保险2026：Earnix人工智能趋势公告——英国调查结果深入分析》，该报告于6月11日发布，揭示了超过一半（55%）的英国保险公司已将人工智能（AI）整合到一些核心业务功能中。\n\n基于对400多位全球保险高管的洞察，包括40位英国保险领袖，为《Earnix 2026行业趋势报告》提供信息，英国区域报告还显示，98%的英国保险公司要么已经在使用，要么计划使用生成性AI来处理非结构化数据——这明显领先于全球平均水平。[...] 作者：哈丽雅特·斯科特 2026-06-15T14:00:00+01:00\n\n没有评论\n\n“围绕AI的讨论现在变得更加实用——不再是测试技术，而是保险公司能否弥合执行差距，真正自信地、大规模地将AI嵌入到日常决策中，”英国、爱尔兰和南非负责人表示。\n\n三分之一的英国保险公司（30%）承认他们在个性化方面明显落后于客户期望。\n\n阅读：技术对话——AI洗牌在保险提供和责任方面造成“巨大的预期差距”\n\n阅读：数百万保险AI投资收效甚微\n\n未订阅？成为订阅者，访问我们的高级内容 [...] ## 更多哈丽雅特·斯科特\n\n## Konsileo任命Jensten领导者为保险公司策略负责人\n## 谁在2026年索赔卓越奖中获胜？\n## 圆桌会议召集高级领导者，51%的LGBTQ+员工报告缺乏可见的榜样\n\n## 主题\n\n人工智能\n保险公司\n新闻\n监管\n技术对话\n\n没有评论\n\n免费注册，获得更多获奖报道的访问权限，由保险时报提供。\n\n如果您已经注册，请登录以访问。或者，您可以请求免费试用。",
-          "source": "Insurancetimes",
-          "url": "https://www.insurancetimes.co.uk/news/third-of-uk-insurers-lagging-behind-on-personalisation-as-ai-execution-gap-grows/1458833.article",
+          "title": "阿里千问大模型负责人林俊旸卸任",
+          "summary": "阿里巴巴最年轻 P10 级技术专家宣布离开千问团队，折射 AI 人才高流动性。",
+          "source": "上观新闻",
+          "url": "https://www.jfdaily.com",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/ai50/400/250"
+          "tag": "人事",
+          "image": "https://picsum.photos/seed/ai2/400/250"
         },
         {
-          "title": "实用提示工程是那些声称人工智能只能产生平庸之作的人所忽视的因素 - 福布斯",
-          "summary": "## 人工智能的工作原理\n\n我们可以从30,000英尺的高度简要概述当代生成性人工智能和大型语言模型（LLMs）的功能设计。这个概述适用于许多流行的LLMs，包括ChatGPT、GPT-5、Claud",
-          "content": "## 人工智能的工作原理\n\n我们可以从30,000英尺的高度简要概述当代生成性人工智能和大型语言模型（LLMs）的功能设计。这个概述适用于许多流行的LLMs，包括ChatGPT、GPT-5、Claude、Gemini、Grok、CoPilot等。请注意，这个概述仅在高层次上进行，并且进行了广泛的描述。要获得关于现代人工智能工作原理的更深入解释，请查看我在这里的讨论链接。\n\n考虑这四个关键步骤：[...] “写一个不过度解释主题且不偏向整洁单一情节的短篇故事，该故事基于以下情况。”\n\n这确实有助于改进短篇故事，避免了过度解释和单一情节。差异立即显现。\n\n根据我的经验，最好告诉LLM不仅要避免做某事，还要通过提供你希望它做的事情的方面来增加清晰度。因此，我尝试了另一个提示（为强调而加粗的部分）：\n\n“写一个不过度解释主题且不偏向整洁单一情节的短篇故事，确保故事包含多线索情节，并适度解释主题，基于以下情况。[...] “一组紧凑的30个核心叙事特征捕捉了这一信号的大部分：AI故事过度解释主题，偏爱整洁的单一情节，而人类故事将主角的选择描绘为道德上更模糊，并具有增加的时间复杂性（例如，倒叙，非线性结构）。”\n每个模型的指纹特征实现了六种归因：例如，Claude产生明显的平面事件升级，GPT过度依赖梦境序列，而Gemini默认进行外部角色描述。”",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/lanceeliot/2026/06/15/pragmatic-prompt-engineering-is-the-missing-factor-tripping-up-those-claiming-that-ai-only-produces-bland-slop/",
+          "title": "黄仁勋：300 亿投资 OpenAI\"可能是最后一次\"",
+          "summary": "英伟达 CEO 表示，随着 OpenAI 准备上市，近期 300 亿美元投资可能是最后一次。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/ai38/400/250"
+          "tag": "融资",
+          "image": "https://picsum.photos/seed/ai3/400/250"
         },
         {
-          "title": "认识那些每年支付2400美元购买Anthropic公司顶级Claude计划的人——商业内幕",
-          "summary": "他用Grok的性感AI机器人来获取“色情内容”。然后他爱上了它。\n被困和禁欲\n凌晨4点的紧急行动将Anthropic的泄露变成了“工作流程启示”\n被Block解雇，在Slack上重聚：揭秘3800人的",
-          "content": "他用Grok的性感AI机器人来获取“下流内容”。然后他爱上了它。\n被困住和禁欲\n凌晨4点的紧急行动将Anthropic的泄露变成了“工作流程启示”\n被Block解雇后，在Slack上重聚：深入了解3800人的“Square Mafia”\n爱情之王：Spencer Rascoff如何重塑Tinder——以及我们的约会生活\nScott Galloway希望你抗议大型科技公司——只是不要称他为活动家\n这是你的医生在ChatGPT上\n硅谷的年轻创始人们正在戒酒或去旧金山戒酒，以“锁定”进入“磨炼模式”\nAI助手的崛起\n认识Molly O'Shea，这位从风险投资家转型的播客，让像Alex Karp和Palmer Luckey这样的高管开口说话\n约会应用正在押注数百万，认为AI会让你重新爱上它们 [...] AI\n人工智能\nAnthropic\n更多\nOpenAI\n\n首页   订阅\n\n这篇文章仅供Business Insider的订阅者阅读。成为Insider，现在开始阅读。已有账户？\n\n跳转到\n\n1. 主要内容\n2. 搜索\n3. 账户\n4. 跳转到页面顶部\n\n## 关注 已关注\n\n每次发布故事时，你都会收到直接发送到你收件箱的提醒！\n\n下次发布故事时，留意你的收件箱中的提醒！\n\n每次发布新故事时，你都会收到直接发送到你收件箱的提醒！\n\n留意你的收件箱中的提醒，下次新故事发布时！\n\n点击“注册”，你同意接收Business Insider的电子邮件。此外，你接受Insider的服务条款和隐私政策。\n\n更多故事由 [...] Sterling Cobb每月为AI支付超过1000美元。\n\n这位38岁的FlowStay首席技术官拥有三个Claude Max账户，一个ChatGPT Pro账户，以及一个Google AI Ultra账户。他策划并轮换这三个计划，以确保他获得所有的代币。\n\n“我认为这是必要的，”Cobb说。“我认为我正在做正确的事情，并且保持领先。”大多数AI用户的账单并没有达到数千美元，但许多人正在使用类似的策划。",
-          "source": "Businessinsider",
-          "url": "https://www.businessinsider.com/claude-max-20x-ai-plan-subscribers-2026-6",
-          "time": "今日",
-          "tag": "OpenAI",
-          "image": "https://picsum.photos/seed/ai39/400/250"
+          "title": "蚂蚁集团联合清华发布 AReaL v1.0 强化学习框架",
+          "summary": "首个全异步训推解耦的大模型强化学习训练系统，让智能体强化学习开箱即用。",
+          "source": "科创板日报",
+          "url": "https://www.chinastarmarket.cn",
+          "time": "昨日",
+          "tag": "开源",
+          "image": "https://picsum.photos/seed/ai4/400/250"
         },
         {
-          "title": "美国因滥用担忧对Anthropic人工智能模型采取打击行动 - Dark Reading",
-          "summary": "研究还证实，Anthropic并不孤单：OpenAI的最新模型GPT-5.5在实践者和专家级别的攻击链任务中超过了Mythos。此外，GPT-5.5成为继Mythos之后第二个完成32步企业网络攻击模",
-          "content": "研究还证实，Anthropic并不孤单：OpenAI的最新模型GPT-5.5在实践者和专家级别的攻击链任务中超越了Mythos。此外，GPT-5.5成为继Mythos之后第二个完成32步企业网络攻击模拟的模型，预算为1亿个令牌：Mythos在10次尝试中成功3次，而GPT-5.5在10次尝试中成功2次。\n\nAnthropic的Mythos并不孤单：OpenAI的GPT-5.5在复杂攻击中得分更高。来源：AISI（作者标出的颜色）。\n\n## AI使用范围覆盖整个攻击链",
-          "source": "Darkreading",
-          "url": "https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns",
-          "time": "今日",
-          "tag": "Claude",
-          "image": "https://picsum.photos/seed/ai40/400/250"
+          "title": "我国首个国家级人形机器人标准体系发布",
+          "summary": "我国首个国家级\"人形机器人与具身智能标准体系\"正式发布。",
+          "source": "软盟资讯",
+          "url": "https://www.ruanmeng.com",
+          "time": "3月2日",
+          "tag": "标准",
+          "image": "https://picsum.photos/seed/ai5/400/250"
         }
       ]
     },
@@ -81,64 +75,40 @@
       "icon": "🌍",
       "items": [
         {
-          "title": "供应链技术问题代价高昂——以下是如何应对方法\n- 连锁店时代",
-          "summary": "其他功能包括总结产品评论，将地毯的全部评论历史浓缩成概述，包括顾客喜欢的地方、反复出现的担忧以及他们最关心的细节；还有一个简化的购物中心，让顾客可以看到最新的促销活动，跟踪订单，管理退货，找到畅销商品",
-          "content": "其他功能包括汇总产品评论，将地毯的完整评论历史浓缩成概述，展示顾客喜欢什么、反复出现的担忧以及他们最关心的细节；还有一个简化的购物中心，让顾客可以看到最新的促销活动，跟踪订单，管理退货，寻找畅销和独特的产品，以及跟踪购物车和愿望清单。\n\n阅读更多：[调查：近六成消费者在使用AR功能后购买了商品]\n\n该应用程序免费下载，并包含公司对每块地毯提供免费运输和30天免费退货的保证。Rugs.com是一家拥有60多年运营历史的家族企业。\n2026年6月12日\n\n## 沃尔玛将市场运输扩展到墨西哥 [...] 沃尔玛在墨西哥和拉丁美洲以沃尔玛墨西哥和中美洲（Walmex）的旗帜运营。Walmex在六个国家运营：哥斯达黎加、萨尔瓦多、危地马拉、洪都拉斯、墨西哥和尼加拉瓜。该地区拥有超过4000家商店和俱乐部，以及32个配送中心。\n\n阅读更多：[沃尔玛计划在墨西哥投资60亿美元；到2030年新增1500家商店]\n\n沃尔玛计划未来将国际运输扩展到更多市场。\n2026年6月12日\n\n## Zaxbys在继续扩张的同时任命开发主管\n\n一家快餐炸鸡连锁店已将其临时首席开发官的头衔去除。[...] 估计的关税、税费和费用在结账时计算并显示，交付时没有额外费用。作为初次提供的一部分，沃尔玛正在进行限时促销，针对运往墨西哥的订单，包括符合条件的订单满35美元或以上免费运输。促销下的订单仍需缴纳税费和关税。\n\n“我们专注于让顾客轻松获取更广泛的产品种类，”沃尔玛市场高级副总裁Manish Joneja表示。“这是人们如何获取Walmart.com标志的演变中的一个里程碑。”",
-          "source": "Chainstoreage",
-          "url": "https://chainstoreage.com/supply-chain-tech-issues-prove-costly-heres-how",
+          "title": "深圳华强北发布 AI 硬件全球销售热力图",
+          "summary": "2026年1-2月数据显示，无人机海内外市场需求保持旺盛。",
+          "source": "新华社",
+          "url": "https://www.xinhuanet.com",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news39/400/250"
+          "tag": "数据",
+          "image": "https://picsum.photos/seed/shop0/400/250"
         },
         {
-          "title": "| 可持续棉花冲击：印度在关税豁免下引领抛售 - Fibre2Fashion",
-          "summary": "参加纽约Texworld国际纺织品供应商和采购专家会议 | 今天就注册\n\n用晓星的甘蔗基氨纶助力您的生物转型 | 了解更多\n\n在伦敦Source Fashion会议上会见经过验证的时尚供应商和制造商 ",
-          "content": "参加纽约Texworld国际纺织品供应商和采购专家会议 | 今日注册\n\n用晓星的甘蔗基氨纶助力您的生物转型 | 了解更多\n\n在伦敦Source Fashion会议上会见经过验证的时尚供应商和制造商 | 立即注册\n\n在2026年上海Intertextile家用纺织品展上寻找创新的家用纺织品和趋势 | 探索更多\n\n情报\n\n  + TexPro\n  + F2F Prime\n新闻\n 贸易展览与活动\n 市场\n 营销解决方案；)\n  + 数字广告\n  + 印刷广告\n  + 网络研讨会营销\n  + 媒体助推器\n  + 杂志订阅\n文章\n\n与我们合作广告\n\n登录\n\n F2F Prime\n 为您服务\n 纺织品\n 服装\n 时尚\n 零售\n 电子商务\n 技术\n 可持续性\n 化学品\n 技术纺织品\n\n新闻快讯 [...] 新闻\n 纺织品新闻\n 服装新闻\n 时尚新闻\n 零售新闻\n 技术新闻\n 电子商务新闻\n 可持续性\n 化学品\n 技术纺织品\n 合作伙伴新闻\n 提交您的新闻稿\n 下载新闻应用\n\n文章\n 分析员视角\n 编辑精选\n 广告特写\n 贡献者简介\n 成为贡献者 - 提交您的文章\n 访谈\n 面对面\n 行业之声\n 时尚对话\n\n市场情报\n TexPro - 免费试用\n 下载Texpro应用\n\n视频\n 网络研讨会营销\n 网络故事\n 资源\n\nFibre2Fashion杂志\n 订阅\n 在杂志上做广告\n 浏览档案\n 可持续性汇编\n 机械汇编\n 非织造布汇编\n\n© 2026, Fibre2Fashion. 版权所有。\n\n高级搜索 [...] 请稍候...\n\n推荐新闻\n\n纺织品\n\n越南渴望加强与乌拉圭的贸易\n\n纺织品\n\n德国和越南讨论在可持续制造方面的合作\n\n纺织品\n\n预计南亚2026年的增长将放缓至6.3%：世界银行\n\n热门新闻\n\n服装\n\n欧盟2026年死库存禁令：时尚未售出库存的清算\n\n纺织品\n\n孟加拉国-土耳其纺织品谈判：8.76亿美元的贸易走廊推动自由贸易协定\n\n纺织品\n\n原油价格波动重新定价了2026年印度的聚酯纺织品链",
-          "source": "Fibre2fashion",
-          "url": "https://www.fibre2fashion.com/news/textile-news/sustainable-cotton-shock-india-leads-sell-off-on-duty-waiver-311004-newsdetails.htm",
+          "title": "雷军两会建议：提高人形机器人使用率",
+          "summary": "小米 CEO 提出 5 份建议，涉及智能制造应用和人才培养。",
+          "source": "IT之家",
+          "url": "https://www.ithome.com",
           "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news40/400/250"
+          "tag": "政策",
+          "image": "https://picsum.photos/seed/shop1/400/250"
         },
         {
-          "title": "美国入境货物在五月实现年度增长，为13个月来的首次，据标准普尔全球市场情报-物流管理报告。",
-          "summary": "### 2026年6月物流管理\n\n前50名第三方物流（3PL）：稳定性回归，但标准不断提高\n\n2026年6月1日 · 随着市场条件趋于稳定，领先的第三方物流公司加大力度发展自动化、协同和战略合作伙伴关",
-          "content": "### 2026年6月物流管理\n\n前50名第三方物流（3PL）：稳定性回归，但标准不断提高\n\n2026年6月1日 · 随着市场条件趋于平稳，领先的第三方物流公司加大自动化、协调和战略合作伙伴关系的投入，以满足日益增长的发货人需求。\n\n海洋运输被挟持：一个地区、一场冲突如何影响全球行业\n\n在不确定的市场中，私有车队获得优势\n\n跨境贸易的新现实\n\n更多精彩内容\n\n### 最新资源\n像首席财务官而非供应商一样模拟AI投资回报率\n\n构建能够经受审计审查、董事会审查和事后回顾的AI商业案例的六步框架\n\n重新构想装卸码头：最大化拣选和排序自动化 更多资源\n\n### 最新资源\n\n像首席财务官而非供应商一样模拟AI投资回报率 [...] “即使考虑到这一点，我们仍然可能比2024年5月高出约6%，所以这个[2026年5月]不仅仅是‘去年很糟糕’；也是‘今年表现不错’，”他说。“原因与关税相关的前置有关。目前，你支付的是10%的关税，并且有预期到7月底可能会增加，与301条款强制劳动关税有关，与301条款过度制造有关，这就是如何从10%上升到20%，可能会花费更长的时间。无论是因为特朗普政府对关税的兴趣减少，还是因为通货膨胀相当高，你真的不想增加进口税并加剧通货膨胀。”",
-          "source": "Logisticsmgmt",
-          "url": "http://www.logisticsmgmt.com/article/u.s_bound_imports_see_annual_gains_in_may_for_first_time_in_13_months_reports_sp_global_market_intelligence",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news41/400/250"
+          "title": "华为发布 Atlas 950 SuperPoD",
+          "summary": "MWC 2026 期间，华为发布多款超节点产品，助力运营商智能化升级。",
+          "source": "华为官网",
+          "url": "https://www.huawei.com",
+          "time": "昨日",
+          "tag": "产品",
+          "image": "https://picsum.photos/seed/shop2/400/250"
         },
         {
-          "title": "TikTok精通的活跃服装品牌正在抢占市场份额 - 时尚商业",
-          "summary": "时尚商业\n\n为全球时尚界提供议程设定的情报、分析和建议。\n\n搜索\n\n# 精通TikTok的运动鞋服品牌正在抢占市场份额\n\n一群小型但新兴的品牌正在利用该类别对新奇性的需求，使用精通TikTok的营销和",
-          "content": "时尚商业\n\n为全球时尚界提供议程设定的情报、分析和建议。\n\n搜索\n\n# 精通TikTok的运动鞋服品牌正在抢占市场份额\n\n一批小型但新兴的品牌正利用该类别对新奇性的需求，通过精通TikTok的营销和生活方式驱动的定位，逐渐削弱了像Lululemon这样的老牌玩家的主导地位。\n\nBOF 专业 零售\n\n由\n\nCathaleen Chen\n\n添加BoF至谷歌\n\n多年来，\n\n请登录以确保您能够阅读我们的议程设定情报、分析和建议。或者如果您遇到问题，请联系support@businessoffashion.com。\n\n更多阅读\n\n## 打底裤的统治结束了。接下来是什么？[...]\n\n## 收听本周定义时尚的故事\n\n您现在可以在外出时收听本周最重要的BoF文章精选。发现我们的议程设定分析和专家报道，现在以音频形式提供。\n\n查看更多\n\n## 时尚商业\n\n为全球时尚界提供议程设定的情报、分析和建议。\n\n与我们联系\n\n带有此通知的链接将在新标签页中打开\n\n© 2026 时尚商业。版权所有。更多信息请阅读我们的条款和条件、隐私政策、Cookie政策和无障碍声明。[...] 关于作者\n\nCathaleen Chen\n\nCathaleen Chen是时尚商业的零售编辑。她常驻纽约，推动BoF对零售和直接面向消费者领域的报道。\n\n在本文中\n\n主题\n\n零售：运动鞋服\n\n人物\n\nZach Duane\nJennifer Zuccarini\n\n组织\n\nOner Active\nlululemon\nALO Yoga\nFleur du Mal\nNike\nOn\n\n标签\n\n消费者\n社交媒体\n运动休闲\n品牌\n直接面向消费者\n电子商务\n影响者\n\n© 2026 时尚商业。版权所有。更多信息请阅读我们的条款和条件。",
-          "source": "Businessoffashion",
-          "url": "https://www.businessoffashion.com/articles/retail/the-tiktok-savvy-activewear-brands-stealing-market-share/",
+          "title": "千问\"一句话下单\"功能 DAU 突破 7300 万",
+          "summary": "超过 400 万 60 岁以上新用户通过 AI 完成外卖下单。",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn",
           "time": "今日",
-          "tag": "TikTok",
-          "image": "https://picsum.photos/seed/news36/400/250"
-        },
-        {
-          "title": "为什么Elf推出护发产品 - 时尚杂志\n\nElf，这个以彩妆闻名的品牌，正在扩展其产品线，进军护发领域。这一举措背后的原因包括对市场需求的响应、品牌多元化战略的实施，以及对可持续性和环保的承诺。通过推出护发产品，Elf旨在为消费者提供更全面的美容解决方案，同时保持其产品的高质量和亲民价格。",
-          "summary": "六款护发产品将首先在6月16日上架TikTok Shop，随后于6月24日在Elf和Target网站上架，最后从7月5日起在美国Target门店全面上架。（Target是该品牌的独家零售合作伙伴。）“",
-          "content": "六款护发产品将首先在6月16日上架TikTok Shop，随后于6月24日在Elf和Target网站上架，最后从7月5日起在美国Target商店全面上架（Target是品牌的独家零售合作伙伴）。“显然，我们是一个非常注重社交的品牌，”Marchisotto说。“随着TikTok Shop的迅猛发展，我们看到我们的品牌获得了难以置信的关注。”根据Globaldata的最新研究，美妆购物者在TikTok Shop上的花费比平台外多55%（59.84美元对比38.54美元），而在TikTok Shop上发现美妆品牌的53.4%用户会继续进行购买，这是所有类别中最高的转化率。 [...] 在TikTok上推出也是一个吸引关注的举措，Marchisotto补充说。“另一个非常重要的因素是，它启动了飞轮效应，”她说。“这是发现和探索发生的地方，我们希望确保我们能够与广泛的受众对话——然后给他们提供直接通过TikTok Shop购物的机会，如果他们愿意的话。”",
-          "source": "Vogue",
-          "url": "https://www.vogue.com/article/why-elf-is-launching-haircare",
-          "time": "今日",
-          "tag": "TikTok",
-          "image": "https://picsum.photos/seed/news37/400/250"
-        },
-        {
-          "title": "英国宣布对16岁以下青少年实施全面的社交媒体禁令 - businessoffashion.com",
-          "summary": "请登录以确保您能够阅读我们的议程设定情报、分析和建议。如果您遇到任何困难，请通过support@businessoffashion.com与我们联系。\n\n在本文中\n\n话题\n\n媒体：社交媒体\n\n标签\n\n",
-          "content": "请登录以确保您能够阅读我们的议程设定情报、分析和建议。如果您遇到任何困难，请通过support@businessoffashion.com与我们联系。\n\n在本文中\n\n话题\n\n媒体：社交媒体\n\n标签\n\n消费者\n\n© 2026 The Business of Fashion。版权所有。更多信息请阅读我们的条款和条件。\n\n加载推荐阅读...\n\n最新新闻与分析\n\n在时尚、奢侈品和美容行业中无与伦比、世界级的新闻报道。\n\n## 英国宣布对16岁以下青少年全面禁止社交媒体\n\n英国首相基尔·斯塔默概述了针对包括TikTok和Instagram在内的平台，以及允许陌生人与儿童交流的游戏网站的措施。\n\n## 精通TikTok的运动鞋服品牌正在抢占市场份额 [...] The Business of Fashion\n\n为全球时尚界提供议程设定的情报、分析和建议。\n\n搜索\n\n媒体\n\n# 英国宣布对16岁以下青少年全面禁止社交媒体\n\n英国首相基尔·斯塔默周一表示，他将禁止16岁以下青少年使用社交媒体网站，并对游戏和直播流媒体平台施加限制，这是对大型科技公司的反击，其力度超过其他国家。 [...] 查看更多\n\n## The Business of Fashion\n\n为全球时尚界提供议程设定的情报、分析和建议。\n\n与我们在以下平台联系\n\n带有此通知的链接将在新标签页中打开\n\n© 2026 The Business of Fashion。版权所有。更多信息请阅读我们的条款和条件、隐私政策、Cookie政策和无障碍声明。",
-          "source": "Businessoffashion",
-          "url": "https://www.businessoffashion.com/news/media/britain-announces-sweeping-social-media-ban-for-under-16s/",
-          "time": "今日",
-          "tag": "TikTok",
-          "image": "https://picsum.photos/seed/news38/400/250"
+          "tag": "数据",
+          "image": "https://picsum.photos/seed/shop3/400/250"
         }
       ]
     },
@@ -148,64 +118,31 @@
       "icon": "💡",
       "items": [
         {
-          "title": "独家 | 安特拉资本获得1亿美元食品和农业投资 - 华尔街日报",
-          "summary": "从左到右，Anterra Capital合伙人Brett Wong和创始人Maarten Goossens、Phil Austin和Adam Anders。照片：Anterra Capital\n\n与其",
-          "content": "Anterra Capital的合伙人Brett Wong和创始人Maarten Goossens、Phil Austin以及Adam Anders。照片：Anterra Capital\n\n与其他投资者对人工智能的迷恋不同，Anterra Capital正在一个少有关注的多万亿美元产业中播种想法。\n\nAnterra已筹集了1亿美元用于一个食品和农业风险投资基金，预计到年底规模将翻倍。这家总部位于阿姆斯特丹和波士顿的公司在动物健康和作物保护等领域为公司提供融资和启动服务。\n\n版权所有 ©2026 Dow Jones & Company, Inc. 保留所有权利。87990cbe856818d5eddac44c7b1cdeb8\n\n#### 独家风险投资新闻和评论。\n\n紧跟交易、基金、人物以及对市场更广泛的影响。\n\n登录 订阅 [...] # 风险投资\n\n首页\n\n新闻\n\n数据\n\n行业\n\n通讯\n\n此副本仅供个人非商业用途。本材料的分发和使用受我们的订阅者协议和版权法管辖。如需非个人使用或订购多份副本，请致电Dow Jones Reprints 1-800-843-0008或访问www.djreprints.com。\n\n1.  独家  \n2.  风险投资基金\n\n# Anterra Capital为食品和农业筹集1亿美元资金\n\n## 这家风险投资公司首次关闭了一个预计到年底将达到2亿美元的食品和农业基金\n\n作者\n\nBrian Gormley\n\nWSJ Pro\n\n2026年6月15日 上午7:00 ET\n\n图片1：Anterra Capital合伙人Brett Wong和创始人Maarten Goossens、Phil Austin以及Adam Anders与一辆红色拖拉机合影。[...] []( \n\n继续阅读文章\n\n1.  专业风险投资MA IPOs \n\n### Parabilis Medicines股票在创纪录的生物技术IPO后飙升\n\n图片5\n\n肿瘤学药物公司在炙手可热的股票市场首次亮相中获得6.7亿美元。\n\n    \n[]( \n\n继续阅读文章\n\n1.  专业网络安全新闻 \n\n### AI将网络安全最难的问题从发现漏洞转变为修复漏洞\n\n图片6\n\n随着前沿模型在机器规模上自动化漏洞发现，安全主管们争相进行自动化。",
-          "source": "Wsj",
-          "url": "https://www.wsj.com/pro/venture-capital/anterra-capital-gets-100-million-bag-for-food-and-ag-53cd9e64",
+          "title": "OpenAI 完成 1100 亿美元新一轮融资",
+          "summary": "该轮融资包括英伟达、亚马逊和软银的投资承诺。",
+          "source": "彭博社",
+          "url": "https://www.bloomberg.com",
           "time": "今日",
-          "tag": "种子轮",
-          "image": "https://picsum.photos/seed/news42/400/250"
+          "tag": "融资",
+          "image": "https://picsum.photos/seed/rocket0/400/250"
         },
         {
-          "title": "SpaceX 的上市可能提升欧洲太空技术的发展 - PitchBook\n\nSpaceX 的上市计划可能会对欧洲太空技术领域产生积极影响。随着 SpaceX 的成功和上市，欧洲的太空技术初创公司可能会获得更多的关注和投资。这将有助于推动整个欧洲太空技术行业的发展，并可能吸引更多的人才和资源进入该领域。同时，欧洲的太空技术公司也可以借鉴 SpaceX 的成功经验，进一步创新和发展自己的技术和产品。",
-          "summary": "### 英国退出市场：萧条还是复兴？\n\n这篇分析师报告探讨了在多年由估值折扣、监管摩擦和赞助商行为变化导致的结构性衰退之后，伦敦证券交易所是否准备作为退出场所复兴。\n\n2026年6月11日\n\n### ",
-          "content": "### 英国退出市场：枯竭还是复兴？\n\n这篇分析报告探讨了在多年由估值折扣、监管摩擦和赞助商行为变化导致的结构性衰退之后，伦敦证券交易所是否准备作为退出场所复兴。\n\n#### 2026年6月11日\n\n**最新新闻**\n\n![Image 107: space-feature.jpg](#)\n\n### 随时间可视化SpaceX\n\n通过互动方式查看SpaceX的历史。\n\n#### 2026年6月12日\n\n![Image 108: softwarecms.jpg](#)\n\n### 软件的统一费率时代即将结束\n\nSaaS的第一季度风险投资活动表明，投资者正在接受定价模型的转变。\n\n#### 2026年6月12日\n\n了解更多关于我们的编辑标准。\n\n![Image 109: leah-hodgson-photo.jpg](#)\n\n**作者：Leah Hodgson**\n\n#### 2026年6月15日\n\n**太空**\n**风险投资**\n**欧洲**\n**科技**\n**风险投资公司**\n**EMEA [...]**\n\n![Image 72: 2025-market-intelligence-outlined-navy-icon.svg](#) 最新风险投资新闻\n塑造风险投资行业的新闻、分析和数据。\n\n![Image 73: 2025-data-gather-research-outlined-navy-icon.svg](#) 最新风险投资研究\n专家分析定义风险投资格局的趋势。\n\n![Image 74: 2025-light-smart-outlined-navy-icon.svg](#) 人工智能\n跟踪AI如何改变行业和技术投资。\n\n![Image 75: 2025-APAC-globe-outlined-navy-icon.svg](#) 欧洲风险投资\n分析塑造欧洲风险投资的关键趋势。\n\n![Image 76: 2025-exit-outlined-navy-icon.svg](#) 退出与IPO\n创业公司并购、风险投资支持的IPO、直接二次销售等。\n\n![Image 77: 2025-startup-outlined-navy-icon.svg](#) 估值\n为交易制定者提供估值趋势和新闻。\n\n共同推动主权、增加国防开支和新兴商业机会，使太空技术成为欧洲风险投资公司的关键投资主题。SpaceX的IPO向投资者展示了该行业的退出潜力是真实的。\n\n这在欧洲尤为重要，因为创始人历来出售得太早。随着更多资本的可用性和对规模化的清晰认识，这种心态正在改变。",
-          "source": "Pitchbook",
-          "url": "https://pitchbook.com/news/articles/how-spacexs-float-could-lift-the-tide-for-european-space-tech",
-          "time": "今日",
-          "tag": "IPO",
-          "image": "https://picsum.photos/seed/news43/400/250"
+          "title": "北京数据和人工智能安全检测中心揭牌",
+          "summary": "AI 产业迎来专业鉴定机构，七大创新成果发布。",
+          "source": "北京日报",
+          "url": "https://www.bjd.com.cn",
+          "time": "3月2日",
+          "tag": "政策",
+          "image": "https://picsum.photos/seed/rocket1/400/250"
         },
         {
-          "title": "阿姆斯特丹的Anterra Capital为基金三期筹集了8600万欧元的首期资金，因为人工智能重塑了食品和农业行业。- EU-Startups",
-          "summary": "德国初创企业\n\n### 科隆的Eternal.ag完成800万欧元融资，退出隐身模式，用AI驱动的机器人自动化温室采摘\n\n#### 最受欢迎\n\n### 马德里的Orbio完成1809万欧元A轮融资，扩",
-          "content": "德国初创企业\n\n### 科隆的Eternal.ag公司秘密推出，筹集800万欧元，用AI驱动的机器人自动化温室采摘\n\n#### 最受欢迎\n\n### 马德里的Orbio公司筹集了1800万欧元A轮融资，以扩大面向前线团队的AI劳动力平台\n\n### 意大利女性创立的HospitalityTech初创公司Bestie Bite筹集150万欧元，以在美国扩展其视频评论应用\n\n### 柏林的Qorelo公司在推出五个月之后筹集了300万欧元，以应对SAP 2027年的转型危机\n\n### 专注于乌克兰的DefenceTech基金Varangians在斯德哥尔摩关闭了1000万欧元\n\n### 关于我们\n\nEU-Startups.com是欧洲初创企业领先的在线杂志。了解更多关于我们和我们的广告选项。\n\n### 关注我们\n\nFacebook\n\nLinkedin\n\nTwitter\n\n© Menlo Media S.L. - 版权所有。",
-          "source": "Eu-startups",
-          "url": "https://www.eu-startups.com/2026/06/amsterdams-anterra-capital-hits-e86-million-first-close-for-fund-iii-as-ai-reshapes-food-and-agriculture/",
+          "title": "Honor 推出全球首款机器人手机",
+          "summary": "荣耀 CEO 表示，这是智能手机的\"全新物种\"。",
+          "source": "MWC 2026",
+          "url": "https://www.mwcbarcelona.com",
           "time": "今日",
-          "tag": "A轮",
-          "image": "https://picsum.photos/seed/news44/400/250"
-        },
-        {
-          "title": "SpaceX上市引发华尔街对AI热潮是否为泡沫的辩论。双方观点均有理。- 雅虎财经",
-          "summary": "换言之，Alphabet因无法快速增加产能而放弃了云收入。在这一评论背后，谷歌云第一季度的收入增长了63%，其积压订单（尚未交付的合同业务）环比增长近一倍，超过4600亿美元。其他大型供应商也在迅速增",
-          "content": "换言之，Alphabet公司因无法快速增加产能而放弃了云收入。在这一评论背后，谷歌云第一季度的收入增长了63%，其积压订单（尚未交付的合同业务）环比增长近一倍，超过4600亿美元。其他大型供应商也在迅速增长，亚马逊的AWS业务环比加速，年增长率达到28%。 [...] 值得注意的是，Stock Advisor的总平均回报率为935% —— 与标普500指数的207%相比，市场表现优异。不要错过最新的前10名榜单，可通过Stock Advisor获取，并加入由个人投资者为个人投资者建立的投资社区。\n\n查看10支股票 »\n\n\\Stock Advisor截至2026年6月14日的回报。\n\n丹尼尔·斯帕克斯及其客户未持有上述任何股票的头寸。Motley Fool持有并推荐Alphabet、亚马逊、高盛集团、Meta Platforms和微软的股票。Motley Fool有披露政策。\n\nSpaceX的IPO让华尔街争论人工智能热潮是否是泡沫。双方都有道理。这篇文章最初由Motley Fool发布。\n\n条款和隐私政策\n\n隐私仪表板\n\n更多信息",
-          "source": "Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-wall-street-debating-013100978.html",
-          "time": "今日",
-          "tag": "IPO",
-          "image": "https://picsum.photos/seed/news33/400/250"
-        },
-        {
-          "title": "金融科技操作系统FintechOS实现盈利，AI平台推动美国增长 - 金融科技时报\n\n金融科技操作系统FintechOS宣布，得益于其人工智能平台的增长，公司已实现盈利。这一成就标志着公司在美国市场扩张中的一个重要里程碑。",
-          "summary": "##### 英国和欧洲的增长\n\n在英国，FintechOS已扩展至建筑协会领域，这些机构寻求现代化用于开发和管理金融产品系统。公司还增加了在英国保险市场的业务，客户包括保险公司Admiral和保险中介",
-          "content": "##### 英国和欧洲的增长\n\n在英国，FintechOS已扩展到建筑协会领域，这些机构正在寻求现代化用于开发和管理金融产品的系统。公司还增加了在英国保险市场的业务，客户包括保险公司Admiral和保险中介Howden。\n\n在欧洲大陆，FintechOS与包括BRD Groupe Société Générale、Groupama、CEC Bank和ProCredit Bank在内的金融机构合作。公司表示，通过支持现有客户推出更多金融产品，加深了这些合作关系。\n\n## 作者\n\nThe Fintech Times\n\nThe Fintech Times\n\n    查看所有文章\n\n上一篇文章\n\n##### 马耳他的金融科技十字路口：从区块链到数字金融 [...] ##### AI平台支持产品开发\n\nFintechOS的最新平台包括Dex，这是一个AI助手，允许银行和保险公司的团队通过自然语言指令配置金融产品和操作工作流程。\n\n该平台整合了产品设计、定价、发起和服务，为金融机构提供了一个共同的系统，用于开发和管理产品。\n\nFintechOS表示，基于代理的方法将配置产品规则所需的时间减少了高达60%，基于公司自己的数据。它将最新版本描述为公司历史上最强大的平台发布。\n\nBlidarus表示，客户的反馈反映了FintechOS在金融服务中对人工智能的日益关注。 [...] FintechOS表示，增长来自美国、英国和欧洲大陆，以及对其最新AI驱动平台的增加使用。该平台使金融机构能够使用自然语言指令构建产品并设置操作工作流程。\n\n这些数据紧随2023年和2024年的两年整合。FintechOS还报告了毛利率的上升，它表示这支持了盈利能力。",
-          "source": "Thefintechtimes",
-          "url": "https://thefintechtimes.com/fintechos-reaches-profitability-as-ai-platform-fuels-us-growth/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news34/400/250"
-        },
-        {
-          "title": "DEEPLY公司筹集165万美元，以扩展其工业声学人工智能解决方案Listen AI进入全球市场。- Wowtale",
-          "summary": "“通过客户的持续需求，我亲眼见证了Listen AI如何在更广泛的工业环境中得到应用，”DEEPLY的首席执行官Suji Lee表示。“有了这笔新投资，我们将努力在更大规模上展示Listen AI的价",
-          "content": "“通过客户的持续需求，我亲眼见证了Listen AI如何在更广泛的工业环境中得到应用，”DEEPLY的首席执行官Suji Lee表示。“有了这笔新投资，我们将努力在更大规模上展示Listen AI的价值。”\n\n### 文章其他内容\n\nALCHERA筹集310万美元扩大实体AI数据业务\nROAI完成940万美元A轮融资，扩大空间智能驱动的自动制造实体AI平台\nRLWRLD在种子轮2中筹集2600万美元，扩大工业场所的实体AI应用\nNeubility完成1700万美元B轮融资，扩大全球机器人服务平台，提升实体AI机器人技术\nAIPL获得种子资金，增强自主造船解决方案",
-          "source": "En",
-          "url": "https://en.wowtale.net/2026/06/15/234248/",
-          "time": "今日",
-          "tag": "种子轮",
-          "image": "https://picsum.photos/seed/news31/400/250"
+          "tag": "创新",
+          "image": "https://picsum.photos/seed/rocket2/400/250"
         }
       ]
     },
@@ -215,64 +152,49 @@
       "icon": "⛓️",
       "items": [
         {
-          "title": "Bitmine Immersion Technologies（BMNR）宣布其ETH持有量达到562万枚，总加密货币和总现金持有量达到104亿美元 - PR Newswire",
-          "summary": "对加密货币市场的预期，包括以太坊继续受益于华尔街在区块链上代币化和自主AI系统日益需要公共和中立的区块链的双重推动；（三）预期A系列优先股将于2026年6月16日开始在纽约证券交易所以BMNP代码交易",
-          "content": "对加密货币市场的预期，包括以太坊继续受益于华尔街在区块链上代币化和越来越多的代理人工智能系统需要公共和中立的区块链；（iii）预计A系列优先股将于2026年6月16日开始在纽约证券交易所以BMNP代码交易；（iv）A系列优先股的股息支付时间表，包括预期第三次周现金股息将于2026年7月6日支付给截至2026年6月26日的在册持有人；（v）公司的数字资产积累策略和质押操作，包括预计Bitmine的ETH完全由MAVAN及其质押合作伙伴质押时，ETH质押奖励的年化约为2.69亿美元[...]Bitmine是美国交易量第203大的股票，日交易额为5.5亿美元（5日平均）。\n\nBitmine继续得到包括ARK的Cathie Wood、MOZAYYX、Founders Fund、Bill Miller III、Pantera、Kraken、DCG、Galaxy Digital和个人投资者Thomas \"Tom\" Lee等顶级机构投资者的支持，以支持Bitmine收购5% ETH的目标。\n\n康涅狄格州诺沃克，2026年6月15日 /PRNewswire/ -- （纽约证券交易所代码：BMNR）Bitmine Immersion Technologies, Inc.（\"Bitmine\"或\"公司\"），一家专注于积累加密货币以进行长期投资的比特币和以太坊网络公司，今天宣布Bitmine的加密货币+总现金和有价证券+\"登月计划\"持有量总计104亿美元。[...]截至2026年6月14日下午6:00 ET，公司的加密货币持有量包括5,620,754 ETH，每ETH 1,718美元（根据Coinbase纳斯达克：COIN），204比特币（BTC），在Beast Industries的1.8亿美元投资，在Eightco Holdings（纳斯达克：ORBS）的8800万美元投资（\"登月计划\"）以及总现金和有价证券5.02亿美元。Bitmine的ETH持有量占ETH供应量的4.66%（总计1.207亿ETH）。",
-          "source": "Prnewswire",
-          "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-62-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-4-billion-302799963.html",
+          "title": "比特币 ETF 资金流入创新高，机构配置加速",
+          "summary": "美国比特币 ETF 单日净流入超 10 亿美元，显示机构投资者持续加仓。",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com",
           "time": "今日",
           "tag": "BTC",
-          "image": "https://picsum.photos/seed/news47/400/250"
+          "image": "https://picsum.photos/seed/crypto0/400/250"
         },
         {
-          "title": "“结束了”——加密货币正悄然准备应对贝莱德引发的比特币价格大地震 - 福布斯",
-          "summary": "“特朗普刚刚给市场带来了2026年最大的反通胀事件，比特币随之上涨。但我对比特币的困境就此结束持谨慎态度，”宏观和跨资产分析师、Coin Bureau创始人Nic Puckrin在电子邮件评论中表示，",
-          "content": "特朗普刚刚给市场带来了2026年最大的反通胀事件，比特币因此消息而上涨。但我认为，现在就认为比特币的困境已经结束还为时过早，” Coin Bureau的宏观和跨资产分析师兼创始人尼克·帕克林（Nic Puckrin）在电子邮件评论中表示，他指出投资者更倾向于与人工智能相关的交易，交易所交易基金（ETF）的流入仍然“最好也只能说是缓慢”，量子计算带来的安全威胁尚未解决，以及Strategy未能将其股价回升至与其比特币持有量相等的水平。 [...] 比特币ETF资金流入的日子标志着长期流出的逆转，自去年10月以来，美国现货比特币ETF净流出达到76亿美元，其中30亿美元发生在2026年的前六个月。\n\n立即注册CryptoCodex——一个免费的加密货币通讯，将让你领先市场\n\n福布斯“他们将印制一个疯狂的数量”——预测美元崩溃将引发比特币价格飙升至100万美元。作者：比利·班布罗\n\n与此同时，伊朗外交部长表示，与美国达成结束战争的协议接近达成，包括重新开放霍尔木兹海峡的石油运输航线，油价因此下跌。 [...] 比特币价格已跌至2026年的低点，每比特币略低于60,000美元，较10月份的126,000美元峰值下跌了一半，当时黑石集团（BlackRock）发出了“血洗”警告。\n\n现在，随着交易员们押注只有一个场景可以拯救比特币，加密货币交易员们希望黑石集团的交易所交易基金（ETF）资金流入反弹意味着比特币的价格寒冬已经结束。\n\n立即注册免费的CryptoCodex——一个每天五分钟的通讯，为交易员、投资者和对加密货币感兴趣的人提供最新信息，让你了解比特币价格和加密货币市场波动的最新动态。\n\n福布斯“大动作”即将到来——华尔街悄悄透露一个“激进”的加密货币重磅炸弹，随着比特币价格暴跌突然加速。作者：比利·班布罗",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/digital-assets/2026/06/15/its-over-crypto-is-quietly-braced-for-a-huge-blackrock-bitcoin-price-game-changer/",
-          "time": "今日",
-          "tag": "BTC",
-          "image": "https://picsum.photos/seed/news48/400/250"
-        },
-        {
-          "title": "Toobit 限时将 Solana 收益率提升至 60% APR - markets.businessinsider.com",
-          "summary": "市场\n新闻\n\n# Toobit限时提升Solana收益率至60%年化利率\n\n新闻稿 GlobeNewswire\n\n2026年6月15日，上午01:21\n\n乔治城，开曼群岛，2026年6月15日（GLO",
-          "content": "市场\n新闻\n\n# Toobit限时将Solana收益率提升至60% APR\n\n新闻稿 GlobeNewswire\n\n2026年6月15日，上午01:21\n\n乔治城，开曼群岛，2026年6月15日（GLOBE NEWSWIRE）--Toobit，屡获殊荣的全球加密货币交易所，今日宣布为Solana（SOL）推出一项高收益、限时活动，为交易者提供机会，确保其资产获得60% APR的增益。\n\n这一举措为交易所的标准SOL赚取利率提供了溢价，通常范围在2.5%至3.0% APR之间，并且比之前的限时SOL赚取活动有所升级，后者提供的是36% APR。[...]该活动计划从2026年6月16日10:00 UTC开始，至2026年6月19日10:00 UTC结束。由于这些名额有限，鼓励参与者迅速行动，以确保他们的份额。\n\n要参与，交易者可以订阅Toobit Earn。关于订阅机制、利息分配时间表和完整服务条款的详细信息，可以在Toobit官方公告页面找到。\n\n此次Solana活动是Toobit Earn成功推出的一系列高收益活动之后的又一举措，包括最近对Stellar（XLM）、NEAR Protocol（NEAR）和The Open Network（TON）的提供，其APR等级范围从36%至60%。\n\nToobit Earn为交易者提供了两条途径来增长他们的加密货币：",
-          "source": "Markets",
-          "url": "https://markets.businessinsider.com/news/stocks/toobit-boosts-solana-yields-to-60-apr-for-limited-time-1036248254",
-          "time": "今日",
-          "tag": "SOL",
-          "image": "https://picsum.photos/seed/news49/400/250"
-        },
-        {
-          "title": "Ethena的USDe支付收益合法，而GENIUS法案对此无解 - 福布斯",
-          "summary": "模型存在真实的故障模式，在USDe再次扩展之前有必要明确指出。策略依赖于资金随时间保持正值。Ethena自己的数据显示，在三年的时间里，以太坊头寸有17.5%的天数出现了负的资金总和，最长的负资金持续",
-          "content": "模型存在真正的失败模式，在USDe再次扩大规模之前，有必要明确指出。该策略依赖于资金随时间保持正值。Ethena自己的数据显示，在三年的时间里，17.5%的天数以太坊头寸的总资金为负，最长的负资金持续了13天，而最长的正资金持续了176天；储备基金吸收了负资金期，因此不会向质押者收费。危险在于持续的负资金窗口与DeFi中的杠杆解除同时发生。这大致是在2025年10月10日测试它的市场范围闪崩时发生的情况，当时USDe短暂地跌至0.97美元，随后在几小时内恢复。储备稳定币在其托管人或其银行破产时破裂。合成美元在[...]时破裂。最强有力的牛市情况是USDe已经赢得了它的规模。它在多个周期中保持了它的锚定，它的抵押品是过度抵押和外部认证的，它支付的收益是来自真实市场的真金白银，而不是必须结束的发行人补贴。对产生收益的美元的需求不会消失，因为国会希望它消失，将这种需求推向海外或非标签化并不会使它更安全。问题不在于USDe是欺诈。它被出售在它不相似的工具旁边，在一个类别名称下，“稳定币”，法律现在已经定义为别的东西。将USDe和USDC视为可互换的持有者，就像将衍生品头寸定价为支票账户一样。GENIUS法案，只规范了[...]的回报是现金和携带基础交易，这是衍生品中最古老的结构。当永续资金利率为正时，多头持有者向空头支付，USDe的对冲空头除了其抵押品赚取的质押收益外，还收集了该流量。Ethena将收入描述为从delta对冲衍生品的资金和基础价差；CoinDesk更直白地表示，即USD",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/digital-assets/2026/06/15/ethenas-usde-pays-yield-legally-and-the-genius-act-has-no-answer-for-it/",
+          "title": "以太坊 Dencun 升级完成，Layer2 费用大幅下降",
+          "summary": "升级引入 EIP-4844，使 Layer2 交易费用降低 90% 以上。",
+          "source": "The Block",
+          "url": "https://www.theblock.co",
           "time": "今日",
           "tag": "ETH",
-          "image": "https://picsum.photos/seed/crypto27/400/250"
+          "image": "https://picsum.photos/seed/crypto1/400/250"
         },
         {
-          "title": "为什么信任而非速度将定义金融的未来 —— 金融科技未来",
-          "summary": "2026年6月15日\n\n支付技术\n\nHabibmetro选择BPC的SmartVista进行卡片发行和交易处理升级\n\nHabibmetro选择BPC的SmartVista进行卡片发行和交易处理升级\n\n",
-          "content": "2026年6月15日\n\n支付技术\n\nHabibmetro选择BPC的SmartVista进行卡片发行和交易处理升级\n\nHabibmetro选择BPC的SmartVista进行卡片发行和交易处理升级\n\n2026年6月15日\n\n在谷歌上获取更多新闻\n\n## 选择FinTech Futures作为“首选来源”，更快获取您重视的金融科技新闻\n\n点击此处添加\n\n### 播客\n\n查看全部\nchevron_right\n\n播客\n\n支付技术\n\nWhat the FinTech? | 第7季第11集 | 区块链、稳定币和跨境支付：深入了解Ripple的欧洲扩张\n\nWhat the FinTech? | 第7季第11集 | 区块链、稳定币和跨境支付：深入了解Ripple的欧洲扩张\n\n播客\n\nAI在金融科技中 [...] 2026年5月29日\n金融犯罪与欺诈预防\n\n#### 2026年欺诈大会：将AI和移动智能整合到现代欺诈预防中\n\n作者：Ouliana Smith\n\n2026年5月27日\n监管科技\n\n#### 当犯罪分子合作时，金融机构也必须合作\n\n作者：John Martin\n\n2026年3月11日\n\n### 最新新闻\n\n查看全部\nchevron_right\n\n风险资本融资\n\n加拿大金融科技公司Koho获得9300万美元以推动银行牌照申请\n\n加拿大金融科技公司Koho获得9300万美元以推动银行牌照申请\n\n2026年6月15日\n\n并购\n\nAdyen签署全现金交易以3.35亿美元收购Orb\n\nAdyen签署全现金交易以3.35亿美元收购Orb\n\n2026年6月15日\n\n风险资本融资\n\nClimate First Bancorp在最新融资中筹集6700万美元\n\nClimate First Bancorp在最新融资中筹集6700万美元\n\n2026年6月15日\n\n支付技术",
-          "source": "Fintechfutures",
-          "url": "https://www.fintechfutures.com/regtech/why-trust-not-speed-will-define-the-future-of-finance",
+          "title": "香港证监会批准首批现货加密 ETF",
+          "summary": "香港正式批准比特币和以太坊现货 ETF，预计 4 月上市交易。",
+          "source": "南华早报",
+          "url": "https://www.scmp.com",
+          "time": "昨日",
+          "tag": "ETF",
+          "image": "https://picsum.photos/seed/crypto2/400/250"
+        },
+        {
+          "title": "DeFi 协议总锁仓量突破 1000 亿美元",
+          "summary": "受市场回暖带动，DeFi 生态 TVL 创下近两年新高。",
+          "source": "DeFiLlama",
+          "url": "https://defillama.com",
           "time": "今日",
           "tag": "DeFi",
-          "image": "https://picsum.photos/seed/crypto28/400/250"
+          "image": "https://picsum.photos/seed/crypto3/400/250"
         },
         {
-          "title": "蚱蜢财资通过与沃尔多合作首次亮相 - 金融科技未来",
-          "summary": "哈比银行选择BPC的SmartVista升级卡片发行和交易处理系统\n\n2026年6月15日\n\n图片29：金融科技未来 - 首选来源谷歌\n\n在谷歌上更快获取您重视的金融科技新闻\n\n## 选择金融科技未来",
-          "content": "哈比银行选择BPC的SmartVista进行卡片发行和交易处理升级\n\n2026年6月15日\n\n图片29：金融科技未来 - 首选来源谷歌\n\n在谷歌上更快获取您重视的金融科技新闻\n\n## 选择金融科技未来作为“首选来源”以更快获取您重视的金融科技新闻\n\n点击此处添加\n\n### 播客\n\n查看全部 chevron_right\n\n图片30：Ripple播客 - 金融科技新闻播客\n\n支付技术\n\n金融科技是什么？| S.7 第11集 | 区块链、稳定币和跨境支付：Ripple的欧洲扩张内幕\n\n金融科技是什么？| S.7 第11集 | 区块链、稳定币和跨境支付：Ripple的欧洲扩张内幕\n\n图片31：G2A播客 - 金融科技新闻播客\n\n金融科技中的AI [...] ### 最新新闻\n\n查看全部 chevron_right\n\n图片25：Koho - 金融科技新闻\n\n风险投资融资\n\n加拿大金融科技公司Koho获得9300万美元以推进银行牌照申请\n\n加拿大金融科技公司Koho获得9300万美元以推进银行牌照申请\n\n2026年6月15日\n\n图片26：Adyen - 金融科技新闻\n\n并购\n\nAdyen签署全现金交易以3.35亿美元收购Orb\n\nAdyen签署全现金交易以3.35亿美元收购Orb\n\n2026年6月15日\n\n图片27：Climate First Bank - 金融科技新闻\n\n风险投资融资\n\nClimate First Bancorp在最新融资中筹集6700万美元\n\nClimate First Bancorp在最新融资中筹集6700万美元\n\n2026年6月15日\n\n图片28：哈比银行 - 金融科技新闻.png?width=300&auto=webp&quality=80&disable=upscale)\n\n支付技术\n\n哈比银行选择BPC的SmartVista进行卡片发行和交易处理升级",
-          "source": "Fintechfutures",
-          "url": "https://www.fintechfutures.com/business-banking/grasshopper-treasury-debuts-via-waldo-collab",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/crypto29/400/250"
+          "title": "央行数字货币跨境支付试点扩大",
+          "summary": "数字人民币跨境支付试点新增 5 个国家和地区。",
+          "source": "财新",
+          "url": "https://www.caixin.com",
+          "time": "3月3日",
+          "tag": "CBDC",
+          "image": "https://picsum.photos/seed/crypto4/400/250"
         }
       ]
     },
@@ -282,69 +204,63 @@
       "icon": "⚡",
       "items": [
         {
-          "title": "Stellantis放弃即将推出的小型电动车的多能源战略 - 汽车新闻",
-          "summary": "# Stellantis放弃即将推出的小型电动车的多能源策略\n\n作者：\n\nAndrea Malan\n\n2026年6月15日 上午10:57 EDT\n\n## 特别报道\n\n电动车\n\n4月份美国电动车注册量",
-          "content": "# 斯特兰蒂斯放弃即将推出的小型电动车的多能源策略\n\n作者：安德烈亚·马拉恩\n\n2026年6月15日 上午10:57 EDT\n\n## 特色故事\n\n电动车\n\n随着美国市场继续在税收抵免后反弹，4月份电动车注册量下降9.8%\n\n4月份美国新电动车注册量下降了9.8%，这是今年最小的降幅。特斯拉的Model Y以61%的增长引领了复苏。\n\n零售\n\nFTC警告信件：通过我们对这些报道的汇总，让你的经销商跟上速度\n\n作者：林赛·范胡尔\n\n汽车\n\n美国汽车工人联合会批准合同，结束了美国车轴工厂的罢工\n\n作者：库尔特·纳格尔\n\n梅赛德斯-奔驰\n\n梅赛德斯-AMG通过广泛的产品推广和新引擎，目标是全球销量达到20万辆\n\n作者：杰克·沃尔斯沃思",
-          "source": "Autonews",
-          "url": "https://www.autonews.com/events/congress/ane-2026-congress-cappellano-0615/",
-          "time": "今日",
-          "tag": "Tesla",
-          "image": "https://picsum.photos/seed/news35/400/250"
-        },
-        {
-          "title": "电动汽车注册量在四月下降9.8%，美国市场在税收抵免后继续反弹 - 汽车新闻",
-          "summary": "# 4月份电动汽车注册量下降9.8%，美国市场继续在税收抵免后反弹\n\n作者：\n\nLindsay VanHulle\n\n2026年6月15日 上午7:00 EDT\n\n## 特色故事\n\n梅赛德斯奔驰\n\n梅赛",
-          "content": "# 4月份美国电动车注册量下降9.8%，市场继续在税收抵免后反弹\n\n作者\n\nLindsay VanHulle\n\n2026年6月15日 上午7:00 EDT\n\n## 特色故事\n\n梅赛德斯-奔驰\n\n梅赛德斯-AMG计划通过广泛的产品推广和新引擎实现全球20万辆销量\n\n梅赛德斯-AMG的未来产品计划包括重新设计、新车型和新动力系统。\n\n作者\n\nJack Walsworth\n\n福特\n\n福特将Edge和Escape的买家转移到更贵的Explorer\n\n作者\n\nMichael Martinez\n\n丰田\n\n特朗普政策的反复无常可能因关税、电动车和排放问题使日本汽车制造商损失400亿美元\n\n作者\n\nHans Greimel\n\n高管\n\n2026年汽车新闻欧洲大会和新星奖图片集锦\n\n作者\n\nANE工作人员",
-          "source": "Autonews",
-          "url": "https://www.autonews.com/ev/an-ev-registrations-april-tesla-rebound-0615/",
-          "time": "今日",
-          "tag": "资讯",
-          "image": "https://picsum.photos/seed/news36/400/250"
-        },
-        {
-          "title": "尽管欧洲行业支持不断增长，可再生燃料为何难以扩大规模 - 汽车新闻",
-          "summary": "# 尽管欧洲行业支持不断增长，可再生燃料为何难以扩大规模\n\n作者：Lois Jones\n\n2026年6月15日 上午08:53 EDT\n\n## 特色故事\n\nEV\n\n随着美国市场继续在税收抵免后反弹，4",
-          "content": "# 尽管欧洲行业支持不断增长，可再生燃料为何难以扩大规模\n\n作者：Lois Jones\n\n2026年6月15日 上午8:53 EDT\n\n## 特色故事\n\nEV\n\n随着美国市场继续在税收抵免后反弹，4月份电动汽车注册量下降9.8%\n\n美国4月份新电动汽车注册量下降了9.8%，这是今年最小的降幅。特斯拉的Model Y以61%的增长引领了复苏。\n\nLV\n\n作者：Lindsay VanHulle\n\n零售\n\nFTC警告信：通过我们的报道汇总，让你的经销商跟上速度\n\nJH\n\n作者：John Huetter\n\n汽车\n\nUAW批准合同，结束了美国车轴工厂的罢工\n\nKN\n\n作者：Kurt Nagl\n\n梅赛德斯奔驰\n\n梅赛德斯-AMG通过广泛的产品推广和新引擎，瞄准全球20万辆销量\n\nJW\n\n作者：Jack Walsworth",
-          "source": "Europe",
-          "url": "http://europe.autonews.com/events/congress/ane-congress-europe-automakers-renewable-fuels-0615/",
-          "time": "今日",
-          "tag": "Tesla",
-          "image": "https://picsum.photos/seed/news37/400/250"
-        },
-        {
-          "title": "钢铁制造商鸿立集团在与Sidus的谅解备忘录中瞄准先进电池技术。- 股票巨头",
-          "summary": "About Sidus Energy Storage, Inc.\n\nSidus Energy Storage, Inc. is a technology company commercializing",
-          "content": "关于Sidus Energy Storage, Inc.\n\nSidus Energy Storage, Inc.是一家技术公司，商业化了从IBM授权的无钴电池技术。Sidus表示，这项技术使用了新颖的专有材料，消除了所有重金属的使用。它不仅更环保、成本效益高，而且在充电时间、扩展温度操作、高能量和功率密度以及循环寿命方面具有性能优势。Sidus的愿景是由Sidus电池驱动的更绿色的世界。Sidus正在全球扩张，并正在建立一个多元化和协作的人才团队，以创造一个更好的绿色世界。\n\n前瞻性声明 [...] 中国潍坊，2026年6月15日 /PRNewswire/ -- 冷轧成型钢材型材制造商Hongli Group Inc.（纳斯达克股票代码：HLP）（以下简称“公司”或“Hongli Group”）今日宣布，已与总部位于加利福尼亚的电池技术公司Sidus Energy Storage, Inc.（以下简称“Sidus”）签订了一份非约束性谅解备忘录（“MOU”），以探索针对北美和欧洲高增长储能市场的先进电池和储能产品的潜在战略制造合作。 [...] 该MOU支持Hongli Group向清洁能源和储能解决方案的战略转变。根据Hongli Group的说法，它遵循了计划中的新能源固态电池部门以及聘请Phillip A. Medina IV博士作为高利润率储能机会的独立技术顾问。\n\n### 在提议的合作下，Hongli Group（HLP）和Sidus Energy Storage将各自贡献什么？\n\n预计Hongli Group将贡献大规模生产经验、可扩展的基础设施和电池结构的精密型材设计。根据Hongli Group的说法，Sidus将贡献IBM授权的电池技术、产品知识、技术规范和商业渠道，以加速储能产品上市时间。",
-          "source": "Stocktitan",
-          "url": "https://www.stocktitan.net/news/HLP/hongli-group-inc-entered-into-strategic-non-binding-mou-with-sidus-s7ou0ebmtygn.html",
+          "title": "宁德时代发布新一代固态电池技术",
+          "summary": "能量密度突破 500Wh/kg，预计 2027 年量产装车。",
+          "source": "证券时报",
+          "url": "https://www.stcn.com",
           "time": "今日",
           "tag": "固态电池",
-          "image": "https://picsum.photos/seed/news33/400/250"
+          "image": "https://picsum.photos/seed/energy0/400/250"
         },
         {
-          "title": "Yujin Technology扩大了北美储能系统生产线的关键组件供应——thelec.net",
-          "summary": "Yujin Technology公司已扩大对北美一家全球电池制造商用于储能系统（ESS）的棱柱形电池生产线的关键部件供应。\n\n该公司于6月15日表示，正在增加向美国、加拿大和波兰的生产基地运送精密缺口",
-          "content": "宇进科技扩大了对北美一家全球电池制造商用于能源存储系统（ESS）的棱柱形电池生产线的关键部件供应。\n\n公司于6月15日表示，正在增加向美国、加拿大和波兰的生产基地运送精密缺口压力机和切割套件。今年上半年的累计供应量达到了约69亿韩元，相当于公司2025年合并收入287亿韩元的20%以上。\n\n缺口处理是精确加工电池电极的关键工序。切割套件是在此过程中需要不断更换的消耗性部件，随着生产量的增加，会产生持续的需求。",
-          "source": "Thelec",
-          "url": "https://www.thelec.net/news/articleView.html?idxno=11335",
+          "title": "特斯拉上海储能超级工厂投产",
+          "summary": "年产能 40GWh，产品将面向全球市场供应。",
+          "source": "澎湃新闻",
+          "url": "https://www.thepaper.cn",
           "time": "今日",
-          "tag": "电池",
-          "image": "https://picsum.photos/seed/news34/400/250"
+          "tag": "Tesla",
+          "image": "https://picsum.photos/seed/energy1/400/250"
         },
         {
-          "title": "新涂层阻止锌电池因隐性腐蚀而失去电力 - AZoM",
-          "summary": "该研究为金属负极系统建立了一种通用的界面工程策略。通过利用介电极化来调节局部电场，该方法为控制腐蚀和引导均匀金属沉积提供了一种有效手段。\n\n使用钛酸钡进行的额外实验表明，该机制并不固有地依赖于稀土或氟",
-          "content": "这项研究为金属阳极系统建立了一种通用的界面工程策略。通过利用介电极化来调节局部电场，这种方法提供了一种有效的手段来控制腐蚀并引导均匀的金属沉积。\n\n使用钛酸钡进行的额外实验表明，该机制并不固有地依赖于稀土或氟化物化学，这表明这些设计原则可以扩展到其他电池中，其中界面不稳定性限制了性能。\n\n随着开发更安全、更高能量和更持久的能源存储技术的不断努力，考虑腐蚀的界面工程可能为实际的下一代金属电池提供了一条宝贵的途径。 [...]\n\n### 理解由腐蚀驱动的容量损失\n\n可充电水性锌电池作为大规模能源存储的有希望的候选者正在出现，因为它们提供了低成本、固有安全性和锌金属的高理论容量。然而，它们的实际能量密度仍然受到负极需要大量过量锌的限制。这种过量锌作为储库，以补偿在重复循环过程中不可逆的锌损失，但它也增加了电池的重量和体积，降低了整体的能源存储效率。 [...]\n\n### 您可能感兴趣的新闻通讯\n\n   图像22：人工智能 人工智能（订阅或预览）   \n   图像23：电池制造 电池制造（订阅或预览）   \n   图像24：能源存储研究 能源存储研究（订阅或预览）   \n\n查看所有新闻通讯 »\n\n图像25：Azthena聊天标志\n\n您的AI驱动科学助手\n\n嗨，我是Azthena，您可以信赖我，从AZoNetwork.com找到商业科学答案。\n\n要开始对话，请先登录您的AZoProfile账户，或创建一个新账户。\n\n注册会员可以与Azthena聊天，请求报价，下载pdf文件，手册",
-          "source": "Azom",
-          "url": "https://www.azom.com/news.aspx?newsID=65530",
+          "title": "全国碳市场扩容，纳入钢铁水泥行业",
+          "summary": "碳交易市场覆盖范围扩大，推动高耗能行业绿色转型。",
+          "source": "生态环境部",
+          "url": "https://www.mee.gov.cn",
+          "time": "昨日",
+          "tag": "碳中和",
+          "image": "https://picsum.photos/seed/energy2/400/250"
+        },
+        {
+          "title": "光伏组件出口量同比增长 35%",
+          "summary": "中国光伏产品海外需求持续旺盛，欧洲和新兴市场为主要增长点。",
+          "source": "光伏們",
+          "url": "https://www.pvmen.com",
           "time": "今日",
-          "tag": "电池",
-          "image": "https://picsum.photos/seed/news35/400/250"
+          "tag": "光伏",
+          "image": "https://picsum.photos/seed/energy3/400/250"
+        },
+        {
+          "title": "氢能源重卡商业化运营启动",
+          "summary": "首批 100 辆氢燃料电池重卡投入物流干线运营。",
+          "source": "中国汽车报",
+          "url": "https://www.cnautonews.com",
+          "time": "3月2日",
+          "tag": "氢能",
+          "image": "https://picsum.photos/seed/energy4/400/250"
+        },
+        {
+          "title": "比亚迪发布第五代 DM 混动技术",
+          "summary": "百公里油耗降至 2.9L，综合续航超 2000 公里。",
+          "source": "比亚迪",
+          "url": "https://www.byd.com",
+          "time": "今日",
+          "tag": "BYD",
+          "image": "https://picsum.photos/seed/energy5/400/250"
         }
       ]
     }
   ],
-  "generatedAt": "2026-06-16T04:25:12.131Z",
+  "generatedAt": "2026-06-17T04:19:42.499Z",
   "version": "3.0.0",
   "source": "tavily-kimi"
 }
