@@ -44,7 +44,16 @@ app.get('/api/daily', (req, res) => {
 app.get('/api/daily/:date', (req, res) => {
   try {
     const { date } = req.params;
-    const data = loadData(path.join(DATA_DIR, `archive/${date}.json`));
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+      return res.status(400).json({ error: '日期格式不正确' });
+    }
+    const archiveDir = path.join(DATA_DIR, 'archive');
+    const availableFiles = fs.existsSync(archiveDir) ? fs.readdirSync(archiveDir) : [];
+    const fileName = availableFiles.find((f) => f === `${date}.json`);
+    if (!fileName) {
+      return res.status(404).json({ error: '未找到该日期日报' });
+    }
+    const data = loadData(path.join(archiveDir, fileName));
     if (!data) {
       return res.status(404).json({ error: '未找到该日期日报' });
     }
